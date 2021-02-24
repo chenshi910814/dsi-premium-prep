@@ -104,7 +104,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 
 ----------------------------------------------------------------
 # The Materials
-* Slide decks, linked from [this repo's README.md](https://github.com/clownfragment/prem_prep_jan19_2021)
+* Slide decks, linked from [this repo's README.md](https://github.com/GalvanizeOpenSource/dsi-premium-prep)
 * Supplemental Homework
 * Quick challenges posted in Slack
 
