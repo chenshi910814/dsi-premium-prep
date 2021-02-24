@@ -7,7 +7,7 @@
 ### Important Links
 [Zoom Link](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
 * Must be a registered user
-* See the Initialize Section in the [Learn materials](https://learn-2.galvanize.com/cohorts/2304) for the pword
+* See the Initialize Section in the [Learn materials](https://learn-2.galvanize.com/cohorts/2304/blocks/618/content_files/onboarding.md) for the pword
 
 [Galvanize Data Science YouTube Channel](https://www.youtube.com/galvanizedatascienceprep) SUBSCRIBE!
 
