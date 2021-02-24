@@ -55,8 +55,8 @@
 * Read the first 3 units in [Introduction to Python](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_course_overview.md)
     * [Welcome to Python](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_overview.md)
     * [About Python Programming](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/01_About_Python_Programming/00_overview.md)
+    * Complete all the challenges in [Python Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/02_Python_Basics/00_overview.md)
     
-    * Complete all the challenges in [Python Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/02_Python_Basics/00_unit_overview.md)
 * Install [VSCode](https://code.visualstudio.com/)
 * Set up a GitHub account (http://github.com)
     * Share your github username
