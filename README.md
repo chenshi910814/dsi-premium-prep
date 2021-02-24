@@ -60,7 +60,7 @@
 * Set up a GitHub account (http://github.com)
     * Share your github username
     * Follow [clownfragment](https://github.com/clownfragment) and [clarkwalker](https://github.com/ClarkWalker)
-    * Set up a [CodeWars](http://codewars.com ) account
+    * Set up a [CodeWars](http://codewars.com) account
 
 **HW solutions**: N/A
 
