@@ -64,7 +64,7 @@
 
 **HW solutions**: N/A
 
-**Video Lecture**: [Day 1 Lecture](https://youtu.be/9JB3s8nRFww)
+**Video Lecture**: [Day 1 Lecture]()
 
 
 ---------------------------------------------------------
@@ -81,7 +81,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 2 Lecture](https://youtu.be/grCb8QGRETA)
+**Video Lecture**: [Day 2 Lecture]()
 
 ---------------------------------------------------------
 ### Day 3: Thursday Jan 21 (6pm - 8pm Pacific)
@@ -102,7 +102,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 3 Lecture](https://youtu.be/MxV9j5XB-kk)
+**Video Lecture**: [Day 3 Lecture]()
 
 
 ---------------------------------------------------------
@@ -121,7 +121,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 4 Lecture](https://youtu.be/TfqqWp-8FWs)
+**Video Lecture**: [Day 4 Lecture]()
 
 ---------------------------------------------------------
 ### Day 5: Monday Jan 25 (6pm-8pm Pacific)
@@ -140,7 +140,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 5 Lecture](https://youtu.be/zZckRX7SDLc)
+**Video Lecture**: [Day 5 Lecture]()
 
 ---------------------------------------------------------
 ### Day 6: Tuesday Jan 26 (6pm - 8pm Pacific)
@@ -159,7 +159,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 6 Lecture](https://youtu.be/6ZSuyJkeNBo)
+**Video Lecture**: [Day 6 Lecture]()
 
 ---------------------------------------------------------
 ### Day 7: Wednesday Jan 27 (6pm - 8pm Pacific)
@@ -181,7 +181,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 7 Lecture](https://youtu.be/O1aDgSahVxE)
+**Video Lecture**: [Day 7 Lecture]()
 
 
 ---------------------------------------------------------
@@ -199,7 +199,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 8 Lecture](https://youtu.be/dQwgoOT2aAw)
+**Video Lecture**: [Day 8 Lecture]()
 
 ---------------------------------------------------------
 ### Day 9: Saturday Jan 30 (11am - 1pm Pacific)
@@ -223,7 +223,7 @@
 
 **HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
-**Video Lecture**: [Day 9 Lecture](https://youtu.be/x67ySG0XL1M)
+**Video Lecture**: [Day 9 Lecture]()
 
 ---------------------------------------------------------
 ### Day 10: Monday Feb 1 (6pm - 8:00pm Pacific)
@@ -238,7 +238,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 10](https://youtu.be/T43iyEB8sOg)
+**Video Lecture**: [Lecture 10]()
 
 ---------------------------------------------------------
 ### Day 11: Tuesday Feb 2 (6pm - 8pm Pacific)
@@ -253,7 +253,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 11](https://youtu.be/ytZNBrRGR5s)
+**Video Lecture**: [Lecture 11]()
 
 ---------------------------------------------------------
 ### Day 12: Wednesday Feb 3 (6pm - 8pm Pacific)
@@ -279,7 +279,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 13](https://youtu.be/-r3esGuwTFU)
+**Video Lecture**: [Lecture 13]()
 
 ---------------------------------------------------------
 ### Day 14: Saturday Feb 6 (11am - 1pm Pacific)
@@ -295,7 +295,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 14](https://youtu.be/CdHtkrf76Zg)
+**Video Lecture**: [Lecture 14]()
 
 ---------------------------------------------------------
 ### Day 15: Monday Feb 8 (6pm - 8:00pm Pacific) 
@@ -318,7 +318,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 15](https://youtu.be/BhVWx-nqQPw)
+**Video Lecture**: [Lecture 15]()
 
 ---------------------------------------------------------
 ### Day 16: Tuesday Feb 9 (6pm - 8pm Pacific)
@@ -335,7 +335,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 16](https://youtu.be/1fGq5hhPrCI)
+**Video Lecture**: [Lecture 16]()
 
 ---------------------------------------------------------
 ### Day 17: Wednesday Feb 10 (6pm - 8pm Pacific)
@@ -357,7 +357,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 17](https://youtu.be/E5VSsPpvIPE)
+**Video Lecture**: [Lecture 17]()
 
 ---------------------------------------------------------
 ### Day 18: Thursday Feb 11 (6pm - 8pm Pacific)
@@ -374,7 +374,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 18](https://youtu.be/eoW8ikO9rHE)
+**Video Lecture**: [Lecture 18]()
 
 ---------------------------------------------------------
 ### Day 19: Saturday Feb 13 (11am - 1pm Pacific)
@@ -392,7 +392,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 19](https://youtu.be/rFCrc72zIcc)
+**Video Lecture**: [Lecture 19]()
 
 ---------------------------------------------------------
 ### Day 20: Monday Feb 15 (6pm - 8pm Pacific)
@@ -407,7 +407,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 20](https://youtu.be/xlyD_uYL5Qc)
+**Video Lecture**: [Lecture 20]()
 
 
 ---------------------------------------------------------
@@ -428,7 +428,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 21](https://youtu.be/Y-gznsOr5bo)
+**Video Lecture**: [Lecture 21]()
 
 ---------------------------------------------------------
 ### Day 22: Wednesday Feb 17 (6pm - 8pm Pacific)
@@ -443,7 +443,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 22](https://youtu.be/UYgkLj4xTfY)
+**Video Lecture**: [Lecture 22]()
 
 
 ---------------------------------------------------------
@@ -460,7 +460,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 23](https://youtu.be/XmdoQTnilJ4)
+**Video Lecture**: [Lecture 23]()
 
 ---------------------------------------------------------
 ### Day 24: Saturday Feb 20 (11am - 1pm Pacific)
@@ -475,7 +475,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 24](https://youtu.be/ldG0VwRdgDg)
+**Video Lecture**: [Lecture 24]()
 
 ---------------------------------------------------------
 ### Day 25: Monday Feb 22 (6pm - 8:00pm Pacific)
@@ -491,7 +491,5 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 25](https://youtu.be/RfbdejptLeE)
+**Video Lecture**: [Lecture 25]()
 
----------------------------------------------------------
-We will share a link to an exit survey in Slack at the end of this course. Please feel free to complete this survey in order to help us improve our course. 
