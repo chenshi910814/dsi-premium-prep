@@ -94,10 +94,10 @@
 **HW assignment**: 
 * Complete the Day 1 Homework first (links above)
 * Complete all Challenges in these Learn Sections:
-    * [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
-    * [Scalar Types](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/04_Scalar_Types/00_unit_overview.md)
-    * [Basic Operators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/05_Basic_Operators/00_unit_overview.md)
-    * [Control Flow](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/06_Control_Flow/00_unit_overview.md)
+    * [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_overview.md)
+    * [Scalar Types](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/04_Scalar_Types/00_overview.md)
+    * [Basic Operators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/05_Basic_Operators/00_overview.md)
+    * [Control Flow](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/06_Control_Flow/00_overview.md)
 
 
 **HW Solutions**: N/A
@@ -116,8 +116,8 @@
 
 **HW assignment**:
 * Complete these Units on Learn:
-    * [List Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/07_List_Basics/00_unit_overview.md)
-    * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+    * [List Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/07_List_Basics/00_overview.md)
+    * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_overview.md)
 
 **HW Solutions**: N/A
 
@@ -129,14 +129,14 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_overview.md)
 * [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
 
 **HW assignment**: 
 * Learn Units in Intro Python:
-    * [List Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/09_List_Functions_and_Methods/00_unit_overview.md)
-    * [List Iteration](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_unit_overview.md)
-    * [Accumulators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/11_Accumulators/00_unit_overview.md)
+    * [List Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/09_List_Functions_and_Methods/00_overview.md)
+    * [List Iteration](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_overview.md)
+    * [Accumulators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/11_Accumulators/00_overview.md)
 
 **HW Solutions**: N/A
 
@@ -154,8 +154,8 @@
 
 **HW assignment**: 
 * Complete these Learn Units:
-    * [While Loops](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/13_While_Loops/00_unit_overview.md)
-    * [Strings](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/14_Strings/00_unit_overview.md)
+    * [While Loops](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/13_While_Loops/00_overview.md)
+    * [Strings](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/14_Strings/00_overview.md)
 
 **HW Solutions**: N/A
 
@@ -173,11 +173,11 @@
 
 **HW assignment**: 
 * Work through these Learn Units:
-    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_overview.md)
     * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
-    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
-    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
-    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_overview.md)
 
 **HW Solutions**: N/A
 
@@ -213,11 +213,11 @@
 **HW assignment**: 
 * [Python HW](https://colab.research.google.com/drive/1M_sZH5mJpNDIgGias0Q2Lz7rtFfO2HKc)
 * Wrap up these Units on Learn:
-    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_overview.md)
     * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
-    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
-    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
-    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_overview.md)
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
