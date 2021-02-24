@@ -1,20 +1,19 @@
 # Galvanize Data Science Immersive Premium Prep
-## January 18, 2021 - February 20, 2021
+## March 1st, 2021 - April 3rd, 2021
 
 ### NOTE: 
-* Class will begin Tuesday, January 19 in honor of Martin Luther King Jr Day on January 18
 * We will check in on the options of extending our Saturday class by 30 minutes or adding an additional day (Feb 22) to accommodate the holiday
 
 ### Important Links
 [Zoom Link](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
 * Must be a registered user
-* See the Initialize Section for the pword
+* See the Initialize Section in the [Learn materials](https://learn-2.galvanize.com/cohorts/2304) for the pword
 
 [Galvanize Data Science YouTube Channel](https://www.youtube.com/galvanizedatascienceprep) SUBSCRIBE!
 
 [Premium Prep Recordings](https://www.youtube.com/playlist?list=PL5T50pwCrPUo4-exqYI6sdDNaot7fr6AY)
 
-[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2303)
+[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2304)
 
 
 ### Other Helpful Resources
