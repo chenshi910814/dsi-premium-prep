@@ -2,6 +2,7 @@
 ## Instructors: Tovio Roberts/Clark Walker
 
 * Overview
+* Prem Prep Docs
 * Prep Goals and TI Expectations
 * The Materials
 * Study Hall and Mentoring
@@ -33,6 +34,14 @@
         * Clark Walker | clark.walker@galvanize.com
         * David Coleman (team admin) | david.coleman@galvanize.com
 
+
+<br><br><br><br><br><br><br><br><br>
+
+----------------------------------------------------------------
+# [Premium Prep Docs](https://github.com/GalvanizeOpenSource/dsi-premium-prep)
+* Our Schedule and Slides are kept in Markdown
+* This is the source of truth
+* Class recordings (hosted on YouTube) are posted here
 
 <br><br><br><br><br><br><br><br><br>
 
