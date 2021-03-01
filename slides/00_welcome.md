@@ -211,7 +211,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 * 45 minutes
 * Uses Jupyter Notebooks
 * To schedule, you’ll need to pass a coding challenge within the [admissions portal](https://admissions.galvanize.com/)
-* Once your python and stats skills are proficient, the [Technical Interview YT playlist](https://www.youtube.com/playlist?list=PL5T50pwCrPUofHFV-PuAD6av4uEteuara), is a great resource for gauging readiness for the TI
+* Once your python and stats skills are proficient, the [Technical Interview YouTube playlist](https://www.youtube.com/playlist?list=PL5T50pwCrPUofHFV-PuAD6av4uEteuara), is a great resource for gauging readiness for the TI
 
 
 
