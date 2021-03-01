@@ -79,6 +79,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
     * **Please Complete Work in our specific Learn cohort**
 * We monitor you closely to best advise you toward the Technical Interview
 * You should interview as soon as you’re ready!
+* If you are an advanced student, we encourage you to let us know so that we can give you other work to do. Premium Prep may not be the best track for you and we want to support you where you are at.
 
 
 <br><br><br><br><br><br><br><br><br>
