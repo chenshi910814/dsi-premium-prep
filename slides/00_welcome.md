@@ -279,7 +279,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 
 ----------------------------------------------------------------
 # Thinking Critically
-* Early in their education, many aspiring data scientists focus on learning all of the programming tools/languages, mathematics, technologies, etc . . . these are necessary tools, but what makes a great data scientist is:
+* Early in their education, many aspiring data scientists focus on learning all of the programming tools/languages, mathematics, technologies, etc . . . these are necessary tools, but what makes a great data scientist is more complex:
     * The ability to think critically about a problem, and approach a solution with a scientific/evidence based approach
     * The ability to ask the right question. Asking the question that will lead to an answer which will provide insight to the business, science, or research project they’re working on. 
     * A great data scientist is obsessed with solving complex problems, and will use any tool necessary to come up with an acceptable solution; even when that means they need to make a new tool themselves.
