@@ -2,6 +2,7 @@
 ## Instructors: Tovio Roberts/Clark Walker
 
 * Overview
+* Prem Prep Docs
 * Prep Goals and TI Expectations
 * The Materials
 * Study Hall and Mentoring
@@ -41,6 +42,7 @@
 * Our Schedule and Slides are kept in Markdown
 * This is the source of truth
 * Class recordings (hosted on YouTube) are posted here
+* We host these in GitHub in part to get you familiar with GitHub, which you'll be using extensively in your career
 
 <br><br><br><br><br><br><br><br><br>
 
