@@ -2,7 +2,6 @@
 ## Instructors: Tovio Roberts/Clark Walker
 
 * Overview
-* Prem Prep Docs
 * Prep Goals and TI Expectations
 * The Materials
 * Study Hall and Mentoring
