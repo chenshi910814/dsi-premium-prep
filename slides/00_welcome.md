@@ -231,9 +231,11 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 <br><br><br><br><br><br><br><br><br>
 
 ----------------------------------------------------------------
-# The Beginner’s Creed
-* [https://brennan.io/beginner/](https://brennan.io/beginner/)
-![Beginner's Creed](images/beginners_creed.png)
+# Understand that you are a beginner
+* You will struggle, and that's a good thing
+* "Even if you can't now, you will soon."
+* Everyone's path is different, so set your own benchmarks and work with us to gauge your readiness
+* See the [Beginner's Creed](https://brennan.io/beginner/)
 
 
 
