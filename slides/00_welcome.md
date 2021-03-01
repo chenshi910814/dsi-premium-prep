@@ -61,7 +61,7 @@
 ----------------------------------------------------------------
 # Lecture Recordings
 **We will be hosting recordings of these lectures on our [YouTube channel](https://www.youtube.com/channel/UC65Th93eDb2iuD-9fZVnjFg)**
-* We will update this GitHub repo with links to the recordings
+* We will update this [GitHub repo](https://github.com/GalvanizeOpenSource/dsi-premium-prep) with links to the recordings
 * To maintain privacy and anonymity, please do not say your name or the names of other students. 
     * We will edit those moments out if this occurs, which will delay making the vids available
 * We will not say your names. If you notice that we do or if we share any other student info, please inform us by direct message.
