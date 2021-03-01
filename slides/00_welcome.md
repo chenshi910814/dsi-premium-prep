@@ -138,7 +138,8 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 # Lecture Format
 * 2 hrs M-TH, + Saturday
 * We will not review hw in the lecture
-* Cover a topic 5-15 minutes, breakout for 3-7 minutes, rinse and repeat
+* Generally: Cover a topic 5-15 minutes, breakout for 3-7 minutes, rinse and repeat
+* Occasionally: A concept-heavier lecture with free form questions throughout
 * Question breaks (timeboxed to ~5 minutes)
     * Post questions in Slack, 
         * Unanswered questions will be followed up or one-on-one
@@ -183,7 +184,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 
 ----------------------------------------------------------------
 # Supplemental Materials
-* Do the [Further Studies](https://learn-2.galvanize.com/content_link/github/gSchool/ds-precourse/units/00_pair_programming/00_overview.md) materials on Learn
+* If you find yourself ahead or finished with the pre-TI materials, **take the TI**, then do the [Further Studies](https://learn-2.galvanize.com/content_link/github/gSchool/ds-precourse/units/00_pair_programming/00_overview.md) materials on Learn
     * These include most of the required PreCourse materials
 * Reach out for more work if you complete the challenges on Learn
 * Reach out after you pass the TI, for subject-specific resources or for materials geared toward your weaknesses
