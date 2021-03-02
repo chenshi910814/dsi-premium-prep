@@ -64,7 +64,7 @@
 
 **HW solutions**: N/A
 
-**Video Lecture**: [Day 1 Lecture]()
+**Video Lecture**: [Day 1 Lecture](https://youtu.be/yLxssxoJ9OA)
 
 
 ---------------------------------------------------------
