@@ -1,8 +1,6 @@
 # Galvanize Data Science Immersive Premium Prep
 ## March 1st, 2021 - April 3rd, 2021
 
-### NOTE: 
-* We will check in on the options of extending our Saturday class by 30 minutes or adding an additional day (Feb 22) to accommodate the holiday
 
 ### Important Links
 [Zoom Link](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
