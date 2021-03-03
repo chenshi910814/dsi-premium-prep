@@ -364,12 +364,29 @@ $P(D)=\frac{1}{1000}$
 
 $P(\text{not }D)=\frac{999}{1000}$
 
-$P(Pos|D)=0.99vc                                          rwhs$
+$P(Pos|D)=0.99$
+
+$P(Pos|\text{not }D)=0.02$
 
 ##### 3. Compute the Total Probability
 
+$$\begin{aligned}
+P(\text{Pos}) &= P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})} \\
+&= \frac{0.99 \cdot 0.001}{0.99 \cdot 0.001 + 0.02 \cdot 0.999} \\
+&= 0.02097
+\end{aligned}
+$$
+
 ##### 4. Plug in and compute
 
+$$\begin{aligned}
+P(D|\text{Pos}) &= \frac{P(\text{Pos}|D) \cdot P(D)}{P(\text{Pos})} \\
+&= \frac{0.99 \cdot 0.001}{P(\text{Pos})} \\
+&= \frac{0.99 \cdot 0.001}{P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})} \\
+&= \frac{0.99 \cdot 0.001}{0.02097} \\
+&= 0.04721
+\end{aligned}
+$$
 
 **Solution: 0.04721 or 4.721%**
 
