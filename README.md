@@ -79,7 +79,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 2 Lecture]()
+**Video Lecture**: [Day 2 Lecture](https://youtu.be/Cje07M1a25E)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday Mar 3 (6pm - 8pm Pacific)
