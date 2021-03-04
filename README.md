@@ -100,7 +100,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 3 Lecture]()
+**Video Lecture**: [Day 3 Lecture](https://youtu.be/mYHo4q3F2Ug)
 
 
 ---------------------------------------------------------
