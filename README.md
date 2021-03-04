@@ -79,7 +79,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 2 Lecture]()
+**Video Lecture**: [Day 2 Lecture](https://youtu.be/Cje07M1a25E)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday Mar 3 (6pm - 8pm Pacific)
@@ -87,7 +87,7 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Python Variables and Control Flow](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/03_python_variables_and_control_flow)
+* [Python Variables and Control Flow](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/03_python_variables_and_control_flow.md)
 
 **HW assignment**: 
 * Complete the Day 1 Homework first (links above)
