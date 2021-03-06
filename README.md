@@ -119,7 +119,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 4 Lecture]()
+**Video Lecture**: [Day 4 Lecture](https://youtu.be/lBYpLw7uGbM)
 
 ---------------------------------------------------------
 ### Day 5: Saturday Mar 6 (11am-1pm Pacific)
