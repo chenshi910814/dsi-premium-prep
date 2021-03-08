@@ -207,7 +207,7 @@ def is_this_equal_to_7():
 print( is_this_equal_to_7() )
 
 #######################################################"""
-# """un/comment to de/activate ###########################
+"""un/comment to de/activate ###########################
 
 def add_10( b ):
     a = 10
