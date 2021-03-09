@@ -157,7 +157,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 6 Lecture (to be posted)]()
+**Video Lecture**: [Day 6 Lecture](https://youtu.be/YC3pa5dMqoo)
 
 ---------------------------------------------------------
 ### Day 7: Tuesday Mar 9 (6pm - 8pm Pacific)
