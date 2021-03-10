@@ -179,7 +179,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 7 Lecture (to be posted)]()
+**Video Lecture**: [Day 7 Lecture](https://youtu.be/DlbBo_OWpu4)
 
 
 ---------------------------------------------------------
