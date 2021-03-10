@@ -41,11 +41,12 @@ nested_list = [[2, 3, 4], [2, 1, 5]]
 
 ---------------------------------------------------------------
 # `range` Function
-* The `range` function helps us create a `list` of contiguous integers.
+* The `range` function helps us create a `list` of integers.
 * Syntax:
     * `range(start, stop, step)`
     * Start is inclusive, stop is not
-* Returns an iterator object. Need to cast this object to a list so that we can work with it at this stage.
+* `range` is an object that can help us to iterate over a series of numbers.
+* `range` can provide indices for items in a `list` or in a pair of lists
 
 ```python
 one_to_99 = list(range(1,99+1))
