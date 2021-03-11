@@ -8,6 +8,7 @@ def mean(lst, trim=0):
 
 a = [1, 5, 7, 10, 15, 23, 35, 67, 220, 2000]
 
-print(mean(a)) # 238.3
-print(mean(a, trim=1)) # 47.75
-print(mean(a, trim=2))
+# print(mean(a)) # 238.3
+# print(mean(a, trim=1)) # 47.75
+# print(mean(a, trim=2)) # 26.16
+
