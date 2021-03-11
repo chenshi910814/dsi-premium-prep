@@ -77,3 +77,6 @@ mode_lst = ['swimming', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing
 # print(max(mode_lst))
 
 
+
+
+max(set(lst), key=lst.count)
