@@ -52,3 +52,7 @@ even_list = [15, 14, 10, 8, 12, 8, 16, 13]
 # print()
 # print(sorted(even_list))
 # print(median(even_list))
+
+
+house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+
