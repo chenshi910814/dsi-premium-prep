@@ -197,7 +197,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 8 Lecture (to be posted)]()
+**Video Lecture**: [Day 8 Lecture](https://youtu.be/1mbNRGKgMS8)
 
 ---------------------------------------------------------
 ### Day 9: Thursday Mar 11 (6pm - 8pm Pacific)
