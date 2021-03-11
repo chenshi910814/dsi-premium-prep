@@ -74,3 +74,4 @@ def mode(lst):
 mode_lst = ['juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'juggling']
 
 print(mode(mode_lst))
+print(max(mode_lst))
