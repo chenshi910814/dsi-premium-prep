@@ -6,6 +6,14 @@
 * Why Statistics?
 * Measures of Centrality
 * Continuous vs Discrete Data
+* Measures of Central Tendency
+    * Mean
+    * Median
+    * Mode
+* Measures of variance or “spread”
+    * Variance
+    * Standard Deviation
+
 
 <br><br><br><br><br><br><br><br><br>
 
