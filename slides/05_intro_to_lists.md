@@ -123,7 +123,7 @@ one_to_99 = list(range(1,99+1))
 * How do you slice `num_list` to get this sublist: `[10, 11, 12, 13, 14, 15]`
     * `print(num_list[6:13])`
 * How do you slice `num_list` to get this sublist: `[4, 6, 8, 10, 12, 14]`
-    * `print(num_list[6:13])`
+    * `print(num_list[::2]`
 * Challenge: How do you slice `num_list` to get this sublist: `[8, 7, 6, 5, 4]`
     * `print(num_list[4::-1])`
 
