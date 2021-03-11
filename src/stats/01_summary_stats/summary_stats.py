@@ -66,7 +66,7 @@ def mode(lst):
     modal_val = lst[0]
 
     for item in lst[1:]:
-        if lst.count(item) > lst.count(modal_val):
+        if lst.count(item) >= lst.count(modal_val):
             modal_val = item
     
     return modal_val
