@@ -71,7 +71,7 @@ def mode(lst):
     
     return modal_val
 
-mode_lst = ['swimming', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'juggling', 'zebra watching']
+mode_lst = ['swimming', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'juggling', 'zebra watching', 'skydiving', 'fencing']
 
 # print(mode(mode_lst))
 # print(max(mode_lst))
