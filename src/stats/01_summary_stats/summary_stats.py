@@ -61,3 +61,16 @@ house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 # print(sorted(house_prices))
 # print(f'Mean: {round(mean(house_prices))}')
 # print(f'Median: {round(median(house_prices))}')
+
+def mode(lst):
+    modal_val = lst[0]
+
+    for item in lst[1:]:
+        if lst.count(item > lst.count(modal_val)):
+            modal_val = item
+    
+    return modal_val
+
+mode_lst = ['juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing', 'skydiving', 'juggling', 'juggling']
+
+print(mode(mode_lst))
