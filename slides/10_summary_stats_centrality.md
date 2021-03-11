@@ -5,14 +5,8 @@
 # Statistics: Measures of Centrality
 * Why Statistics?
 * Measures of Centrality
+* Sampling
 * Continuous vs Discrete Data
-* Measures of Central Tendency
-    * Mean
-    * Median
-    * Mode
-* Measures of variance or “spread”
-    * Variance
-    * Standard Deviation
 
 
 <br><br><br><br><br><br><br><br><br>
