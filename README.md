@@ -221,7 +221,7 @@
 
 **HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
-**Video Lecture**: [Day 9 Lecture (to be posted)]()
+**Video Lecture**: [Day 9 Lecture](https://youtu.be/_1p6KAo8Eo4)
 
 ---------------------------------------------------------
 ### Day 10: Saturday Mar 13 (11am - 1:00pm Pacific)
