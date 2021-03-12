@@ -10,7 +10,7 @@
 # The `string` datatype
 * Strings are simply a collection of characters
 * However, in Python, a `string` is a scalar type and is immutable
-* Strings are declared with single, double, or triple quotes. 
+* Strings are declared with single tick or ,double tick, quotes in groups of 1 or 3 in the beginning and end.
     * Mostly interchangeable. Single and double quotes only work with strings that span one line. 
     * Strings that span multiple lines need to be declared using triple quotes.
 
@@ -18,10 +18,10 @@
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# Basic `string` Operators 
+# Basic `string` Operators
 * We can use the addition operator to concatenate strings.
     * `'My first string ' + 'My second string'` => `'My first stringMy second string'`
-* The multiplication operator will repeat the string `n` times. 
+* The multiplication operator will repeat the string `n` times.
     * `'Repeating string' * 3` => `'Repeating stringRepeating stringRepeating string'`
 
 
@@ -34,17 +34,17 @@
 * Not every `string` can be cast to another data type.
     * `int('a')` will not work
 * String concatenation will only work between strings
-    * Need to cast any numeric variables to a `string` before concatenating. 
+    * Need to cast any numeric variables to a `string` before concatenating.
 
 
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
 # Join a `list` to create a `string`
-* Use the `join` `string` method to create a single `string` that contains all the elements of a `list`. 
+* Use the `join` `string` method to create a single `string` that contains all the elements of a `list`.
     * `''.join(list)`
 * All the elements of the `list` must be strings for the `join` method to work
-    * You can use the `map` function to quickly cast all the elements of a `list` to strings 
+    * You can use the `map` function to quickly cast all the elements of a `list` to strings
     * `list(map(str, list))`
 
 
@@ -62,7 +62,7 @@
 
 ---------------------------------------------------------------
 # `string` membership
-* Check if a string is a substring of another string using the in keyword. 
+* Check if a string is a substring of another string using the in keyword.
     * `'str' in 'string'`
     * Returns a boolean
 
@@ -137,7 +137,7 @@ def add_underscores(feature_list):
 
 ---------------------------------------------------------------
 # The `split()` Method
-* Quick aside: Strings are immutable so methods will not change the `string` in place like with lists. 
+* Quick aside: Strings are immutable so methods will not change the `string` in place like with lists.
 * This method splits a `string` at each occurrence of a specified delimiter and will return a list with each split substring.
     * `string.split(delimiter)`
 * The delimiter will not be included in the returned `list`
@@ -171,7 +171,7 @@ def add_underscores(feature_list):
 
 ---------------------------------------------------------------
 # BREAKOUT (8 minutes)
-Write a function that takes in a string. Return two parallel lists: one that contains the unique characters in the string and another that has the number of times that character appears in the original string. 
+Write a function that takes in a string. Return two parallel lists: one that contains the unique characters in the string and another that has the number of times that character appears in the original string.
 
 ```python
 s = 'This is a string, we want you to count how many times each unique character appears in this string!'
@@ -225,7 +225,7 @@ def get_letter_count(string):
             counts.append(1)
         else:
             counts[letters.index(let)] += 1
-    
+
     return letters, counts
 
 letters, counts = get_letter_count(s)
@@ -258,6 +258,6 @@ def get_letter_count(string):
             counts.append(string.count(let))
         else:
             continue
-    
+
     return letters, counts
 ```
