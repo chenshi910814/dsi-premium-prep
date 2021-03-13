@@ -92,5 +92,7 @@ samples = []
 for _ in range(5):
     samples.append(choice(sample_range))
 
-print(f'Mu: {mean(sample_range)}')
-print(f'xbar:{mean(samples)}')
+# print(f'Mu: {mean(sample_range)}')
+# print(f'xbar:{mean(samples)}')
+
+
