@@ -83,4 +83,6 @@ mode_lst = ['swimming', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing
 
 
 
+from random import choice
 
+print(choice([1, 2, 'cat']))
