@@ -103,7 +103,7 @@ def five_number_summary(lst):
     
     sorted_lst = sorted(lst)
 
-    if len(lst) % == 1:
+    if len(lst) % 2 == 1:
         lower_half = sorted_lst[0:int(len(lst)/2)]
         upper_half = sorted_lst[int(len(lst)/2)+1:]
     else:
