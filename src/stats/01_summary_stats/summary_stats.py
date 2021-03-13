@@ -103,5 +103,8 @@ def five_number_summary(lst):
 even_test_dat = list(range(0, 99+1))
 odd_test_dat = list(range(0, 100+1))
 
-print(five_number_summary(even_test_dat))
-print(five_number_summary(odd_test_dat))
+# print(five_number_summary(even_test_dat))
+# print(five_number_summary(odd_test_dat))
+
+
+
