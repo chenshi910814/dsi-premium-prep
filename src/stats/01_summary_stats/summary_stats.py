@@ -97,20 +97,8 @@ for _ in range(5):
 
 
 def five_number_summary(lst):
-    min_ = min(lst)
-    max_ = max(lst)
-    med = median(lst)
-    
-    sorted_lst = sorted(lst)
+    return min(lst), median(sorted(lst)[0:int(len(lst)/2)]), median(lst), median(sorted(lst)[int(len(lst)/2)+(len(lst) % 2):]), max(lst)
 
-
-    # lower_half = sorted_lst[0:int(len(lst)/2)]
-    # upper_half = sorted_lst[int(len(lst)/2)+(len(lst) % 2):]
-
-    # q1 = median(lower_half)
-    # q3 = median(upper_half)
-
-    return min_, median(sorted_lst[0:int(len(lst)/2)]), med, median(sorted_lst[int(len(lst)/2)+(len(lst) % 2):]), max_
 
 even_test_dat = list(range(0, 99+1))
 odd_test_dat = list(range(0, 100+1))
