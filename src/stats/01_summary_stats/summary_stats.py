@@ -97,9 +97,11 @@ for _ in range(5):
 
 
 def five_number_summary(lst):
-    pass
+    min_ = min(lst)
+    max_ = max(lst)
+    med = median(lst)
     
-
+    return min_, med, max_
 
 test_dat = list(range(1, 100+1))
 
