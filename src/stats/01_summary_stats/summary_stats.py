@@ -177,7 +177,7 @@ test_outliers.append(90_000)
 test_outliers.append(90_000)
 test_outliers.append(5_000)
 
-print(detect_outliers(test_outliers, outlier_coef=500))
+print(detect_outliers(test_outliers, outlier_coef=1.5))
 print(remove_outliers(test_outliers))
 
 
