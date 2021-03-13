@@ -115,7 +115,7 @@ def five_number_summary(lst):
 
     return min_, q1, med, q3, max_
 
-even_test_dat = list(range(1, 100+1))
+even_test_dat = list(range(0, 99+1))
 odd_test_dat = list(range(0, 100+1))
 
 print(five_number_summary(even_test_dat))
