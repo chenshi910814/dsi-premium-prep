@@ -131,8 +131,10 @@ def iqr(lst):
 a = list(range(0, 50+1, 5)) 
 b = list(range(0, 100+1, 5))
 
-print(a)
-print(iqr(a))
-print
-print(b)
-print(iqr(b))
+# print(a)
+# print(iqr(a))
+# print
+# print(b)
+# print(iqr(b))
+
+
