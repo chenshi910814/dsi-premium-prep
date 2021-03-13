@@ -101,9 +101,12 @@ def five_number_summary(lst):
     max_ = max(lst)
     med = median(lst)
     
+
+
     return min_, med, max_
 
-test_dat = list(range(1, 100+1))
+even_test_dat = list(range(1, 100+1))
+odd_test_dat = list(range(0, 100+1))
 
-
-print(five_number_summary(test_dat))
+print(five_number_summary(even_test_dat))
+print(five_number_summary(odd_test_dat))
