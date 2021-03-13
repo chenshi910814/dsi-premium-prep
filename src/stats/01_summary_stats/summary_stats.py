@@ -104,13 +104,13 @@ def five_number_summary(lst):
     sorted_lst = sorted(lst)
 
 
-    lower_half = sorted_lst[0:int(len(lst)/2)]
-    upper_half = sorted_lst[int(len(lst)/2)+(len(lst) % 2):]
+    # lower_half = sorted_lst[0:int(len(lst)/2)]
+    # upper_half = sorted_lst[int(len(lst)/2)+(len(lst) % 2):]
 
-    q1 = median(lower_half)
-    q3 = median(upper_half)
+    # q1 = median(lower_half)
+    # q3 = median(upper_half)
 
-    return min_, q1, med, q3, max_
+    return min_, median(sorted_lst[0:int(len(lst)/2)]), med, median(sorted_lst[int(len(lst)/2)+(len(lst) % 2):]), max_
 
 even_test_dat = list(range(0, 99+1))
 odd_test_dat = list(range(0, 100+1))
