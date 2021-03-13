@@ -119,5 +119,6 @@ def output_breakout(lst):
     print(median(lst))
     print()
 
-output_breakout(a)
-output_breakout(b)
+# output_breakout(a)
+# output_breakout(b)
+
