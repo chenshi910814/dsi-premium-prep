@@ -101,7 +101,9 @@ def five_number_summary(lst):
     max_ = max(lst)
     med = median(lst)
     
+    sorted_lst = sorted(lst)
 
+    
 
     return min_, med, max_
 
