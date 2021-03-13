@@ -96,3 +96,12 @@ for _ in range(5):
 # print(f'xbar:{mean(samples)}')
 
 
+def five_number_summary(lst):
+    pass
+    
+
+
+test_dat = list(range(1, 100+1))
+
+
+print(five_number_summary(test_dat))
