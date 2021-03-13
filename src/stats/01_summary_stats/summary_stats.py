@@ -153,7 +153,8 @@ def detect_outliers(lst, outlier_coef=1.5):
     return outliers
 
 
-def remove_outliers(lst, outlier_coef=1.5):
+def remove_outliers(lst_, outlier_coef=1.5):
+    lst = lst_.copy()
     outliers = detect_outliers(lst, outlier_coef)
 
     for outlier in outliers:
