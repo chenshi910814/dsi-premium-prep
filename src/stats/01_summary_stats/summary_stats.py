@@ -87,4 +87,4 @@ from random import choice
 
 sample_range = list(range(0, 99+1))
 
-print(range(0, 99+1))
+print(sample_range)
