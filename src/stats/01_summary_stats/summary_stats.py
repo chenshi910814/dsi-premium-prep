@@ -165,6 +165,7 @@ def remove_outliers(lst_, outlier_coef=1.5):
 
 test_outliers = list(range(0,20))
 test_outliers.append(90_000)
+test_outliers.append(90_000)
 test_outliers.append(5_000)
 
 print(detect_outliers(test_outliers, outlier_coef=1.5))
