@@ -258,7 +258,9 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
+**Slide Decks**:
+* [Finish up: Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md) 
+* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
 
 **HW assignment**: N/A
 
