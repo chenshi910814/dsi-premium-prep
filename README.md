@@ -236,7 +236,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 10]()
+**Video Lecture**: [Lecture 10](https://youtu.be/rBAPWUIaWnc)
 
 ---------------------------------------------------------
 ### Day 11: Monday Mar 15 (6pm - 8pm Pacific)
