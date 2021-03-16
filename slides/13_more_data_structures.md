@@ -70,7 +70,7 @@ NOTE: Consider "cleaning" the string from punctuation. Also consider lower-casin
 
 ---------------------------------------------------------------
 # Review: Tuples
-* Tuples are ordered collections 
+* Tuples are ordered collections
 * Tuples are very similar to lists with two key differences:
     * Tuples are immutable.
     * Tuples are declared using parenthesis.
@@ -118,8 +118,8 @@ def square_dict():
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# BREAKOUT (5 minutes) cont’d on next slide
-Write a function that takes in a string. Return a dictionary where the keys represent unique characters in the string and the values represent the number of times that character appears in the original string. 
+# BREAKOUT (5 minutes)
+Write a function that takes in a string. Return a dictionary where the keys represent unique characters in the string and the values represent the number of times that character appears in the original string.
 s = 'This is a string, we want you to count how many times each unique character appears in this string!'
 
 Docstring and starter code:
@@ -127,14 +127,14 @@ Docstring and starter code:
 ```python
 def num_chars(s):
     '''
-    function that takes in a string and parses through 
-    identifying how many characters are in each word, 
-    assuming a whitespace is what separates your words 
+    function that takes in a string and parses through
+    identifying how many characters are in each word,
+    assuming a whitespace is what separates your words
     parameters:
         s: str - a string
 
     returns:
-        A dictionary, where the keys are the words and the 
+        A dictionary, where the keys are the words and the
         values are the number of characters in each word
     '''
     pass
@@ -173,7 +173,7 @@ def word_letter_count(string):
 ---------------------------------------------------------------
 # `zip()`
 You know how to iterate over a single data structure, but what if you have parallel lists? How can we iterate over these at the same time?
-Syntax: 
+Syntax:
 
 ```python
 for i, j in zip(lst1, lst2):
@@ -184,10 +184,18 @@ for i, j in zip(lst1, lst2):
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# BREAKOUT (5 minutes) 
-Write a function that prompts the user to input numbers separated by commas. Your script will then take these inputted numbers and store them as a list of tuples, two at a time. Use the zip() function to do this.  If the user inputs an odd number of numbers, then only make a list of the largest number of pairs of two that are possible.
+# BREAKOUT (5 minutes)
+<!-- Write a function that prompts the user to input numbers separated by commas. Your script will then take these inputted numbers and store them as a list of tuples, two at a time. Use the zip() function to do this.  If the user inputs an odd number of numbers, then only make a list of the largest number of pairs of two that are possible. -->
+Write a function that takes a string of numbers separated by commas. Your script will then take these numbers and store them as a list of tuples, two at a time. Use the zip() function to do this.  If the user inputs an odd number of numbers, then only make a list of the largest number of pairs of two that are possible.
 
-Example: If you inputted the numbers `'1, 2, 3, 4, 5, 6'`, your function should return `[(1, 2), (3, 4), (5, 6)]`. If you inputted the numbers `1, 2, 3, 4, 5`, your function should return `[(1, 2), (3, 4)]`.
+Example: If you inputted the numbers:\
+    `'1, 2, 3, 4, 5, 6'`\
+your function should return\
+    `[(1, 2), (3, 4), (5, 6)]`\
+If you inputted the numbers\
+    `'1, 2, 3, 4, 5'`\
+your function should return\
+    `[(1, 2), (3, 4)]`
 
 
 <br><br><br><br><br><br><br><br><br>
