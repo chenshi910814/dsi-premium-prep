@@ -34,6 +34,12 @@
 
 [Derivative Calculator](https://www.derivative-calculator.net/) : For checking Calculus work
 
+### Fun DS Stuff
+
+[Tech Pivot](https://www.galvanize.com/techpivot) : A podcast put on by members of Galvanize, exploring topics in Software Engineering and Data Science
+* [Tech Pivot on Spotify](https://open.spotify.com/show/5hsVXoBEshedfp4P9HSmTC)
+* [Tech Pivot on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-tech-pivot/id1547353713?uo=4&itscg=30200&itsct=podcast_box)
+
 [Visual Go](https://visualgo.net/en) : A language-agnostic tour of data structures and algorithms
 
 ---------------------------------------------------------
