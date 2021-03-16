@@ -221,7 +221,7 @@
 
 **HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
-**Video Lecture**: [Day 9 Lecture (to be posted)]()
+**Video Lecture**: [Day 9 Lecture](https://youtu.be/_1p6KAo8Eo4)
 
 ---------------------------------------------------------
 ### Day 10: Saturday Mar 13 (11am - 1:00pm Pacific)
@@ -236,7 +236,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 10]()
+**Video Lecture**: [Lecture 10](https://youtu.be/rBAPWUIaWnc)
 
 ---------------------------------------------------------
 ### Day 11: Monday Mar 15 (6pm - 8pm Pacific)
@@ -258,7 +258,9 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
+**Slide Decks**:
+* [Finish up: Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md) 
+* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
 
 **HW assignment**: N/A
 

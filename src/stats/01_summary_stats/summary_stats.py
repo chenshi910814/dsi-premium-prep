@@ -82,3 +82,103 @@ mode_lst = ['swimming', 'juggling', 'skydiving', 'baseball', 'fencing', 'fencing
 # print(max(set(mode_lst), key=mode_lst.count))
 
 
+
+from random import choice
+
+sample_range = list(range(0, 99+1))
+
+samples = []
+
+for _ in range(5):
+    samples.append(choice(sample_range))
+
+# print(f'Mu: {mean(sample_range)}')
+# print(f'xbar:{mean(samples)}')
+
+
+def five_number_summary(lst):
+    return min(lst), median(sorted(lst)[0:int(len(lst)/2)]), median(lst), median(sorted(lst)[int(len(lst)/2)+(len(lst) % 2):]), max(lst)
+
+
+even_test_dat = list(range(0, 99+1))
+odd_test_dat = list(range(0, 100+1))
+
+# print(five_number_summary(even_test_dat))
+# print(five_number_summary(odd_test_dat))
+
+
+
+a = [15,2,9,5,6,7,27,12,18,19,1]
+b = [6,1,4,51,7,16,10,14,46,22,24,56,48,54]
+
+
+def output_breakout(lst):
+    print(sorted(lst))
+    print(five_number_summary(lst))
+    print(mean(lst))
+    print(median(lst))
+    print()
+
+# output_breakout(a)
+# output_breakout(b)
+
+
+
+def iqr(lst):
+    _, q1, _, q3, _ = five_number_summary(lst)
+    return q3 - q1
+
+a = list(range(0, 50+1, 5)) 
+b = list(range(0, 100+1, 5))
+
+# print(a)
+# print(median(a))
+# print(iqr(a))
+# print
+# print(b)
+# print(median(b))
+# print(iqr(b))
+
+
+def detect_outliers(lst, outlier_coef=1.5):
+    _, q1, _, q3, _ = five_number_summary(lst)
+    iqr_ = iqr(lst)
+
+    outliers = []
+
+    for num in lst:
+        if (num < q1 - outlier_coef*iqr_) or num > q3 + outlier_coef*iqr_:
+            outliers.append(num)
+
+    return outliers
+
+
+def remove_outliers(lst_, outlier_coef=1.5):
+    # outliers = detect_outliers(lst, outlier_coef)
+    # output = []
+
+    # for num in lst:
+    #     if num not in outliers:
+    #         output.append(num)
+
+    # return output
+
+    lst = lst_.copy()
+    outliers = detect_outliers(lst, outlier_coef)
+
+    for outlier in outliers:
+        if outlier in lst:
+            lst.remove(outlier)
+
+    return lst
+
+test_outliers = list(range(0,20))
+test_outliers.append(90_000)
+test_outliers.append(90_000)
+test_outliers.append(5_000)
+
+# print(detect_outliers(test_outliers, outlier_coef=1.5))
+# print(remove_outliers(test_outliers))
+
+
+
