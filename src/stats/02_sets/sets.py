@@ -136,5 +136,8 @@ A = ['bat', 'cat', 'dog', 'weasel', 'dolphin', 'zebra']
 B = ['dog', 'weasel', 'dolphin', 'zebra', 'squirrel', 'vole']
 C = ['dolphin', 'zebra', 'squirrel', 'vole', 'manatee', 'sloth']
 
-print(difference(A, B))
-print(difference(B, A))
+# print(difference(A, B))
+# print(difference(B, A))
+
+
+
