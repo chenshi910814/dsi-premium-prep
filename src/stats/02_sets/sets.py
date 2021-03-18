@@ -144,3 +144,5 @@ C = ['dolphin', 'zebra', 'squirrel', 'vole', 'manatee', 'sloth']
 '''
 Complement
 '''
+
+sample_space = union_mult_sets()
