@@ -24,6 +24,8 @@ for pet_outcome in pet_outcomes:
 
 
 
-for item in two_or_more_cats:
-    print(item)
-print(len(two_or_more_cats) / len(pet_outcomes))
+# for item in two_or_more_cats:
+#     print(item)
+# print(len(two_or_more_cats) / len(pet_outcomes))
+
+
