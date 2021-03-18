@@ -137,3 +137,4 @@ B = ['dog', 'weasel', 'dolphin', 'zebra', 'squirrel', 'vole']
 C = ['dolphin', 'zebra', 'squirrel', 'vole', 'manatee', 'sloth']
 
 print(difference(A, B))
+print(difference(B, A))
