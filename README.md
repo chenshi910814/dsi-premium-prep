@@ -277,8 +277,6 @@
 ---------------------------------------------------------
 ### Day 13: Wednesday Mar 17 (6pm - 8pm Pacific)
 
-### Day 14: Thursday Mar 18 (6pm - 8pm Pacific)
-
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -291,10 +289,13 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 13]()
+**Video Lecture**: [Lecture 13](https://youtu.be/eENPD-lNHWU
+)
 
 
 ---------------------------------------------------------
+### Day 14: Thursday Mar 18 (6pm - 8pm Pacific)
+
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
