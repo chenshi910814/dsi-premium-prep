@@ -154,4 +154,4 @@ def complement(sample_space, lst):
     return difference(sample_space, lst)
 
 
-print(complement(sample_space, A))
+# print(complement(sample_space, A))
