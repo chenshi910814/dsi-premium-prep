@@ -111,3 +111,15 @@ def intersection_mult(*mult_sets):
 
 # print(intersection_mult(A, B, C))
 
+
+
+'''
+Set Difference
+'''
+
+# A = {1, 2, 3, 4}
+# B = {3, 4, 5, 6}
+
+# A - B => {1, 2}
+# B - A => {5, 6}
+
