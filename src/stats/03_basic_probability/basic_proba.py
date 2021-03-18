@@ -67,4 +67,7 @@ for outcome in four_flips:
     if outcome.count('H') == 3:
         three_heads.append(outcome)
 
-print(len(three_heads) / len(four_flips))
+# print(len(three_heads) / len(four_flips))
+
+
+'''What is the probability that in 12 coin flips, you get exactly 3 heads?'''
