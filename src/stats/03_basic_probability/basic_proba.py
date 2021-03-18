@@ -23,4 +23,7 @@ for pet_outcome in pet_outcomes:
         two_or_more_cats.append(pet_outcome)
 
 
+
+for item in two_or_more_cats:
+    print(item)
 print(len(two_or_more_cats) / len(pet_outcomes))
