@@ -44,3 +44,12 @@ def series_of_flips(n):
 # print(series_of_flips(10000).count('H'))
 
 
+def four_flip_sample_space():
+    flips = ['H', 'T']
+    outcomes = []
+
+    for flip1 in flips:
+        for flip2 in flips:
+            for flip3 in flips:
+                for flip4 in flips:
+                    outcomes.append([flip1, flip2, flip3, flip4])
