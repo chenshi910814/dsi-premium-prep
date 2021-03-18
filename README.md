@@ -257,7 +257,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 11]()
+**Video Lecture**: [Lecture 11](https://youtu.be/ACSl_rTUkHk)
 
 ---------------------------------------------------------
 ### Day 12: Tuesday Mar 16 (6pm - 8pm Pacific)
@@ -272,27 +272,17 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 12](https://youtu.be/ZOXw4kkJA8o)
+**Video Lecture**: [Lecture 12](https://youtu.be/s__H2JsS2Y0)
 
 ---------------------------------------------------------
 ### Day 13: Wednesday Mar 17 (6pm - 8pm Pacific)
 
-**Instructor**: Clark Walker
-
-**Slide Deck**: [Function Practice 1](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/18_function_practice_1.md)
-
-**HW assignment**: N/A
-
-**HW Solutions**: N/A
-
-**Video Lecture**: [Lecture (to be posted) 13]()
-
----------------------------------------------------------
 ### Day 14: Thursday Mar 18 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
+* [Finish Up Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
 * [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
 
@@ -301,11 +291,10 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 14]()
+**Video Lecture**: [Lecture (to be posted) 13]()
+
 
 ---------------------------------------------------------
-### Day 15: Saturday Mar 20 (11am - 1:00pm Pacific) 
-
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -321,6 +310,21 @@
 * Read the [Heap’s Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm) for permutations page on Wikipedia
     * Bonus: Write the Heap’s Algorithm in Python
     * Bonus x 2: Revise the brute force Combinations Intuition code in the GH repo to be more optimal, as in, look for a combinations algorithm and implement it. (Here’s one option: [https://www.youtube.com/watch?v=VyXDQxuIwPU)](https://www.youtube.com/watch?v=VyXDQxuIwPU))
+
+**HW Solutions**: N/A
+
+**Video Lecture**: [Lecture (to be posted) 14]()
+
+
+
+---------------------------------------------------------
+### Day 15: Saturday Mar 20 (11am - 1:00pm Pacific) 
+
+**Instructor**: Clark Walker
+
+**Slide Deck**: [Function Practice 1](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/18_function_practice_1.md)
+
+**HW assignment**: N/A
 
 **HW Solutions**: N/A
 

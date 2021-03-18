@@ -182,3 +182,36 @@ test_outliers.append(5_000)
 
 
 
+def variance(lst, sample=True):
+    mean_ = mean(lst)
+    total = 0
+
+    for item in lst:
+        total += (item - mean_)**2
+
+    return total / (len(lst) - sample)
+
+from math import sqrt
+
+def stdev(lst, sample=True):
+    return sqrt(variance(lst, sample))
+
+
+house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+
+# Find variance
+print(sorted(house_prices))
+print(f'Mean: {mean(house_prices)}')
+
+print(f'Sample Variance: {round(variance(house_prices, sample=True))}')
+print(f'Sample Stdev: {round(stdev(house_prices, sample=True))}')
+
+print('\n Removing Outliers')
+
+house_prices_outliers_rmvd = remove_outliers(house_prices)
+
+print(sorted(house_prices_outliers_rmvd))
+print(f'Mean: {mean(house_prices_outliers_rmvd)}')
+
+print(f'Sample Variance: {round(variance(house_prices_outliers_rmvd, sample=True))}')
+print(f'Sample Stdev: {round(stdev(house_prices_outliers_rmvd, sample=True))}')
