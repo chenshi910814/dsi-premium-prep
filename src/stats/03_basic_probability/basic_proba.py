@@ -57,5 +57,14 @@ def four_flip_sample_space():
 
 four_flips = four_flip_sample_space()
 
+# for outcome in four_flips:
+#     print(outcome)
+
+
+'''What is the probability that in 4 coin flips, you get exactly 3 heads?'''
+three_heads = []
 for outcome in four_flips:
-    print(outcome)
+    if outcome.count('H') == 3:
+        three_heads.append(outcome)
+
+print(len(three_heads) / len(four_flips))
