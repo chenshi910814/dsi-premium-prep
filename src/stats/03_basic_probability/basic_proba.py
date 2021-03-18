@@ -41,6 +41,6 @@ def series_of_flips(n):
         flips.append(coin_flip())
     return flips
 
-print(series_of_flips(10000).count('H'))
+# print(series_of_flips(10000).count('H'))
 
 
