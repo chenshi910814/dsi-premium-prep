@@ -123,3 +123,17 @@ Set Difference
 # A - B => {1, 2}
 # B - A => {5, 6}
 
+def difference(lst1, lst2):
+    set_difference = []
+
+    for item in lst1:
+        if item not in lst2:
+            set_difference.append(item)
+    return set_difference
+
+
+A = ['bat', 'cat', 'dog', 'weasel', 'dolphin', 'zebra']
+B = ['dog', 'weasel', 'dolphin', 'zebra', 'squirrel', 'vole']
+C = ['dolphin', 'zebra', 'squirrel', 'vole', 'manatee', 'sloth']
+
+print(difference(A, B))
