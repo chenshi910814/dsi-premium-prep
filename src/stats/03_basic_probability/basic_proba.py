@@ -1,2 +1,16 @@
 
-S = ['cat', 'dog', 'ferret', 'goldfish']
+pets = ['cat', 'dog', 'ferret', 'goldfish']
+
+'''
+Exhaustive set of possibilities for drawing 3 pets WITH REPLACEMENT
+'''
+
+pet_outcomes = []
+
+for pet1 in pets:
+    for pet2 in pets:
+        for pet3 in pets:
+            pet_outcomes.append([pet1, pet2, pet3])
+
+for pet_outcome in pet_outcomes:
+    print(pet_outcome)
