@@ -151,3 +151,7 @@ sample_space = union_mult_sets(A, B, C, D)
 
 
 def complement(sample_space, lst):
+    return difference(sample_space, lst)
+
+
+print(complement(sample_space, A))
