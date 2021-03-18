@@ -149,3 +149,5 @@ D = {'eel', 'baskeball'}
 
 sample_space = union_mult_sets(A, B, C, D)
 
+
+difference(sample_space, lst):
