@@ -71,3 +71,7 @@ for outcome in four_flips:
 
 
 '''What is the probability that in 12 coin flips, you get exactly 3 heads?'''
+
+# TTTTTTTTTHHH
+# TTTHTTTTTTHH
+# HTTTTTTTTHHT
