@@ -108,7 +108,7 @@ for pet_outcome in pet_outcomes:
 # Breakout (4 minutes)
 * Reference the previous slide
 
-What is the probability that a person will select 2 or more cats when randomuly choosing 4 pets (with replacement)?
+What is the probability that a person will select 2 or more cats when randomly choosing 4 pets (with replacement)?
 
 <br><br><br><br><br><br><br><br><br>
 
