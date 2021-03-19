@@ -179,5 +179,5 @@ def basketball_combs():
     
     return combs
 
-for five in basketball_combs():
-    print(five)
+# for five in basketball_combs():
+#     print(five)
