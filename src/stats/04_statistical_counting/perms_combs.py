@@ -77,6 +77,43 @@ def swap(lst, idx_1, idx_2):
     lst_[idx_1] = temp
     return lst_
 
-print(swap(['a', 'b', 'c'], 0, 1))
+
+def heaps_non_recursive(lst, k):
+    # avoid modifying the param
+    lst_copy = lst.copy()
+
+    # hold stack state
+    c = [0] * len(lst)
+
+    # collect permutations
+    perms = [lst_copy[:k]]
+
+    i = 0 # stack pointer
+    while i < len(lst_copy):
+        if c[i] < i:
+            if i % 2 == 0:
+                lst_copy = swap(lst_copy, 0, i)
+            else:
+                lst_copy = swap(lst_copy, c[i], i)
+
+            if lst_copy[:k] not in perms:
+                perms.append(lst_copy[:k])
+
+            # incr counter
+            c[i] += 1
+
+            # reset i
+            i = 0
+        else:
+            # reset state of count state at i
+            c[i] = 0
+            i += 1
+    return perms
 
 
+base_5 = ['salamander', 'fish', 'cat', 'dog', 'bird']
+
+five_p_five = heaps_non_recursive(base_5, 5)
+
+for five in five_p_five:
+    print(five)
