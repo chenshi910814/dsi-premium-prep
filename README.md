@@ -314,7 +314,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 14](https://youtu.be/xjRjn7u4pb8)
+**Video Lecture**: [Lecture 14](https://youtu.be/xjRjn7u4pb8), and [supplemental Combs function](https://youtu.be/B19HVd2ok30)
 
 
 
