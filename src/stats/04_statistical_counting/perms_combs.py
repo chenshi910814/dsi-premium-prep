@@ -212,3 +212,26 @@ num_players = 5
 # print(combinations(team_size, num_players))
 
 
+# yield
+
+'''
+Combs algorithm based on Itertools combinations
+'''
+
+
+def combinations_from_itertools(lst, k):
+    lst_frozen = tuple(lst)
+    n = len(lst_frozen)
+
+    # fault control
+    if k > n:
+        return 
+
+
+    indices = list(range(k))
+    print(indices)
+
+
+base_5 = ['salamander', 'fish', 'cat', 'dog', 'bird']
+
+combinations_from_itertools(base_5, 3)
