@@ -124,3 +124,13 @@ five_p_three = heaps_non_recursive(base_5, 3)
 #     print(three)
 
 
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+def combinations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= i
+    return int(perm / factorial(k))
+
+print(combinations(10, 3))
