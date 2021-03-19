@@ -137,3 +137,47 @@ def combinations(n, k):
 #     print(combinations(10, k))
 
 
+'''
+An expensive counting approach
+
+Out of a set of 11 basketball players, only 5 can be on the court at a time. What are all the combinations possible for that basketball team.
+'''
+
+num_combs = combinations(11, 5)
+
+def basketball_combs():
+    eleven_nums = (1, 11+1)
+
+    # every arrangement of 5
+    possible_five = []
+
+    for i in eleven_nums:
+        for j in eleven_nums:
+            for k in eleven_nums:
+                for l in eleven_nums:
+                    for m in eleven_nums:
+                        possible_five.append([i,j,k,l,m])
+
+    for five in possible_five:
+        print(five)
+
+    perms = []
+
+    for five in possible_five:
+        if len(list(set(five))) == 5:
+            perms.append(five)
+
+    # for five in perms:
+    #     print(five)
+
+    combs = []
+
+    for five in perms:
+        sorted_five = sorted(five)
+        if sorted_five not in combs:
+            combs.append(sorted_five)
+    
+    return combs
+
+for five in basketball_combs():
+    print(five)
