@@ -229,7 +229,20 @@ def combinations_from_itertools(lst, k):
 
 
     indices = list(range(k))
-    print(indices)
+
+    yield tuple(list_frozen[i] for i in indices)
+
+    while True:
+        for i in reversed(range(k)):
+            if indices[i] != i + n - k:
+                break
+        else:
+            return
+        
+        indices[i] += 1
+        for j in range(i+1, k):
+            indices[j] = indices[j-1] + 1
+        yield tuple(lst_frozen[i] for i in indices)
 
 
 base_5 = ['salamander', 'fish', 'cat', 'dog', 'bird']
