@@ -190,7 +190,7 @@ def basketball_combs_samp(team_size=11, num_players=5):
 
     player_range = range(1, team_size+1)
 
-    while len(combs) < combination(team_size, num_players):
+    while len(combs) < combinations(team_size, num_players):
         player_comb = []
 
         while len(player_comb) < num_players:
@@ -209,4 +209,4 @@ team_size = 11
 num_players = 5
 
 print(len(basketball_combs_samp(team_size, num_players)))
-print(combinations(teams_size, num_players))
+print(combinations(team_size, num_players))
