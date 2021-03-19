@@ -146,7 +146,7 @@ Out of a set of 11 basketball players, only 5 can be on the court at a time. Wha
 num_combs = combinations(11, 5)
 
 def basketball_combs():
-    eleven_nums = (1, 11+1)
+    eleven_nums = range(1, 11+1)
 
     # every arrangement of 5
     possible_five = []
@@ -167,8 +167,8 @@ def basketball_combs():
         if len(list(set(five))) == 5:
             perms.append(five)
 
-    for five in perms:
-        print(five)
+    # for five in perms:
+    #     print(five)
 
     combs = []
 
