@@ -70,7 +70,13 @@ for an_number in animals_counting:
 #     print(an_number)
 
 
+def swap(lst, idx_1, idx_2):
+    lst_ = lst.copy()
+    temp = lst_[idx_2]
+    lst_[idx_2] = lst_[idx_1]
+    lst_[idx_1] = temp
+    return lst_
 
-
+print(swap(['a', 'b', 'c'], 0, 1))
 
 
