@@ -314,7 +314,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 14]()
+**Video Lecture**: [Lecture 14](https://youtu.be/xjRjn7u4pb8)
 
 
 
