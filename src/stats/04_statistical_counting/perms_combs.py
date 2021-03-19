@@ -118,7 +118,3 @@ five_p_five = heaps_non_recursive(base_5, 5)
 # for five in five_p_five:
 #     print(five)
 
-five_p_three = heaps_non_recursive(base_5, 3)
-
-for three in five_p_five:
-    print(three)
