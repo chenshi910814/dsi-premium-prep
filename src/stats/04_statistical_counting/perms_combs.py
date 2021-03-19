@@ -247,4 +247,5 @@ def combinations_from_itertools(lst, k):
 
 base_5 = ['salamander', 'fish', 'cat', 'dog', 'bird']
 
-combinations_from_itertools(base_5, 3)
+for comb in combinations_from_itertools(base_5, 3):
+    print(comb)
