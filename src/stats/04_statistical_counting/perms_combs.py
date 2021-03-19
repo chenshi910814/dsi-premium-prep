@@ -133,4 +133,5 @@ def combinations(n, k):
         perm *= i
     return int(perm / factorial(k))
 
-print(combinations(10, 4))
+for k in range(1, 10+1):
+    print(combinations(10, k))
