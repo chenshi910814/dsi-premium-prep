@@ -333,6 +333,24 @@
 
 ---------------------------------------------------------
 ### Day 16: Monday Mar 22 (6pm - 8pm Pacific)
+**Instructor**: Clark Walker
+
+**Slide Deck**: 
+* [Python Classes for Stats Functions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/26_python_classes_for_stats_functions.md)
+* [Tests and Errors](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/27_tests_and_errors.md)
+
+**HW assignment**: 
+[Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md)
+
+**HW Solutions**: N/A
+
+
+
+
+**Video Lecture**: [Lecture (to be posted) 16]()
+
+---------------------------------------------------------
+### Day 17: Tuesday Mar 23 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -346,11 +364,12 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 16]()
+
+
+**Video Lecture**: [Lecture (to be posted) 17]()
 
 ---------------------------------------------------------
-### Day 17: Tuesday Mar 23 (6pm - 8pm Pacific)
-
+### Day 18: Wednesday Mar 24 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -368,11 +387,13 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 17]()
+
+
+
+**Video Lecture**: [Lecture (to be posted) 18]()
 
 ---------------------------------------------------------
-### Day 18: Wednesday Mar 24 (6pm - 8pm Pacific)
-
+### Day 19: Thursday Mar 25 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -385,10 +406,13 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 18]()
+
+
+
+**Video Lecture**: [Lecture (to be posted) 19]()
 
 ---------------------------------------------------------
-### Day 19: Thursday Mar 25 (6pm - 8pm Pacific)
+### Day 20: Saturday Mar 27 (11am - 1pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -400,21 +424,6 @@
 * Code out your own analytic approach to a phenomenon 
 (mathematical, probabilistic, etc), and submit a .py file, a collab link, 
 or a github link in the associated thread
-
-**HW Solutions**: N/A
-
-**Video Lecture**: [Lecture (to be posted) 19]()
-
----------------------------------------------------------
-### Day 20: Saturday Mar 27 (11am - 1pm Pacific)
-**Instructor**: Clark Walker
-
-**Slide Deck**: 
-* [Python Classes for Stats Functions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/26_python_classes_for_stats_functions.md)
-* [Tests and Errors](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/27_tests_and_errors.md)
-
-**HW assignment**: 
-[Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md)
 
 **HW Solutions**: N/A
 
