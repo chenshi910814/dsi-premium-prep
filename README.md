@@ -347,7 +347,7 @@
 
 
 
-**Video Lecture**: [Lecture (to be posted) 16]()
+**Video Lecture**: [Lecture 16](https://youtu.be/cjrHYtIl2Hs)
 
 ---------------------------------------------------------
 ### Day 17: Tuesday Mar 23 (6pm - 8pm Pacific)
