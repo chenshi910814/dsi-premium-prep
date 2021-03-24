@@ -66,3 +66,4 @@ eighty_ninety = 0
 for attendees in range(80, 90+1):
     eighty_ninety += outcomes[attendees]
 
+print(f'{round(eighty_ninety / total, 3)}')
