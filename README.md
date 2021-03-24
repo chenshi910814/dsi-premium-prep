@@ -366,7 +366,7 @@
 
 
 
-**Video Lecture**: [Lecture (to be posted) 17]()
+**Video Lecture**: [Lecture 17](https://youtu.be/CIDTT4PYaek)
 
 ---------------------------------------------------------
 ### Day 18: Wednesday Mar 24 (6pm - 8pm Pacific)
