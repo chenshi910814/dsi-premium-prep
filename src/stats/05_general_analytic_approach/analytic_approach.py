@@ -47,7 +47,7 @@ def num_attendees():
 
 outcomes = dict()
 
-num_samples = 10000
+num_samples = 1000000
 
 for _ in range(num_samples):
     attending = num_attendees()
@@ -56,8 +56,8 @@ for _ in range(num_samples):
         outcomes[attending] = 0
     outcomes[attending] += 1
 
-for k, v in sorted(outcomes.items()):
-    print(f'{k}: {v}')
+# for k, v in sorted(outcomes.items()):
+#     print(f'{k}: {v}')
 
 
 total = sum(outcomes.values())
