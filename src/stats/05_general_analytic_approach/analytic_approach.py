@@ -49,12 +49,12 @@ outcomes = dict()
 
 num_samples = 1000000
 
-for _ in range(num_samples):
-    attending = num_attendees()
+# for _ in range(num_samples):
+#     attending = num_attendees()
 
-    if attending not in outcomes:
-        outcomes[attending] = 0
-    outcomes[attending] += 1
+#     if attending not in outcomes:
+#         outcomes[attending] = 0
+#     outcomes[attending] += 1
 
 # for k, v in sorted(outcomes.items()):
 #     print(f'{k}: {v}')
@@ -63,8 +63,8 @@ for _ in range(num_samples):
 total = sum(outcomes.values())
 eighty_ninety = 0
 
-for attendees in range(80, 90+1):
-    eighty_ninety += outcomes[attendees]
+# for attendees in range(80, 90+1):
+#     eighty_ninety += outcomes[attendees]
 
 # print(f'{round(eighty_ninety / total, 3)}')
 
