@@ -47,7 +47,7 @@ def num_attendees():
 
 outcomes = dict()
 
-for _ in range(100000):
+for _ in range(1000000):
     attending = num_attendees()
 
     if attending not in outcomes:
