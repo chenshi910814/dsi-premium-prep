@@ -22,7 +22,7 @@ for flip1 in flip:
 S = []
 
 for roll in rolls:
-    for card in card_nums:
+    for card in cards:
         for flip in coin_flips:
             S.append([roll, card, flip])
 
