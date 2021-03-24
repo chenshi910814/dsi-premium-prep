@@ -26,5 +26,11 @@ for roll in rolls:
         for flip in coin_flips:
             S.append([roll, card, flip])
 
+
+
+hits = []
 for outcome in S:
-    print(outcome)
+    if outcome[0] >= 18 and outcome[2].count('H') == 2:
+        hits.append(outcome)
+
+print(f'proba: {round(len(hits) / len(S), 3)}')
