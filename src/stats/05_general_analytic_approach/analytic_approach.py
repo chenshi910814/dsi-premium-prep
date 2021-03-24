@@ -47,7 +47,9 @@ def num_attendees():
 
 outcomes = dict()
 
-for _ in range(1000000):
+num_samples = 10000
+
+for _ in range(num_samples):
     attending = num_attendees()
 
     if attending not in outcomes:
@@ -56,3 +58,11 @@ for _ in range(1000000):
 
 for k, v in sorted(outcomes.items()):
     print(f'{k}: {v}')
+
+
+total = sum(outcomes.values())
+eighty_ninety = 0
+
+for attendees in range(80, 90+1):
+    eighty_ninety += outcomes[attendees]
+
