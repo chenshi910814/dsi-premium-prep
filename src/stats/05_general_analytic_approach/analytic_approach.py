@@ -93,3 +93,15 @@ def gumball_capacity():
 #     print(f'{r}: {v}')
 
 
+
+def get_sphere(gumballs):
+    d = gumball_capacity()
+
+    for radius, capacity in d.items():
+        if capacity > gumballs:
+            return radius
+
+
+
+
+
