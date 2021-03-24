@@ -34,3 +34,7 @@ for outcome in S:
         hits.append(outcome)
 
 # print(f'proba: {round(len(hits) / len(S), 3)}')
+
+
+
+
