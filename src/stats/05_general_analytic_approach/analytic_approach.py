@@ -74,5 +74,10 @@ from math import pi
 def spherical_volume(r):
     return (4/3) * pi * r**3
 
-print(spherical_volume(4))
-print(spherical_volume(100))
+# print(spherical_volume(4))
+# print(spherical_volume(100))
+
+# 268.082573106329
+# 4188790.2047863905
+
+
