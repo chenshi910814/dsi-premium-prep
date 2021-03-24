@@ -35,6 +35,24 @@ for outcome in S:
 
 # print(f'proba: {round(len(hits) / len(S), 3)}')
 
+from random import choice
 
+def num_attendees():
+    num_peeps = 1
 
+    for _ in range(20):
+        num_peeps += choice(range(0, 11+1))
+    
+    return num_peeps
 
+outcomes = dict()
+
+for _ in range(100):
+    attending = num_attendees()
+
+    if attending not in outcomes:
+        outcomes[attending] = 0
+    outcomes[attending] += 1
+
+for k, v in sorted(outcomes.items()):
+    print(f'{k}: {v}')
