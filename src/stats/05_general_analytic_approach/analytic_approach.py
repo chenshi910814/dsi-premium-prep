@@ -33,4 +33,4 @@ for outcome in S:
     if outcome[0] >= 18 and outcome[2].count('H') == 2:
         hits.append(outcome)
 
-print(f'proba: {round(len(hits) / len(S), 3)}')
+# print(f'proba: {round(len(hits) / len(S), 3)}')
