@@ -56,4 +56,12 @@ d = binomial_distr(n_trials=12)
 # for k, cnt in d.items():
 #     print(f'{k}: {cnt}')
 
-print(d[5] / sum(d.values()))
+'''
+What is the probability of 5 heads in 12 coin flips of a fair coin?
+n = 12
+p = 0.5
+'''
+# print(d[5] / sum(d.values()))
+
+for k, cnt in d.items():
+    print(f'{k}: {round(cnt / sum(d.values()), 5)}')
