@@ -1,3 +1,5 @@
+from random import choice
+
 
 binary = [0, 1]
 four_bit_binary = []
@@ -77,3 +79,9 @@ p = 0.5
 # for k in range(0, 4+1):
 #     accum += d[k] / sum(d.values())
 # print(accum)
+
+
+
+
+
+
