@@ -10,4 +10,4 @@ def bernoulli(p_success):
         return 0
 
 
-bernoulli(p_success=0.3789546)
+bernoulli(p_success=0.37895465647255964851)
