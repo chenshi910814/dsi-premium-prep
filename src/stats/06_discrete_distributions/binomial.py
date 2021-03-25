@@ -71,4 +71,6 @@ n = 12
 k = 9
 p = 0.5
 
-print(d[9] / sum(d.values()))
+# print(d[9] / sum(d.values()))
+
+print((d[0] / sum(d.values()) + (d[1] / sum(d.values()) + (d[2] / sum(d.values()) + (d[3] / sum(d.values()) + (d[4] / sum(d.values()))
