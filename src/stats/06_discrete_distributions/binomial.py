@@ -52,3 +52,7 @@ def binomial_distr(n_trials=8):
     return binomial_dict
 
 d = binomial_distr(n_trials=12)
+
+for k, cnt in d.items():
+    print(f'{k}: {cnt}')
+
