@@ -38,3 +38,17 @@ def get_binary(n_bits=8):
 
 
 
+def binomial_distr(n_trials=8):
+    binomial_dict = dict()
+
+    bin_dict = get_binary(n_bits=n_trials)
+
+    for _, bin_list in bin_dict.items():
+        sum_bits = sum(bin_list)
+        if sum_bits not in binomial_dict:
+            binomial_dict[sum_bits] = 0
+        binomial_dict[sum_bits] += 1
+
+    return binomial_dict
+
+d = binomial_distr(n_trials=12)
