@@ -67,13 +67,13 @@ p = 0.5
 #     print(f'{k}: {round(cnt / sum(d.values()), 5)}')
 
 
-n = 12
-k = 9
-p = 0.5
+# n = 12
+# k = 9
+# p = 0.5
 
-# print(d[9] / sum(d.values()))
+# # print(d[9] / sum(d.values()))
 
-accum = 0.0
-for k in range(0, 4+1):
-    accum += d[k] / sum(d.values())
-print(accum)
+# accum = 0.0
+# for k in range(0, 4+1):
+#     accum += d[k] / sum(d.values())
+# print(accum)
