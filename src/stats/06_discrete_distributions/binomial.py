@@ -73,4 +73,7 @@ p = 0.5
 
 # print(d[9] / sum(d.values()))
 
-print((d[0] / sum(d.values()) + (d[1] / sum(d.values()) + (d[2] / sum(d.values()) + (d[3] / sum(d.values()) + (d[4] / sum(d.values()))
+accum = 0.0
+for k in range(0, 4+1):
+    accum += d[k] / sum(d.values())
+print(accum)
