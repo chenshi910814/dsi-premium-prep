@@ -110,7 +110,7 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
         
     return d
 
-d = binary_sampling_dict(num_bits=8, num_samples=1000)
+d = binary_sampling_dict(num_bits=864, num_samples=1000)
 
 for k, cnt in sorted(d.items()):
     print(f'{k}: {cnt}')
