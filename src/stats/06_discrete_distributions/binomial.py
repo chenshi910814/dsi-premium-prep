@@ -63,5 +63,12 @@ p = 0.5
 '''
 # print(d[5] / sum(d.values()))
 
-for k, cnt in d.items():
-    print(f'{k}: {round(cnt / sum(d.values()), 5)}')
+# for k, cnt in d.items():
+#     print(f'{k}: {round(cnt / sum(d.values()), 5)}')
+
+
+n = 12
+k = 9
+p = 0.5
+
+print(binomial_distr(n_trials=12)[9] / sum(binomial_distr(n_trials=12).values()))
