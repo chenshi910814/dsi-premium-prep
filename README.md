@@ -373,7 +373,6 @@
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
-* [Discrete Random Variables](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/23_discrete_random_variables.md)
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 
 **HW assignment**: 
@@ -390,7 +389,7 @@
 
 
 
-**Video Lecture**: [Lecture (to be posted) 18]()
+**Video Lecture**: [Lecture 18](https://youtu.be/Zq1oe-7R--Y)
 
 ---------------------------------------------------------
 ### Day 19: Thursday Mar 25 (6pm - 8pm Pacific)
