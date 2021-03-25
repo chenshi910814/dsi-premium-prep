@@ -10,3 +10,16 @@ for bit1 in binary:
 
 # for bin_ in four_bit_binary:
 #     print(bin_)
+
+def dec_to_bin(dec, n_bits=8):
+    bit_list = []
+    x = dec
+
+    for _ in range(n_bits):
+        bit = x % 2
+        bit_list.append(bit)
+        x //= 2
+
+    return bit_list[::-1]
+
+print(dec_to_bin(43, n_bits=8))
