@@ -96,3 +96,21 @@ def generate_n_bits(n=8):
 # print(generate_n_bits(n=8))
 
 
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n_bits(num_bits)
+        num_successes = sum(binary)
+
+        if num_successes not in d:
+            d[num_successes] = 1
+        else:
+            d[num_successes] += 1
+        
+    return d
+
+d = binary_sampling_dict(num_bits=8, num_samples=1000)
+
+for k, cnt in d.items():
+    print(f'{k}: {cnt}'
