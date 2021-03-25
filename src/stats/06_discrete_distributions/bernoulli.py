@@ -1,3 +1,4 @@
 from random import random
 
-print(random())
+def bernoulli(p_success):
+    
