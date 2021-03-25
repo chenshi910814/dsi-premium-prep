@@ -56,4 +56,4 @@ d = binomial_distr(n_trials=12)
 # for k, cnt in d.items():
 #     print(f'{k}: {cnt}')
 
-d[5] / sum(d.values())
+print(d[5] / sum(d.values()))
