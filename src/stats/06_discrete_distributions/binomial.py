@@ -30,7 +30,7 @@ def get_binary(n_bits=8):
 
     for dec in range(2**n_bits):
         bins_d[dec] = dec_to_bin(dec, n_bits)
-
+        print(f'{dec}: {bins_d[dec]}')
     return bins_d
 
 for dec, bin_ in get_binary(n_bits=64).items():
