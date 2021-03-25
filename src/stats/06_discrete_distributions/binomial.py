@@ -71,4 +71,4 @@ n = 12
 k = 9
 p = 0.5
 
-print(binomial_distr(n_trials=12)[9] / sum(binomial_distr(n_trials=12).values()))
+print(d[9] / sum(d.values()))
