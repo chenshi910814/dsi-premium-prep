@@ -10,3 +10,12 @@ def bernoulli(p_success):
 
 
 # bernoulli(p_success=0.37895465647255966)
+
+
+trials = 1000
+true_count = 0
+for _ in range(trials):
+    if bernoulli(p_success=0.5) == 1:
+        true_count += 1
+
+print(round(true_count / trials, 4))
