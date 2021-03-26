@@ -290,3 +290,10 @@ k_high = 5
 p = 0.4
 
 # print(1 - binomial_cdf(n, k_high, p))
+
+
+n = 8
+p = 0.7
+k_high = 2
+
+print(1 - binomial_cdf(n, k_high, p))
