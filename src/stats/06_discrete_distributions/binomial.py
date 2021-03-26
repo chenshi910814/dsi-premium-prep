@@ -155,4 +155,4 @@ for k, v in sorted(d.items()):
 
 # probas
 for k, v in sorted(d.items()):
-    print(f'{k}: {round(v / sum(d.values()))}')
+    print(f'{k}: {round(v / sum(d.values()), 5)}')
