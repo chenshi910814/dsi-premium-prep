@@ -289,4 +289,4 @@ n = 14
 k_high = 5
 p = 0.4
 
-print(1 - binomial_cdf(n, k_high, p))
+# print(1 - binomial_cdf(n, k_high, p))
