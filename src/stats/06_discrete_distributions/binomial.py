@@ -241,3 +241,13 @@ def combinations(n, k):
 def binomial_pmf(n, p, k):
     return combinations(n, k) * p**k * (1-p)**(n-k)
 
+'''
+On average 3 out of 5 cars that drive by have an antenna.
+
+What is the probability that out of the next 20 cars,
+12 of them have antennae?
+'''
+n = 20
+p = 3/5
+k = 12
+print(binomial_pmf(n, p, k))
