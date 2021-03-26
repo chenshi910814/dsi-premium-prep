@@ -335,7 +335,7 @@ d = binomial_cdf_dict(n=8, k_low=0, k_high=8, p=0.1)
 
 
 
-d = binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=500, num_sample_trials=1000)
+d = binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=5, num_sample_trials=100000)
 
 # # counts
 # for k, v in sorted(d.items()):
