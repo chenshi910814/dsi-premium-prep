@@ -173,20 +173,20 @@ def generate_n_successes(n=8, p_success=0.1):
     return [bernoulli(p_success) for _ in range(n)]
 
 
-print(generate_n_successes(n=8))
+# print(generate_n_successes(n=8))
 
 
-def binary_sampling_dict(num_bits=8, num_samples=1000):
+def binary_sampling_vary_p(num_bits=8, p=0.5, num_samples=1000):
     d = dict()
 
     for _ in range(num_samples):
-        binary = generate_n_bits(num_bits)
-        num_successes = sum(binary)
+        binary = generate_n_successes(num_bits, p)
+        k = sum(binary)
 
-        if num_successes not in d:
-            d[num_successes] = 1
+        if k not in d:
+            d[k] = 1
         else:
-            d[num_successes] += 1
+            d[k] += 1
         
     return d
 
