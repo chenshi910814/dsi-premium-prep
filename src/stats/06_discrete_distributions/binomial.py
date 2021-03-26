@@ -296,4 +296,6 @@ n = 8
 p = 0.7
 k_high = 2
 
-print(1 - binomial_cdf(n, k_high, p))
+# print(1 - binomial_cdf(n, k_high, p)) 
+
+
