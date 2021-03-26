@@ -251,5 +251,5 @@ n = 20
 p = 3/5
 # k = 12
 
-for k in range(n+1):
-    print(k, ': ',binomial_pmf(n, p, k))
+# for k in range(n+1):
+#     print(k, ': ',binomial_pmf(n, p, k))
