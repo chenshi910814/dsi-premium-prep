@@ -169,7 +169,7 @@ def bernoulli(p_success):
         return 0
 
 
-def generate_n_successes(n=8, p_success=0.5):
+def generate_n_successes(n=8, p_success=0.1):
     return [bernoulli(p_success) for _ in range(n)]
 
 
