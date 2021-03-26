@@ -282,3 +282,11 @@ def binomial_cdf(n, k_high, p=0.5):
     for k in range(0, k_high+1):
         accum += binomial_pmf(n, p, k)
     return accum
+
+
+# At the cat cafe, there is a 40% chance that any one cat you see is a Siberian. What is the probability that 6 or more out of the 14 cats at the cafe are Siberians?
+n = 14
+k_high = 5
+p = 0.4
+
+print(1 - binomial_cdf(n, k_high, p))
