@@ -296,8 +296,9 @@ n = 8
 p = 0.7
 k_high = 2
 
-# print(1 - binomial_cdf(n, k_high, p)) 
-
+# print(1 - binomial_cdf(n, k_high, p))
+print(1 - (binomial_pmf(n, p, 0) + binomial_pmf(n, p, 1) + binomial_pmf(n, p, 2)))
+print(binomial_pmf(n, p, 3) + binomial_pmf(n, p, 4) + binomial_pmf(n, p, 5) + binomial_pmf(n, p, 6) + binomial_pmf(n, p, 7) + binomial_pmf(n, p, 8))
 
 
 def binomial_pmf_dict(n, k_low, k_high, p=0.5):
