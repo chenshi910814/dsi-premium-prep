@@ -222,3 +222,6 @@ def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_tri
 # # probas
 # for k, v in sorted(d.items()):
 #     print(f'{k}: {round(v / sum(d.values()), 5)}')
+
+
+
