@@ -238,3 +238,6 @@ def combinations(n, k):
 
 # print(combinations(5, 2))
 
+def binomial_pmf(n, p, k):
+    return combinations(n, k) * p**k * (1-p)**(n-k)
+
