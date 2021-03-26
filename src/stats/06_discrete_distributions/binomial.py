@@ -168,3 +168,25 @@ def bernoulli(p_success):
     else:
         return 0
 
+
+def generate_n_bits(n=8):
+    return [get_bit() for _ in range(n)]
+
+
+# print(generate_n_bits(n=8))
+
+
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n_bits(num_bits)
+        num_successes = sum(binary)
+
+        if num_successes not in d:
+            d[num_successes] = 1
+        else:
+            d[num_successes] += 1
+        
+    return d
+
