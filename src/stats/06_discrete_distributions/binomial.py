@@ -213,15 +213,15 @@ def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_tri
     
     return d_out
 
-# d = binary_sampling_clt_vary_p(n_bits=8, p=0.333333, num_samples=1000, num_sample_trials=500)
+d = binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_trials=500)
 
 # # counts
 # for k, v in sorted(d.items()):
 #     print(f'{k}: {v}')
 
-# # probas
-# for k, v in sorted(d.items()):
-#     print(f'{k}: {round(v / sum(d.values()), 5)}')
+# probas
+for k, v in sorted(d.items()):
+    print(f'{k}: {round(v / sum(d.values()), 5)}')
 
 
 
@@ -310,5 +310,5 @@ def binomial_pmf_dict(n, k_low, k_high, p=0.5):
 
 d = binomial_pmf_dict(n=8, k_low=0, k_high=8, p=0.5)
 
-for k, v in d.items():
-    print(f'{k}: {round(v, 6)}')
+# for k, v in d.items():
+#     print(f'{k}: {round(v, 6)}')
