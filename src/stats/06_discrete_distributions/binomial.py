@@ -96,7 +96,7 @@ def generate_n_bits(n=8):
 # print(generate_n_bits(n=8))
 
 
-def binary_sampling_dict(num_bits=64, num_samples=1000):
+def binary_sampling_dict(num_bits=8, num_samples=1000):
     d = dict()
 
     for _ in range(num_samples):
@@ -110,7 +110,7 @@ def binary_sampling_dict(num_bits=64, num_samples=1000):
         
     return d
 
-d = binary_sampling_dict(num_bits=8, num_samples=1000)
+d = binary_sampling_dict(num_bits=64, num_samples=1000)
 
 for k, cnt in sorted(d.items()):
     print(f'{k}: {cnt}')
