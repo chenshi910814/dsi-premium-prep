@@ -270,4 +270,8 @@ p = 0.3
 print(round(binomial_pmf(n, p, k), 4))
 
 # At the cat cafe, there is a 40% chance that any one cat you see is a Siberian. What is the probability that 6 out of the 14 cats at the park are Siberian?
-# n = ? k = ? p = ?
+n = 14
+k = 6
+p = 0.4
+
+print(round(binomial_pmf(n, p, k), 4))
