@@ -1,4 +1,4 @@
-from random import choice
+from random import choice, random
 
 
 binary = [0, 1]
@@ -156,3 +156,15 @@ def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
 # # probas
 # for k, v in sorted(d.items()):
 #     print(f'{k}: {round(v / sum(d.values()), 5)}')
+
+
+
+
+def bernoulli(p_success):
+    draw = random()
+
+    if draw < p_success:
+        return 1
+    else:
+        return 0
+
