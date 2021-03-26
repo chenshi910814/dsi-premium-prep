@@ -225,3 +225,15 @@ def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_tri
 
 
 
+
+
+def factorial(n):
+    prod = 1
+    for num in range(2, n+1):
+        prod *= num
+    return prod
+
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+    
