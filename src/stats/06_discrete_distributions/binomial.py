@@ -249,5 +249,7 @@ What is the probability that out of the next 20 cars,
 '''
 n = 20
 p = 3/5
-k = 12
-print(binomial_pmf(n, p, k))
+# k = 12
+
+for k in range(n+1):
+    print(k, ': ',binomial_pmf(n, p, k))
