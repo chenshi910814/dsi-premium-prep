@@ -328,3 +328,19 @@ d = binomial_cdf_dict(n=8, k_low=0, k_high=8, p=0.1)
 
 # for k, v in d.items():
 #     print(f'{k}: {round(v, 6)}')
+
+
+
+
+
+
+
+d = binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000000, num_sample_trials=1)
+
+# # counts
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
+
+# probas
+for k, v in sorted(d.items()):
+    print(f'{k}: {round(v / sum(d.values()), 5)}')
