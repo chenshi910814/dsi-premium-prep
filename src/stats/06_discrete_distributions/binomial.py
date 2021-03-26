@@ -190,3 +190,5 @@ def binary_sampling_vary_p(num_bits=8, p=0.5, num_samples=1000):
         
     return d
 
+''' one trial of 1000 samples '''
+d = binary_sampling_vary_p(num_bits=8, p=0.333333, num_samples=1000)
