@@ -277,4 +277,8 @@ p = 0.4
 # print(round(binomial_pmf(n, p, k), 4))
 
 
-
+def binomial_cdf(n, k_high, p=0.5):
+    accum = 0.0
+    for k in range(0, k_high+1):
+        accum += binomial_pmf(n, p, k)
+    return accum
