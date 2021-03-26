@@ -315,7 +315,7 @@ def binomial_pmf_dict(n, k_low, k_high, p=0.5):
 
 
 
-def binomial_dff_dict(n, k_low, k_high, p=0.5):
+def binomial_cdf_dict(n, k_low, k_high, p=0.5):
     d = dict()
 
     for k in range(k_low, k_high+1):
