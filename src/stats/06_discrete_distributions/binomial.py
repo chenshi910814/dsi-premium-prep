@@ -319,7 +319,7 @@ def binomial_cdf_dict(n, k_low, k_high, p=0.5):
     d = dict()
 
     for k in range(k_low, k_high+1):
-        d[k] = binomial_cdf(n, p, k)
+        d[k] = binomial_cdf(n, k, p)
     
     return d
 
