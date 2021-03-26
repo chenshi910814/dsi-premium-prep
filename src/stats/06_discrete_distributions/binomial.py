@@ -315,3 +315,15 @@ def binomial_pmf_dict(n, k_low, k_high, p=0.5):
 
 
 
+def binomial_dff_dict(n, k_low, k_high, p=0.5):
+    d = dict()
+
+    for k in range(k_low, k_high+1):
+        d[k] = binomial_cdf(n, p, k)
+    
+    return d
+
+d = binomial_cdf_dict(n=8, k_low=0, k_high=8, p=0.5)
+
+for k, v in d.items():
+    print(f'{k}: {round(v, 6)}')
