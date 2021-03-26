@@ -169,11 +169,11 @@ def bernoulli(p_success):
         return 0
 
 
-def generate_n_bits(n=8):
-    return [get_bit() for _ in range(n)]
+def generate_n_successes(n=8, p_success=0.5):
+    return [bernoulli(p_success) for _ in range(n)]
 
 
-# print(generate_n_bits(n=8))
+print(generate_n_successes(n=8))
 
 
 def binary_sampling_dict(num_bits=8, num_samples=1000):
