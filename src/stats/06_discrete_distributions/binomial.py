@@ -236,4 +236,5 @@ def factorial(n):
 def combinations(n, k):
     return int(factorial(n) / (factorial(n-k) * factorial(k)))
 
-    
+# print(combinations(5, 2))
+
