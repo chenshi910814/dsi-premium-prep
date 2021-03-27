@@ -68,4 +68,4 @@ A given intersection will have, on avg, 15 cars pass through in 10 minutes. What
 
 lam = 15 * (15/10)
 
-print(1 - poisson_cdf(lam, 15))
+# print(1 - poisson_cdf(lam, 15))
