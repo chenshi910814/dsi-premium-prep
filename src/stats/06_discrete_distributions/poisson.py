@@ -22,8 +22,4 @@ k = 35
 
 
 
-def combinations(n, k):
-    return int(factorial(n) / (factorial(n-k) * factorial(k)))
-
-def binomial_pmf(n, p, k):
-    return combinations(n, k) * p**k * (1-p)**(n-k)
+print(binomial_pmf(10, .5, 5))
