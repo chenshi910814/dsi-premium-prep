@@ -41,4 +41,7 @@ k = 10
 #     print(f'poiss: {round(poisson_pmf(lam, k), 7)}')
 #     input()
 
+lam = 15 * (15 / 10)
+k = 20
 
+print(poisson_pmf(lam, k))
