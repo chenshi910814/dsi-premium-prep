@@ -17,4 +17,6 @@ A specific space telescope takes random images of deep space. On average 23 Supe
 lam = 23 * 2
 k = 35
 
-print(poisson_pmf(lam, k))
+# print(poisson_pmf(lam, k))
+
+
