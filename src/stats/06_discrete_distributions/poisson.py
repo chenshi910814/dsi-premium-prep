@@ -1,5 +1,5 @@
 from math import e, factorial
-from binomial import combinations, binomial_pmf
+
 
 def poisson_pmf(lam, k):
     return (e**(-lam) * lam**k) / factorial(k)
@@ -22,4 +22,9 @@ k = 35
 
 
 
-print(binomial_pmf(10, .5, 5))
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+
+def binomial_pmf(n, p, k):
+    return combinations(n, k) * p**k * (1-p)**(n-k)
