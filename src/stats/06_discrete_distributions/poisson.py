@@ -44,4 +44,13 @@ k = 10
 lam = 15 * (15 / 10)
 k = 20
 
-print(poisson_pmf(lam, k))
+# print(poisson_pmf(lam, k))
+
+
+
+def poisson_cdf(lam, k_high):
+    cdf = 0.0
+    for k in range(k_high+1):
+        cdf += poisson_pmf(lam, k)
+    return cdf
+
