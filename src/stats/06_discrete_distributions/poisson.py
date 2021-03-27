@@ -59,4 +59,6 @@ def poisson_cdf(lam, k_high):
 A specific space telescope takes random images of deep space. On average 23 Super Giant stars are seen in an image. What is the probability that two randomly selected images will have a total count of 46 or fewer Super Giant stars in them?
 '''
 
-print(poisson_cdf((2*23), (2*23)))
+# print(poisson_cdf((2*23), (2*23)))
+
+
