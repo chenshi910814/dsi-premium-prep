@@ -37,6 +37,6 @@ lam = 10
 k = 10
 
 for n_trials in range(k, 10000):
-    print(f'binom: {round(binomial_pmf(n_trials, k, p=(lmbda/n_trials)), 7)}')
+    print(f'binom: {round(binomial_pmf(n_trials, k, p=(lam/n_trials)), 7)}')
     print(f'poiss: {round(poisson_pmf(lam, k), 7)}')
     input()
