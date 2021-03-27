@@ -22,9 +22,21 @@ k = 35
 
 
 
+
+
 def combinations(n, k):
     return int(factorial(n) / (factorial(n-k) * factorial(k)))
 
 
-def binomial_pmf(n, p, k):
+def binomial_pmf(n, k, p):
     return combinations(n, k) * p**k * (1-p)**(n-k)
+
+
+
+lam = 10
+k = 10
+
+for n_trials in range(k, 10000):
+    print(f'binom: {round(binomial_pmf(n_trials, k, p=(lmbda/n_trials)), 7)}')
+    print(f'poiss: {round(poisson_pmf(lam, k), 7)}')
+    input()
