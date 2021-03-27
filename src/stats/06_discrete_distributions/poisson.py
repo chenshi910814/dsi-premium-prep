@@ -78,7 +78,7 @@ def poisson_pmf_dict(lam, low_k, high_k):
         d[k] = poisson_pmf(lam, k)
     return d
 
-d = poisson_pmf_dict(lam=10, low_k=0, high_k=50)
+d = poisson_pmf_dict(lam=20, low_k=0, high_k=50)
 
 for k, v in d.items():
     print(f'{k}: {round(10000*v)}')
