@@ -34,5 +34,8 @@ def geometric_cdf(p, k_high):
         accum += geometric_pmf(p, k)
     return accum
 
+def geometric_cdf(p, k_high):
+    return 1 - (1-p)**k
+
 print(geometric_cdf(p_lost, k))
 
