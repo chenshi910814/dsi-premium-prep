@@ -447,7 +447,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 21]()
+**Video Lecture**: [Lecture 21](https://youtu.be/6EDkC3YOQ68)
 
 ---------------------------------------------------------
 ### Day 22: Tuesday Mar 30 (6pm - 8pm Pacific)
