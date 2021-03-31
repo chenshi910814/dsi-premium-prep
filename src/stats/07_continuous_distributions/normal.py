@@ -18,5 +18,5 @@ def normal_cdf(x=0, mu=0, sigma=1):
             break
 
     return accum
-    
-print(normal_cdf(x=0, mu=0, sigma=1))
+
+print(normal_cdf(x=300, mu=475, sigma=98))
