@@ -10,7 +10,13 @@ def normal_cdf(x=0, mu=0, sigma=1):
     x_width = 0.001
     x_vals = [num*x_width for num in range(-1000, int(x*1000))]
 
-    for val in x_vals:
-        print(val)
+    accum = 0.0
 
-normal_cdf(x=0, mu=0, sigma=1)
+    for val in x_vals:
+        accum += normal_pdf(val, mu, sigma) * x_width
+        if val > x:
+            break
+
+    return accum
+    
+print(normal_cdf(x=0, mu=0, sigma=1))
