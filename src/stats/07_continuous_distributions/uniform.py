@@ -6,4 +6,8 @@ def get_bit():
 def get_binary(n=8):
     return [get_bit() for _ in range(n)]
 
-print(get_binary(4))
+for i in range(1, 10+1):
+    print(0.5**i)
+    
+
+# print(get_binary())
