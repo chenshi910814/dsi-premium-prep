@@ -13,7 +13,7 @@ def get_float(num_bits=8):
         flt += 0.5**expon * bit
     return flt
 
-print(get_float(8))
+print(get_float(16))
     
 
 # print(get_binary())
