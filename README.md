@@ -462,7 +462,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 22]()
+**Video Lecture**: [Lecture 22](https://youtu.be/BxJUWiiiMRc)
 
 
 ---------------------------------------------------------
