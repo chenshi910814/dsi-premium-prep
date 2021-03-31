@@ -40,7 +40,7 @@ def exponential_std(lam):
 
 lam = 0.1
 
-print(1 - exponential_cdf(lam, x))
+print(1 - exponential_cdf(lam, 10))
 print(exponential_mean(lam))
 print(exponential_variance(lam))
 print(exponential_std(lam))
