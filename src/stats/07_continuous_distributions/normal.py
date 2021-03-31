@@ -21,4 +21,4 @@ def normal_cdf(x=0, mu=0, sigma=1):
 
 
 x, mu, sigma = 100, 90, 10
-print(normal_cdf(x, mu, sigma))
+print(1-normal_cdf(x, mu, sigma))
