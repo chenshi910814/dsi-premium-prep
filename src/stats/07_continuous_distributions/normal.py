@@ -6,3 +6,9 @@ def normal_pdf(x=0, mu=1, sigma=1):
 # print(normal_pdf(x=0.5, mu=0, sigma=1))
 
 
+def normal_cdf(x=0, mu=0, sigma=1):
+    x_width = 0.001
+    x_vals = [num*x_width for num in range(-1000, int(x*1000))]
+
+    for val in x_vals:
+        print(val)
