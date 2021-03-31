@@ -1,3 +1,5 @@
+from math import e, sqrt
+
 from random import choice
 
 def get_bit():
@@ -13,7 +15,24 @@ def get_float(num_bits=8):
         flt += 0.5**expon * bit
     return flt
 
-print(get_float(16))
+# print(get_float(16))
     
-
 # print(get_binary())
+
+def exponential_pdf(lam, x):
+    if x < 0: return 0
+    return lam * e**(-lam * x)
+
+def exponential_cdf(lam, x):
+    if x < 0: return 0
+    return 1 - e**(-lam * x)
+
+def exponential_mean(lam):
+    return 1 / lam
+
+def exponential_variance(lam):
+    return 1 / lam**2
+
+def exponential_std(lam):
+    return sqrt(exponential_variance(lam))
+
