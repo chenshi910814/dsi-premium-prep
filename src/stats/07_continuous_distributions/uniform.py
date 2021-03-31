@@ -6,8 +6,14 @@ def get_bit():
 def get_binary(n=8):
     return [get_bit() for _ in range(n)]
 
-for i in range(1, 10+1):
-    print(0.5**i)
+def get_float(num_bits=8):
+    bin_ = get_binary(num_bits)
+    flt = 0.0
+    for expon, bit in enumerate(bin_, 1):
+        flt += 0.5**expon * bit
+    return flt
+
+print(get_float(8))
     
 
 # print(get_binary())
