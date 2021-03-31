@@ -12,3 +12,5 @@ def normal_cdf(x=0, mu=0, sigma=1):
 
     for val in x_vals:
         print(val)
+
+normal_cdf(x=0, mu=0, sigma=1)
