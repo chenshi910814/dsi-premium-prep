@@ -479,7 +479,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 23]()
+**Video Lecture**: [Lecture 23](https://youtu.be/eG0najnj1Jk)
 
 ---------------------------------------------------------
 ### Day 24: Thursday April 1 (6pm - 8pm Pacific)
