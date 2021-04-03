@@ -53,7 +53,7 @@ def sample_process(num_samples=1000):
             d[res][1].append(sorted(X))
     return d
 
-d = sample_process(num_samples=1000)
+d = sample_process(num_samples=100000)
 
 for k, v in sorted(d.items()):
     print(f'{k}: {v[0]}')
