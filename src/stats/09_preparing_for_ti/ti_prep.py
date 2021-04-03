@@ -47,11 +47,15 @@ def sample_process(num_samples=1000):
         res = round(res, 5)
  
         if res not in d:
-            d[res] = []
-        d[res].append(X)
+            d[res] = [0, []]
+        d[res][0] += 1    
+        if X not in d[res][1]:
+            d[res][1].append(X)
     return d
 
 d = sample_process(num_samples=1000)
 
 for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+    print(f'{k}: {v[0]}')
+    for lst in v[1]:
+        print('    ',  lst)
