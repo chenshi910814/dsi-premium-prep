@@ -49,8 +49,8 @@ def sample_process(num_samples=1000):
         if res not in d:
             d[res] = [0, []]
         d[res][0] += 1    
-        if X not in d[res][1]:
-            d[res][1].append(X)
+        if sorted(X) not in d[res][1]:
+            d[res][1].append(sorted(X))
     return d
 
 d = sample_process(num_samples=1000)
