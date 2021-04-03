@@ -34,5 +34,5 @@ def process_lst(n=12):
     return accum / n
 
 for _ in range(100):
-    print(process_lst(n=2))
+    print(process_lst(n=12))
     input()
