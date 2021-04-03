@@ -494,7 +494,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 24]()
+**Video Lecture**: [Lecture 24](https://youtu.be/HOf9KKStI4Q)
 
 ---------------------------------------------------------
 ### Day 25: Saturday April 3 (11am - 1:00pm Pacific)
