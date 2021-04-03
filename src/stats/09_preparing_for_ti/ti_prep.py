@@ -33,6 +33,24 @@ def process_lst(n=12):
         accum += 1/3 * x
     return accum / n
 
-for _ in range(100):
-    print(process_lst(n=12))
-    input()
+# for _ in range(100):
+#     print(process_lst(n=12))
+#     input()
+
+
+def sample_process(num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        res = process_lst(n=12)
+ 
+        if res not in d:
+            d[res] = 1
+        else:
+            d[res] += 1
+    return d
+
+d = sample_process(num_samples=1000)
+
+for k, v in sorted(d.items()):
+    print(f'{k}: {v}')
