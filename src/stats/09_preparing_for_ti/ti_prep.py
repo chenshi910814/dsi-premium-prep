@@ -23,5 +23,8 @@ def get_trials(n=12):
     return lst
 
 
+# print(get_trials(n=12))
 
-print(get_trials(n=12))
+
+def process_lst(n=12):
+    pass
