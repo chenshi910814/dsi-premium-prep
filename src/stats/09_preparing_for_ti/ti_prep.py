@@ -42,7 +42,7 @@ def sample_process(num_samples=1000):
     d = dict()
 
     for _ in range(num_samples):
-        res = process_lst(n=12)
+        res = round(process_lst(n=12), 5)
  
         if res not in d:
             d[res] = 1
