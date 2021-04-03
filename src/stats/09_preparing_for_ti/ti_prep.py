@@ -27,4 +27,10 @@ def get_trials(n=12):
 
 
 def process_lst(n=12):
-    pass
+    X = get_trials(n)
+    accum = 0.0
+    for x in X:
+        accum += 1/3 * x
+    return accum / n
+
+print(process_lst)
