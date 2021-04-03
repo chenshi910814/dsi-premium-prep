@@ -5,9 +5,9 @@ from random import random
 
 def get_result(prior_res=0):
     rand = random()
-    if rand < (0.33 - prior_result * 0.001):
+    if rand < (0.33 - prior_result * 0.1):
         return 0
-    elif rand < 0.66 + prior_result * 0.001:
+    elif rand < 0.66 + prior_result * 0.1:
         return 1
     else:
         return 2
