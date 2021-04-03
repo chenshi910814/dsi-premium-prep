@@ -33,4 +33,6 @@ def process_lst(n=12):
         accum += 1/3 * x
     return accum / n
 
-print(process_lst())
+for _ in range(100):
+    print(process_lst())
+    input()
