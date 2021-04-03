@@ -31,7 +31,7 @@ def process_lst(n=12):
     accum = 0.0
     for x in X:
         accum += 1/3 * x
-    return accum / n
+    return (accum / n), X
 
 # for _ in range(100):
 #     print(process_lst(n=12))
