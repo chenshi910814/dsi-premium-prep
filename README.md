@@ -510,5 +510,5 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture (to be posted) 25]()
+**Video Lecture**: [Lecture 25](https://youtu.be/r2rOJ7SBpew)
 
