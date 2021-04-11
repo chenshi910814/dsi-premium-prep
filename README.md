@@ -66,7 +66,7 @@
     * Follow [clownfragment](https://github.com/clownfragment) and [clarkwalker](https://github.com/ClarkWalker)
     * Set up a [CodeWars](http://codewars.com) account
 
-**HW solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 1]()
 
@@ -83,7 +83,7 @@
 
 **HW assignment**: N/A
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 2]()
 
@@ -104,7 +104,7 @@
     * [Control Flow](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/06_Control_Flow/00_unit_overview.md)
 
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 3]()
 
@@ -123,7 +123,7 @@
     * [List Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/07_List_Basics/00_unit_overview.md)
     * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 4]()
 
@@ -142,7 +142,7 @@
     * [List Iteration](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_unit_overview.md)
     * [Accumulators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/11_Accumulators/00_unit_overview.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 5]()
 
@@ -161,7 +161,7 @@
     * [While Loops](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/13_While_Loops/00_unit_overview.md)
     * [Strings](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/14_Strings/00_unit_overview.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 6]()
 
@@ -183,7 +183,7 @@
     * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
     * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 7]()
 
@@ -201,7 +201,7 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 8]()
 
@@ -225,7 +225,6 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
 **Recording**: [(to be posted) Lecture 9]()
 
@@ -240,7 +239,7 @@
 * Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
 * Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 10]()
 
@@ -255,7 +254,7 @@
 
 **HW assignment**: N/A
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 11]()
 
@@ -270,7 +269,7 @@
 
 **HW assignment**: N/A
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 12]()
 
@@ -287,7 +286,7 @@
 **HW assignment**: 
 * Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 13]()
 
@@ -311,7 +310,7 @@
     * Bonus: Write the Heap’s Algorithm in Python
     * Bonus x 2: Revise the brute force Combinations Intuition code in the GH repo to be more optimal, as in, look for a combinations algorithm and implement it. (Here’s one option: [https://www.youtube.com/watch?v=VyXDQxuIwPU)](https://www.youtube.com/watch?v=VyXDQxuIwPU))
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 14]()
 
@@ -326,7 +325,7 @@
 
 **HW assignment**: N/A
 
-**HW Solutions**: N/A
+
 
 **Recording**: [Lecture 15]()
 
@@ -341,7 +340,7 @@
 **HW assignment**: 
 [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md)
 
-**HW Solutions**: N/A
+
 
 
 
@@ -361,7 +360,7 @@
 **HW assignment**: 
 * Review the code and materials regarding the General Analytic Approach
 
-**HW Solutions**: N/A
+
 
 
 
@@ -383,7 +382,7 @@
     * [Poisson Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/08_poisson.md)
 * Review the code and materials regarding the Binomial Distribution in the stats folder
 
-**HW Solutions**: N/A
+
 
 
 
@@ -402,7 +401,7 @@
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
 
-**HW Solutions**: N/A
+
 
 
 
@@ -423,7 +422,7 @@
 (mathematical, probabilistic, etc), and submit a .py file, a collab link, 
 or a github link in the associated thread
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 20]()
 
@@ -444,7 +443,7 @@ or a github link in the associated thread
     * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
     * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 21]()
 
@@ -459,7 +458,7 @@ or a github link in the associated thread
 	* Do the [Kaggle Pandas Tutorial](https://www.kaggle.com/learn/pandas)
 	* Read 2.2, 4.6.5, and 5.1 of [Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 22]()
 
@@ -476,7 +475,7 @@ or a github link in the associated thread
     * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
     * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 23]()
 
@@ -491,7 +490,7 @@ or a github link in the associated thread
 * Continue working on remaining Learn materials
 * Schedule a mentoring session to gauge where you are at and where you need to focus
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 24]()
 
@@ -507,7 +506,7 @@ or a github link in the associated thread
 **HW assignment**: 
 	Finish your Learn materials and get ready for your TI!
 
-**HW Solutions**: N/A
+
 
 **Recording**: [(to be posted) Lecture 25]()
 
