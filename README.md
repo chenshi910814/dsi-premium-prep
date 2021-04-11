@@ -68,7 +68,7 @@
 
 **HW solutions**: N/A
 
-**Video Lecture**: [Day 1 Lecture](https://youtu.be/yLxssxoJ9OA)
+**Video Lecture**: [Lecture 1](https://youtu.be/yLxssxoJ9OA)
 
 
 ---------------------------------------------------------
@@ -85,7 +85,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 2 Lecture](https://youtu.be/Cje07M1a25E)
+**Video Lecture**: [Lecture 2](https://youtu.be/Cje07M1a25E)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday Mar 3 (6pm - 8pm Pacific)
@@ -106,7 +106,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 3 Lecture](https://youtu.be/mYHo4q3F2Ug)
+**Video Lecture**: [Lecture 3](https://youtu.be/mYHo4q3F2Ug)
 
 
 ---------------------------------------------------------
@@ -125,7 +125,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 4 Lecture](https://youtu.be/lBYpLw7uGbM)
+**Video Lecture**: [Lecture 4](https://youtu.be/lBYpLw7uGbM)
 
 ---------------------------------------------------------
 ### Day 5: Saturday Mar 6 (11am-1pm Pacific)
@@ -144,7 +144,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 5 Lecture](https://youtu.be/AaT5lUKvGGk)
+**Video Lecture**: [Lecture 5](https://youtu.be/AaT5lUKvGGk)
 
 ---------------------------------------------------------
 ### Day 6: Monday Mar 8 (6pm - 8pm Pacific)
@@ -163,7 +163,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 6 Lecture](https://youtu.be/YC3pa5dMqoo)
+**Video Lecture**: [Lecture 6](https://youtu.be/YC3pa5dMqoo)
 
 ---------------------------------------------------------
 ### Day 7: Tuesday Mar 9 (6pm - 8pm Pacific)
@@ -185,7 +185,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 7 Lecture](https://youtu.be/DlbBo_OWpu4)
+**Video Lecture**: [Lecture 7](https://youtu.be/DlbBo_OWpu4)
 
 
 ---------------------------------------------------------
@@ -203,7 +203,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Day 8 Lecture](https://youtu.be/1mbNRGKgMS8)
+**Video Lecture**: [Lecture 8](https://youtu.be/1mbNRGKgMS8)
 
 ---------------------------------------------------------
 ### Day 9: Thursday Mar 11 (6pm - 8pm Pacific)
@@ -227,7 +227,7 @@
 
 **HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
-**Video Lecture**: [Day 9 Lecture](https://youtu.be/_1p6KAo8Eo4)
+**Video Lecture**: [Lecture 9](https://youtu.be/_1p6KAo8Eo4)
 
 ---------------------------------------------------------
 ### Day 10: Saturday Mar 13 (11am - 1:00pm Pacific)
