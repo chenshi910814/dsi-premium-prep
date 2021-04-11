@@ -102,7 +102,7 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 ----------------------------------------------------------------
 # The Materials...
 * Learn is our Learning Management System
-    * [Premium Prep Cohort](https://learn-2.galvanize.com/cohorts/2304)
+    * [Premium Prep Cohort](https://learn-2.galvanize.com/cohorts/2507)
 * Sections
     * [Initialize](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-premium-prep-onboarding/onboarding.md)
     * [Welcome](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-init/00_purpose/00_ds_prep_welcome_overview.md)
