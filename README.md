@@ -68,7 +68,7 @@
 
 **HW solutions**: N/A
 
-**Video Lecture**: [Lecture 1](https://youtu.be/yLxssxoJ9OA)
+**Video Lecture**: [Lecture 1]()
 
 
 ---------------------------------------------------------
@@ -85,7 +85,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 2](https://youtu.be/Cje07M1a25E)
+**Video Lecture**: [Lecture 2]()
 
 ---------------------------------------------------------
 ### Day 3: Wednesday April 14 (6pm - 8pm Pacific)
@@ -106,7 +106,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 3](https://youtu.be/mYHo4q3F2Ug)
+**Video Lecture**: [Lecture 3]()
 
 
 ---------------------------------------------------------
@@ -125,7 +125,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 4](https://youtu.be/lBYpLw7uGbM)
+**Video Lecture**: [Lecture 4]()
 
 ---------------------------------------------------------
 ### Day 5: Saturday April 17 (11am-1pm Pacific)
@@ -144,7 +144,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 5](https://youtu.be/AaT5lUKvGGk)
+**Video Lecture**: [Lecture 5]()
 
 ---------------------------------------------------------
 ### Day 6: Monday April 19 (6pm - 8pm Pacific)
@@ -163,7 +163,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 6](https://youtu.be/YC3pa5dMqoo)
+**Video Lecture**: [Lecture 6]()
 
 ---------------------------------------------------------
 ### Day 7: Tuesday April 20 (6pm - 8pm Pacific)
@@ -185,7 +185,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 7](https://youtu.be/DlbBo_OWpu4)
+**Video Lecture**: [Lecture 7]()
 
 
 ---------------------------------------------------------
@@ -203,7 +203,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 8](https://youtu.be/1mbNRGKgMS8)
+**Video Lecture**: [Lecture 8]()
 
 ---------------------------------------------------------
 ### Day 9: Thursday April 22 (6pm - 8pm Pacific)
@@ -227,7 +227,7 @@
 
 **HW Solutions**: [Python HW solutions (Tic Tac Toe)](https://drive.google.com/file/d/1cY5ddsqBzfb2IAx3yTaAlNCOWT6VQmFG/view?usp=sharing)
 
-**Video Lecture**: [Lecture 9](https://youtu.be/_1p6KAo8Eo4)
+**Video Lecture**: [Lecture 9]()
 
 ---------------------------------------------------------
 ### Day 10: Saturday April 24 (11am - 1:00pm Pacific)
@@ -242,7 +242,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 10](https://youtu.be/rBAPWUIaWnc)
+**Video Lecture**: [Lecture 10]()
 
 ---------------------------------------------------------
 ### Day 11: Monday April 26 (6pm - 8pm Pacific)
@@ -257,7 +257,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 11](https://youtu.be/ACSl_rTUkHk)
+**Video Lecture**: [Lecture 11]()
 
 ---------------------------------------------------------
 ### Day 12: Tuesday April 27 (6pm - 8pm Pacific)
@@ -272,7 +272,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 12](https://youtu.be/s__H2JsS2Y0)
+**Video Lecture**: [Lecture 12]()
 
 ---------------------------------------------------------
 ### Day 13: Wednesday April 28 (6pm - 8pm Pacific)
@@ -289,8 +289,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 13](https://youtu.be/eENPD-lNHWU
-)
+**Video Lecture**: [Lecture 13]()
 
 
 ---------------------------------------------------------
@@ -314,7 +313,7 @@
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 14](https://youtu.be/xjRjn7u4pb8), and [supplemental Combs function](https://youtu.be/B19HVd2ok30)
+**Video Lecture**: [Lecture 14]()
 
 
 
@@ -347,7 +346,7 @@
 
 
 
-**Video Lecture**: [Lecture 16](https://youtu.be/cjrHYtIl2Hs)
+**Video Lecture**: [Lecture 16]()
 
 ---------------------------------------------------------
 ### Day 17: Tuesday May 4 (6pm - 8pm Pacific)
@@ -366,7 +365,7 @@
 
 
 
-**Video Lecture**: [Lecture 17](https://youtu.be/CIDTT4PYaek)
+**Video Lecture**: [Lecture 17]()
 
 ---------------------------------------------------------
 ### Day 18: Wednesday May 5 (6pm - 8pm Pacific)
@@ -389,7 +388,7 @@
 
 
 
-**Video Lecture**: [Lecture 18](https://youtu.be/Zq1oe-7R--Y)
+**Video Lecture**: [Lecture 18]()
 
 ---------------------------------------------------------
 ### Day 19: Thursday May 6 (6pm - 8pm Pacific)
@@ -408,7 +407,7 @@
 
 
 
-**Video Lecture**: [Lecture 19](https://youtu.be/OtUCEXumT8g)
+**Video Lecture**: [Lecture 19]()
 
 ---------------------------------------------------------
 ### Day 20: Saturday May 8 (11am - 1pm Pacific)
@@ -426,7 +425,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 20](https://youtu.be/dPzd3cUY3HY)
+**Video Lecture**: [Lecture 20]()
 
 
 ---------------------------------------------------------
@@ -447,7 +446,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 21](https://youtu.be/6EDkC3YOQ68)
+**Video Lecture**: [Lecture 21]()
 
 ---------------------------------------------------------
 ### Day 22: Tuesday May 11 (6pm - 8pm Pacific)
@@ -462,7 +461,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 22](https://youtu.be/BxJUWiiiMRc)
+**Video Lecture**: [Lecture 22]()
 
 
 ---------------------------------------------------------
@@ -479,7 +478,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 23](https://youtu.be/eG0najnj1Jk)
+**Video Lecture**: [Lecture 23]()
 
 ---------------------------------------------------------
 ### Day 24: Thursday May 13 (6pm - 8pm Pacific)
@@ -494,7 +493,7 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 24](https://youtu.be/HOf9KKStI4Q)
+**Video Lecture**: [Lecture 24]()
 
 ---------------------------------------------------------
 ### Day 25: Saturday May 15 (11am - 1:00pm Pacific)
@@ -510,5 +509,5 @@ or a github link in the associated thread
 
 **HW Solutions**: N/A
 
-**Video Lecture**: [Lecture 25](https://youtu.be/r2rOJ7SBpew)
+**Video Lecture**: [Lecture 25]()
 
