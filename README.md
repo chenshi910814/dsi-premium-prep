@@ -11,7 +11,7 @@
 
 [Premium Prep Recordings](https://www.youtube.com/playlist?list=PL5T50pwCrPUoYtWdIGpp4zz71NfS4C2ug)
 
-[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2304)
+[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2507)
 
 
 ### Other Helpful Resources
