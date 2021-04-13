@@ -68,7 +68,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 1]()
+**Recording**: [Lecture 1](https://youtu.be/15Sml_vvytc)
 
 
 ---------------------------------------------------------
