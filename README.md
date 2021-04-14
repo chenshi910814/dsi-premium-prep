@@ -85,7 +85,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 2]()
+**Recording**: [Lecture 2](https://youtu.be/bc1tW5fFV9A)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday April 14 (6pm - 8pm Pacific)
