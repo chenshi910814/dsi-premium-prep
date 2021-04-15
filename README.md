@@ -106,7 +106,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 3]()
+**Recording**: [Lecture 3](https://youtu.be/xrjjEF0asNU)
 
 
 ---------------------------------------------------------
