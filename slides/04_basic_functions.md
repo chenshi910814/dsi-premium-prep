@@ -186,7 +186,7 @@ def another_func(x):
     * defined by putting an `f` in front of quotes: `f'some text'`
 
 ```python
-state = 'Alaska`
+state = 'Alaska'
 
 print(f'{state} is one of the states in the US')
 ```
