@@ -172,8 +172,7 @@
 
 **Slide Deck**:
 * [Strings (cont'd)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/09_strings.md)
-* [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
-* [Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/12_data_structures.md)
+
 
 **HW assignment**: 
 * Work through these Learn Units:
@@ -191,28 +190,13 @@
 ---------------------------------------------------------
 ### Day 8: Wednesday April 21 (6pm - 8pm Pacific)
 
-**Instructor**: Tovio Roberts
-
-**Slide Deck**: [Summary Stats: Centrality](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/10_summary_stats_centrality.md)
-
-**HW assignment**:
-* Review today's stats code
-* Complete these Units on Learn:
-    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
-    * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
-
-
-
-**Recording**: [(to be posted) Lecture 8]()
-
----------------------------------------------------------
-### Day 9: Thursday April 22 (6pm - 8pm Pacific)
-
 **Instructor**: Clark Walker
 
 **Slide Deck**: 
+* [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
+* [Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/12_data_structures.md)
 * [More Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/13_more_data_structures.md)
-* [Data Structure Function Practice](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/14_data_structure_function_practice.md)
+
 
 **HW assignment**: 
 * [Python HW](https://colab.research.google.com/drive/1M_sZH5mJpNDIgGias0Q2Lz7rtFfO2HKc)
@@ -225,6 +209,21 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
+
+**Recording**: [(to be posted) Lecture 8]()
+
+---------------------------------------------------------
+### Day 9: Thursday April 22 (6pm - 8pm Pacific)
+
+**Instructor**: Tovio Roberts
+
+**Slide Deck**: [Summary Stats: Centrality](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/10_summary_stats_centrality.md)
+
+**HW assignment**:
+* Review today's stats code
+* Complete these Units on Learn:
+    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
+    * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 **Recording**: [(to be posted) Lecture 9]()
 
@@ -248,7 +247,8 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
+**Slide Deck**:
+* [Data Structure Function Practice](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/14_data_structure_function_practice.md)
 * **Review f-strings and `.format()`**
 * [Accumulator Review](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/16_accumulator_review.md)
 
