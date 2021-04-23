@@ -7,6 +7,6 @@ def mean(lst, trim=0):
 
     if trim > 0:
         lst_ = sorted(lst_)[trim:-trim]
-    return sum(lst) / len(lst)
+    return sum(lst_) / len(lst_)
 
-print(mean(a, trim=1))
+print(mean(a, trim=2))
