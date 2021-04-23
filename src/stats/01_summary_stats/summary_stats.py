@@ -43,10 +43,33 @@ def median(lst):
         return mean([lst_sorted[mid-1], lst_sorted[mid]])
 
 
-print(sorted(odd_list))
-print(median(odd_list))
+# print(sorted(odd_list))
+# print(median(odd_list))
 
-print()
+# print()
 
-print(sorted(even_list))
-print(median(even_list))
+# print(sorted(even_list))
+# print(median(even_list))
+
+
+'''
+An issue of a recent magazine reported the following home sale amounts for a sample of homes in Alameda, CA, all of which were sold in the previous month (1000s of $):
+
+{ 590, 615, 575, 608, 350, 1285, 408, 540, 555, 679 }
+'''
+
+house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+
+'''
+a. Find the mean value of the homes sold in April
+'''
+print(f'house price mean: {round(mean(house_prices))}\n')
+
+'''
+b. Find the median value of the homes sold in April
+'''
+print(f'house price mean: {round(median(house_prices))}')
+'''
+
+c. Do you think mean or median is a “better” measure of center for this data? why? * For this set of data, it’s likely that the median would be a more accurate summary statistic. This is due to outlier resistance
+'''
