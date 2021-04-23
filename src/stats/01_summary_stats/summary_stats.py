@@ -19,9 +19,9 @@ f = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0, 2.0, 0
 
 # A
 print(f'Mean Urban: {round(mean(u), 1)}')
-print(f'Mean Farmhouse: {round(mean(f), 1}')
+print(f'Mean Farmhouse: {round(mean(f), 1)}')
 
 print()
 # B
 print(f'Mean Urban: {round(mean(u, 1), 1)}')
-print(f'Mean Farmhouse: {round(mean(f, 1), 1}')
+print(f'Mean Farmhouse: {round(mean(f, 1), 1)}')
