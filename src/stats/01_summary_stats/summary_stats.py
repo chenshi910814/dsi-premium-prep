@@ -92,9 +92,9 @@ def mode(lst):
 from random import choice
 
 sample_range = list(range(0, 99+1))
-
+n_samps = 3
 samples = []
-for _ in range(5):
+for _ in range(n_samps):
     samples.append(choice(sample_range))
 
 print(f'pop mean: {mean(sample_range)}')
