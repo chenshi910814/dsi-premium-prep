@@ -18,9 +18,10 @@ u = [6.0, 5.0, 11.0, 33.0, 4.0, 5.0, 80.0, 18.0, 35.0, 17.0, 23.0]
 f = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0, 2.0, 0.3]
 
 # A
-print(mean(u))
-print(mean(f))
+print(f'Mean Urban: {round(mean(u), 1)}')
+print(f'Mean Farmhouse: {round(mean(f), 1}')
 
+print()
 # B
-print(mean(u, trim=1))
-print(mean(f, trim=1))
+print(f'Mean Urban: {round(mean(u, 1), 1)}')
+print(f'Mean Farmhouse: {round(mean(f, 1), 1}')
