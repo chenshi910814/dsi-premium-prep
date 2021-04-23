@@ -144,7 +144,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 5]()
+**Recording**: [Lecture 5](https://youtu.be/h4iDR1oGYmc)
 
 ---------------------------------------------------------
 ### Day 6: Monday April 19 (6pm - 8pm Pacific)
