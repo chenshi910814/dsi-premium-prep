@@ -89,3 +89,6 @@ def mode(lst):
 # print(mode(animals))
 
 
+from random import choice
+
+print(choice([0,1]))
