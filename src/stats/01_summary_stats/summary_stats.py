@@ -60,10 +60,11 @@ An issue of a recent magazine reported the following home sale amounts for a sam
 
 house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 
+print(sorted(house_prices))
 '''
 a. Find the mean value of the homes sold in April
 '''
-print(f'house price mean: {round(mean(house_prices))}\n')
+print(f'house price mean: {round(mean(house_prices))}')
 
 '''
 b. Find the median value of the homes sold in April
