@@ -163,7 +163,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 6]()
+**Recording**: [Lecture 6](https://youtu.be/1CzSDmZmmMY)
 
 ---------------------------------------------------------
 ### Day 7: Tuesday April 20 (6pm - 8pm Pacific)
