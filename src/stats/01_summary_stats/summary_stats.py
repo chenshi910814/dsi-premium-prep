@@ -97,4 +97,6 @@ samples = []
 for _ in range(5):
     samples.append(choice(sample_range))
 
-print(mean(sample_range))
+print(f'pop mean: {mean(sample_range)}')
+print(f'sample mean: {mean(samples)}')
+print(f'sample med: {median(samples)}')
