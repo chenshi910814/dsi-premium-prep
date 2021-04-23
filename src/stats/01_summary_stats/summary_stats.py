@@ -91,4 +91,10 @@ def mode(lst):
 
 from random import choice
 
-print(choice([0,1]))
+sample_range = list(range(0, 99+1))
+
+samples = []
+for _ in range(5):
+    samples.append(choice(sample_range))
+
+print(mean(sample_range))
