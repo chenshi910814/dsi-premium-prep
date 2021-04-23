@@ -76,7 +76,7 @@ c. Do you think mean or median is a “better” measure of center for this data
 '''
 
 
-animals = ['frog', 'cat', 'dog', 'beaver', 'cat', 'cat', 'beaver', 'lizard', 'lizard']
+animals = ['frog', 'cat', 'dog', 'beaver', 'cat', 'cat', 'beaver', 'beaver', 'lizard', 'lizard']
 
 
 def mode(lst):
