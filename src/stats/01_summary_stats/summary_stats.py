@@ -60,18 +60,22 @@ An issue of a recent magazine reported the following home sale amounts for a sam
 
 house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 
-print(sorted(house_prices))
+# print(sorted(house_prices))
 '''
 a. Find the mean value of the homes sold in April
 '''
-print(f'house price mean: {round(mean(house_prices))}')
+# print(f'house price mean: {round(mean(house_prices))}')
 
 '''
 b. Find the median value of the homes sold in April
 '''
-print(f'house price mean: {round(median(house_prices))}')
+# print(f'house price mean: {round(median(house_prices))}')
 '''
 
 c. Do you think mean or median is a “better” measure of center for this data? why?
 '''
+
+
+animals = ['frog', 'cat', 'dog', 'beaver', 'cat', 'cat', 'beaver', 'lizard', 'lizard']
+
 
