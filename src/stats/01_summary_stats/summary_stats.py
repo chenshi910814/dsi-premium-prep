@@ -79,3 +79,11 @@ c. Do you think mean or median is a “better” measure of center for this data
 animals = ['frog', 'cat', 'dog', 'beaver', 'cat', 'cat', 'beaver', 'lizard', 'lizard']
 
 
+def mode(lst):
+    most_occurring = lst[0]
+    for item in lst[1:]:
+        if lst.count(item) > lst.count(most_occurring):
+            most_occurring = item
+    return most_occurring
+
+print(mode(animals))
