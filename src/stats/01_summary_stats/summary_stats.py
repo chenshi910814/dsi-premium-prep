@@ -72,5 +72,6 @@ b. Find the median value of the homes sold in April
 print(f'house price mean: {round(median(house_prices))}')
 '''
 
-c. Do you think mean or median is a “better” measure of center for this data? why? * For this set of data, it’s likely that the median would be a more accurate summary statistic. This is due to outlier resistance
+c. Do you think mean or median is a “better” measure of center for this data? why?
 '''
+
