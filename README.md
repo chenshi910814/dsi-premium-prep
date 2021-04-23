@@ -184,7 +184,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 7]()
+**Recording**: [Lecture 7](https://youtu.be/2Nu8_hZbAQU)
 
 
 ---------------------------------------------------------
