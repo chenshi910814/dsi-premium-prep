@@ -86,4 +86,6 @@ def mode(lst):
             most_occurring = item
     return most_occurring
 
-print(mode(animals))
+# print(mode(animals))
+
+
