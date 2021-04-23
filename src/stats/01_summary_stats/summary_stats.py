@@ -35,9 +35,15 @@ even_list = [15, 14, 10, 8, 12, 8, 16, 13]
 def median(lst):
     lst_sorted = sorted(lst)
 
+    mid = int(len(lst) / 2)
     # odd
     if len(lst) % 2:
         mid = int(len(lst) / 2)
+        return lst_sorted[mid]
+    else:
+        mid = int(len(lst) / 2)
         return mid
-print(odd_list)
-print(median(odd_list))
+
+
+print(even_list)
+print(median(even_list))
