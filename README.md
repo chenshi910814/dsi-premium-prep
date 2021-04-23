@@ -225,7 +225,7 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**Recording**: [(to be posted) Lecture 9]()
+**Recording**: [Lecture 9](https://youtu.be/ePXHYZfdVr4)
 
 ---------------------------------------------------------
 ### Day 10: Saturday April 24 (11am - 1:00pm Pacific)
