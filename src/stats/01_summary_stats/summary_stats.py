@@ -38,12 +38,11 @@ def median(lst):
     mid = int(len(lst) / 2)
     # odd
     if len(lst) % 2:
-        mid = int(len(lst) / 2)
         return lst_sorted[mid]
     else:
-        mid = int(len(lst) / 2)
+        lst_sorted[mid-1]
         return mid
 
 
-print(even_list)
+print(sorted(even_list))
 print(median(even_list))
