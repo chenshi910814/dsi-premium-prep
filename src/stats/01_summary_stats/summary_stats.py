@@ -39,3 +39,5 @@ def median(lst):
     if len(lst) % 2:
         mid = int(len(lst / 2))
         return mid
+
+print(median(odd_list))
