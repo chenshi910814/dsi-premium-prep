@@ -9,4 +9,7 @@ def mean(lst, trim=0):
         lst_ = sorted(lst_)[trim:-trim]
     return sum(lst_) / len(lst_)
 
-print(mean(a, trim=2))
+# print(mean(a, trim=2))
+
+
+
