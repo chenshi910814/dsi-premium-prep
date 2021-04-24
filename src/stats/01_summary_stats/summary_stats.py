@@ -178,3 +178,13 @@ house_prices =  [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 # print(remove_outliers(house_prices))
 
 
+
+def variance(lst, sample=True):
+    mean_ = mean(lst)
+    total = 0.0
+
+    for item in lst:
+        total += (item - mean_)**2
+
+
+        return total / (len(lst) - sample)
