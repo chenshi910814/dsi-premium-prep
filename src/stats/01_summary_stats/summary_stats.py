@@ -211,10 +211,10 @@ house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 # # Find Stdev
 # print(f'Samp StDev: {round(stdev(house_prices))}')
 
-house_prices_n_o = remove_outliers(house_prices)
+# house_prices_n_o = remove_outliers(house_prices)
 
-print(sorted(house_prices_n_o))
+# print(sorted(house_prices_n_o))
 
-print(f'Mean: {round(mean(sorted(house_prices_n_o)))}')
-print(f'Samp Var: {round(variance(sorted(house_prices_n_o)))}')
-print(f'Samp StDev: {round(stdev(sorted(house_prices_n_o)))}')
+# print(f'Mean: {round(mean(sorted(house_prices_n_o)))}')
+# print(f'Samp Var: {round(variance(sorted(house_prices_n_o)))}')
+# print(f'Samp StDev: {round(stdev(sorted(house_prices_n_o)))}')
