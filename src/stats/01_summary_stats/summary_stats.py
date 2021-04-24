@@ -124,6 +124,8 @@ def five_number_summary(lst):
     return min_, q1, med, q3, max_
 
 
-samp_data = list(range(1,101))
+# samp_data = list(range(1,101))
 
-print(five_number_summary(samp_data))
+# print(five_number_summary(samp_data))
+
+
