@@ -190,6 +190,9 @@ def variance(lst, sample=True):
 
 b = list(range(0, 100+1, 5))
 
-print(b)
-print(variance(b, sample=True)**(1/2))
-print(variance(b, sample=False)**(1/2))
+# print(b)
+# print(variance(b, sample=True))
+# print(variance(b, sample=False))
+
+
+
