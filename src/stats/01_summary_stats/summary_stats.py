@@ -129,3 +129,13 @@ def five_number_summary(lst):
 # print(five_number_summary(samp_data))
 
 
+
+def iqr(lst):
+    _, q1, _, q3, _ = five_number_summary(lst)
+    return q3 - q1
+
+a = list(range(0, 50+1, 5)) 
+b = list(range(0, 100+1, 5))
+
+print(iqr(a))
+print(iqr(b))
