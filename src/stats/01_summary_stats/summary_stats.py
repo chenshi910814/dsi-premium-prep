@@ -137,5 +137,6 @@ def iqr(lst):
 a = list(range(0, 50+1, 5)) 
 b = list(range(0, 100+1, 5))
 
+print(median(a))
 print(iqr(a))
-print(iqr(b))
+# print(iqr(b))
