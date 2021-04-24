@@ -195,6 +195,17 @@ b = list(range(0, 100+1, 5))
 # print(variance(b, sample=False))
 
 
-
 def stdev(lst, sample=True):
     return sqrt(variance(lst, sample))
+
+
+
+house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+
+# Find variance
+print(f'Mean: {mean(house_prices)}')
+
+print(f'Samp Var: {round(variance(house_prices))}')
+
+# Find Stdev
+print(f'Samp StDev: {round(stdev(house_prices))}')
