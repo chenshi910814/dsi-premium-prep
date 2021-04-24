@@ -201,6 +201,7 @@ def stdev(lst, sample=True):
 
 
 house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+print(sorted(house_prices))
 
 # Find variance
 print(f'Mean: {mean(house_prices)}')
