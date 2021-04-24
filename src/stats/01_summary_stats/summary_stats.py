@@ -188,4 +188,8 @@ def variance(lst, sample=True):
 
     return total / (len(lst) - sample)
 
+b = list(range(0, 100+1, 5))
 
+print(b)
+print(variance(b, sample=True))
+print(variance(b, sample=False))
