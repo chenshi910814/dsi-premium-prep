@@ -1,4 +1,4 @@
-
+from math import sqrt
 
 a = [1, 5, 7, 10, 15, 23, 35, 67, 220, 2000]
 
@@ -196,3 +196,5 @@ b = list(range(0, 100+1, 5))
 
 
 
+def stdev(lst, sample=True):
+    return sqrt(variance(lst, sample))
