@@ -215,6 +215,6 @@ house_prices_n_o = remove_outliers(house_prices)
 
 print(sorted(house_prices_n_o))
 
-print(f'Mean: {mean(print(sorted(house_prices_n_o)))}')
-# print(f'Samp Var: {round(variance(print(sorted(house_prices_n_o))))}')
-# print(f'Samp StDev: {round(stdev(print(sorted(house_prices_n_o))))}')
+print(f'Mean: {round(mean(sorted(house_prices_n_o)))}')
+print(f'Samp Var: {round(variance(sorted(house_prices_n_o)))}')
+print(f'Samp StDev: {round(stdev(sorted(house_prices_n_o)))}')
