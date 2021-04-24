@@ -164,4 +164,12 @@ test_outliers.append(10_000)
 
 def remove_outliers(lst, outlier_coef=1.5):
     outliers = detect_outliers(lst, outlier_coef=1.5)
-    
+    output = []
+
+    for num in lst:
+        if num not in outliers:
+            output.append(num)
+
+    return output
+
+house_prices =  [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
