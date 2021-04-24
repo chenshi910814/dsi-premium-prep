@@ -240,7 +240,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 10]()
+**Recording**: [Lecture 10](https://youtu.be/6I23qSiWxXs)
 
 ---------------------------------------------------------
 ### Day 11: Monday April 26 (6pm - 8pm Pacific)
