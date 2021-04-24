@@ -168,8 +168,8 @@ def remove_outliers(lst, outlier_coef=1.5):
 
 
     for num in outliers:
-        if num not in outliers:
-            output.append(num)
+        if num in output:
+            output.remove(num)
 
     return output
 
