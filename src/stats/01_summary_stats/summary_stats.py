@@ -162,3 +162,4 @@ test_outliers.append(10_000)
 print(detect_outliers(test_outliers, outlier_coef=1.5))
 
 
+def remove_outliers
