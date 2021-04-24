@@ -201,12 +201,20 @@ def stdev(lst, sample=True):
 
 
 house_prices = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
-print(sorted(house_prices))
+# print(sorted(house_prices))
 
-# Find variance
-print(f'Mean: {mean(house_prices)}')
+# # Find variance
+# print(f'Mean: {mean(house_prices)}')
 
-print(f'Samp Var: {round(variance(house_prices))}')
+# print(f'Samp Var: {round(variance(house_prices))}')
 
-# Find Stdev
-print(f'Samp StDev: {round(stdev(house_prices))}')
+# # Find Stdev
+# print(f'Samp StDev: {round(stdev(house_prices))}')
+
+house_prices_n_o = remove_outliers(house_prices)
+
+print(sorted(house_prices_n_o))
+
+print(f'Mean: {mean(print(sorted(house_prices_n_o)))}')
+print(f'Samp Var: {round(variance(print(sorted(house_prices_n_o))))}')
+print(f'Samp StDev: {round(stdev(print(sorted(house_prices_n_o))))}')
