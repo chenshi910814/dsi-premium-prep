@@ -27,8 +27,8 @@ def prod_nums(*nums):
         prod *= num
     return prod
 
-print(prod_nums(5,3,5,7,6,9,5,8,1,3,5,7))
-print(prod_nums(5,3,5,))
+# print(prod_nums(5,3,5,7,6,9,5,8,1,3,5,7))
+# print(prod_nums(5,3,5,))
 
 
 
@@ -51,3 +51,14 @@ def union(lst1, lst2):
     return set_union
 
 # print(union(anim_1, anim_2)) # ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat', 'eagle', 'shark', 'manta ray']
+
+
+def union_mult_sets(*mult_sets):
+    set_union = []
+
+    for lst in mult_sets:
+        for item in lst:
+            if item not in set_union:
+                set_union.append(item)
+    
+    return set_union
