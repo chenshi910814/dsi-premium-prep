@@ -63,4 +63,5 @@ def union_mult_sets(*mult_sets):
     
     return set_union
 
-print(union_mult_sets(anim_1, anim_2, anim_3))
+# print(union_mult_sets(anim_1, anim_2, anim_3))
+
