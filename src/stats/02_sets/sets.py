@@ -142,15 +142,25 @@ for roll in four_sided:
         for flip2 in coin_flip:
             sample_space.append([roll, flip1, flip2])
             
+# for outcome in sample_space:
+#     print(outcome)
+
+
+
+'''
+2. List the sample points in the following events: 
+A = The event in which the die roll results in exactly one pip showing 
+B = The event in which at least one of the coin flips results in heads
+'''
+
+A = []
+
 for outcome in sample_space:
-    print(outcome)
+    if outcome[0] == 1:
+        A.append(outcome)
 
+print(A)
 
-
-'''
-2. List the sample points in the following events: A = The event in which the die roll results in exactly one pip showing B = The event in which at least one of the coin flips results in heads
-
-'''
 
 '''
 3. List the sample points which are in the Union of events A and B from above
