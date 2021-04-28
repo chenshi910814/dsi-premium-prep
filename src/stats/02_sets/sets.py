@@ -17,13 +17,3 @@ def dedupe_in_order(lst):
 
 # print(dedupe_in_order(lst))
 
-
-lst2 = ['kayaking', 'tennis', "swimming", 'swimming', 'tennis']
-def dedupe_in_order(lst):
-    deduped = []
-    for element in lst:
-        if element not in deduped:
-            deduped.append(element)
-        return deduped
-print(dedupe_in_order(lst2))
-['kayaking']
