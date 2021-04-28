@@ -62,3 +62,5 @@ def union_mult_sets(*mult_sets):
                 set_union.append(item)
     
     return set_union
+
+print(union_mult_sets(anim_1, anim_2, anim_3))
