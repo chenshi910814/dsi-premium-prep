@@ -199,9 +199,11 @@ for outcome in sample_space:
 A = There are 3 or more heads
 '''
 A = []
+print('A:')
 for outcome in sample_space:
     if outcome.count('H') >= 3:
         A.append(outcome)
+        print('  ', outcome)
 
 
 '''
@@ -211,6 +213,7 @@ B = []
 for outcome in sample_space:
     if outcome.count('T') <= 2:
         B.append(outcome)
+        print('  ', outcome)
 
 '''
 C = All of the coins show the same face
@@ -219,19 +222,25 @@ C = []
 for outcome in sample_space:
     if outcome.count('H') == 4 or outcome.count('T') == 4:
         C.append(outcome)
+        print('  ', outcome)
 
 
 '''
 1. List the sample points in each A, B, and C
 '''
-print(A)
-print(B)
-print(C)
+# print(A)
+# print(B)
+# print(C)
 
 
 
 '''
+2. List the sample points in the set A~C   
+'''
 
-2. List the sample points in the set A~C
+print(intersection(A, complement(sample_space, C)))
+
+'''
 3. List the sample points in the set ~(AC)
 '''
+print(complement(sample_space, intersection(A, C)))
