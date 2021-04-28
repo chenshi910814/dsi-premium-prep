@@ -209,6 +209,8 @@ for outcome in sample_space:
 '''
 B = There are 2 or fewer tails 
 '''
+print('B:')
+
 B = []
 for outcome in sample_space:
     if outcome.count('T') <= 2:
@@ -218,6 +220,8 @@ for outcome in sample_space:
 '''
 C = All of the coins show the same face
 '''
+print('C:')
+
 C = []
 for outcome in sample_space:
     if outcome.count('H') == 4 or outcome.count('T') == 4:
