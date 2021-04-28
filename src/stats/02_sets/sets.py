@@ -22,6 +22,12 @@ anim_2 = ['tiger', 'cat', 'eagle', 'shark', 'manta ray']
 anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
 
 def union(lst1, lst2):
-    pass
+    set_union = lst1.copy()
+
+    for item in lst2:
+        if item not in set_union:
+            set_union.append(item)
+    
+    return set_union
 
 print(union(anim_1, anim_2)) # ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat', 'eagle', 'shark', 'manta ray']
