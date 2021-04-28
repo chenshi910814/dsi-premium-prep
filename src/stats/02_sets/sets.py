@@ -19,6 +19,16 @@ def dedupe_in_order(lst):
 
 
 
+# STAR ARGS:  *args
+
+def some_func(arg1, *args):
+    print(type(args))
+
+    for item in args:
+        print(item)
+    return None
+
+some_func('cat', 'tree', 'forest', 'epsilon')
 
 
 
