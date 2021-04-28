@@ -108,4 +108,5 @@ def difference(lst1, lst2):
             set_difference.remove(item)
     return set_difference
 
-print(difference(anim_1, anim_2)) # ['jellyfish', 'lion', 'cricket', 'squid'] 
+# print(difference(anim_1, anim_2)) # ['jellyfish', 'lion', 'cricket', 'squid'] 
+
