@@ -97,4 +97,10 @@ def intersection_mult_sets(*mult_sets):
                 set_intersect.append(item)
     return set_intersect
 
-print(intersection_mult_sets(anim_1, anim_2, anim_3))
+# print(intersection_mult_sets(anim_1, anim_2, anim_3))
+
+
+def difference(lst1, lst2):
+    pass
+
+print(difference(anim_1, anim_2)) # ['jellyfish', 'lion', 'cricket', 'squid'] 
