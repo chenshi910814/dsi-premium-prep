@@ -159,7 +159,15 @@ for outcome in sample_space:
     if outcome[0] == 1:
         A.append(outcome)
 
-print(A)
+# print(A)
+
+B = []
+
+for outcome in sample_space:
+    if outcome.count('H') > 1:
+        B.append(outcome)
+    
+print(B)
 
 
 '''
