@@ -68,7 +68,7 @@ def union_mult_sets(*mult_sets):
 
 anim_1 = ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat'] 
 anim_2 = ['tiger', 'cat', 'eagle', 'shark', 'manta ray']
-anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
+anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog', 'tiger']
 
 def intersection(lst1, lst2):
     set_intersect = []
