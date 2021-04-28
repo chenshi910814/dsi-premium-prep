@@ -117,3 +117,6 @@ sample_space = union_mult_sets(anim_1,
                                )
 
 def complement(sample_space, lst1):
+    pass
+
+print(complement(sample_space, anim_1)) # ['eagle', 'shark', 'manta ray', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog', 'snake', 'whale', 'bat']
