@@ -177,3 +177,34 @@ for outcome in sample_space:
 # print(len(union(A, B)) / len(sample_space))
 
 
+
+
+'''
+Given the random experiment which is defined by four sequential flips of a fair coin, and the following events: 
+'''
+flips = ['T', 'H']
+
+sample_space = []
+
+for flip1 in flips:
+    for flip2 in flips:
+        for flip3 in flips:
+            for flip4 in flips:
+                sample_space.append([flip1, flip2, flip3, flip4])
+
+for outcome in sample_space:
+    print(outcome)
+
+'''
+A = There are 3 or more heads 
+B = There are 2 or fewer tails 
+C = All of the coins show the same face
+'''
+
+
+
+'''
+1. List the sample points in each A, B, and C
+2. List the sample points in the set A~C
+3. List the sample points in the set ~(AC)
+'''
