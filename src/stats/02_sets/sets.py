@@ -2,8 +2,8 @@
 
 lst = ['kayaking', 'tennis', 'rolf ball', 'swimming', 'tennis', 'kayaking']
 
-lst = list(set(lst))
-# print(lst) # --> ['swimming', 'tennis', 'kayaking', 'rolf ball']
+
+# print(list(set(lst))) # --> ['swimming', 'tennis', 'kayaking', 'rolf ball']
 
 
 def dedupe_in_order(lst):
