@@ -39,7 +39,7 @@ def prod_nums(*nums):
 
 anim_1 = ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat'] 
 anim_2 = ['tiger', 'cat', 'eagle', 'shark', 'manta ray']
-anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
+anim_3 = ['lion', 'tiger', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
 
 def union(lst1, lst2):
     set_union = lst1.copy()
