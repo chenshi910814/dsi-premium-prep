@@ -110,3 +110,10 @@ def difference(lst1, lst2):
 
 # print(difference(anim_1, anim_2)) # ['jellyfish', 'lion', 'cricket', 'squid'] 
 
+sample_space = union_mult_sets(anim_1, 
+                               anim_2, 
+                               anim_3, 
+                               ['snake', 'whale', 'bat', 'cat']
+                               )
+
+def complement(sample_space, lst1):
