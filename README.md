@@ -271,7 +271,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 12]()
+**Recording**: [Lecture 12](https://youtu.be/-J9fcH9vS8k)
 
 ---------------------------------------------------------
 ### Day 13: Wednesday April 28 (6pm - 8pm Pacific)
