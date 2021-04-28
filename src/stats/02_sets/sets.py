@@ -65,3 +65,12 @@ def union_mult_sets(*mult_sets):
 
 # print(union_mult_sets(anim_1, anim_2, anim_3))
 
+
+anim_1 = ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat'] 
+anim_2 = ['tiger', 'cat', 'eagle', 'shark', 'manta ray']
+anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
+
+def intersection(lst1, lst2):
+    pass
+
+print(intersection(anim_1, anim_2)) # ['tiger', 'cat']
