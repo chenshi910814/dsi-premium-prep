@@ -164,7 +164,7 @@ for outcome in sample_space:
 B = []
 
 for outcome in sample_space:
-    if outcome.count('H') > 1:
+    if outcome.count('H') >= 1:
         B.append(outcome)
     
 print(B)
