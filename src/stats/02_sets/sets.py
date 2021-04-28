@@ -101,11 +101,11 @@ def intersection_mult_sets(*mult_sets):
 
 
 def difference(lst1, lst2):
-    set_difference = []
+    set_difference = lst1.copy()
 
     for item in lst1:
-        if item not in lst2:
-            set_difference.append(item)
+        if item in lst2:
+            set_difference.remove(item)
     return set_difference
 
 print(difference(anim_1, anim_2)) # ['jellyfish', 'lion', 'cricket', 'squid'] 
