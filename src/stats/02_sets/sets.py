@@ -169,7 +169,9 @@ for outcome in sample_space:
     
 # print(B)
 
-print(len(B) / len(sample_space))
+# print(len(B) / len(sample_space))
+
 '''
 3. List the sample points which are in the Union of events A and B from above
 '''
+print(union(A, B))
