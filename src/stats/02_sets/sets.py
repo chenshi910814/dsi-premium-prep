@@ -221,10 +221,17 @@ for outcome in sample_space:
         C.append(outcome)
 
 
+'''
+1. List the sample points in each A, B, and C
+'''
+print(A)
+print(B)
+print(C)
+
 
 
 '''
-1. List the sample points in each A, B, and C
+
 2. List the sample points in the set A~C
 3. List the sample points in the set ~(AC)
 '''
