@@ -167,9 +167,9 @@ for outcome in sample_space:
     if outcome.count('H') >= 1:
         B.append(outcome)
     
-print(B)
+# print(B)
 
-
+print(len(B) / len(sample_space))
 '''
 3. List the sample points which are in the Union of events A and B from above
 '''
