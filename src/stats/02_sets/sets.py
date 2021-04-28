@@ -126,4 +126,32 @@ def complement(sample_space, lst1):
 
 # print(complement(sample_space, anim_1)) # ['eagle', 'shark', 'manta ray', 'meerkat', 'dog', 'prairie dog', 'snake', 'whale', 'bat']
 
+'''
+1. Write out the sample space for the random experiment which is defined as sequentially completing the following steps:
+ First, rolling a four-sided die
+ Then, flipping a coin
+ And finally, flipping the coin a second time
+'''
+four_sided = [1,2,3,4]
+coin_flip = ['H', 'T']
 
+sample_space = []
+
+for roll in four_sided:
+    for flip1 in coin_flip:
+        for flip2 in coin_flip:
+            sample_space.append([roll, flip1, flip2])
+            
+for outcome in sample_space:
+    print(outcome)
+
+
+
+'''
+2. List the sample points in the following events: A = The event in which the die roll results in exactly one pip showing B = The event in which at least one of the coin flips results in heads
+
+'''
+
+'''
+3. List the sample points which are in the Union of events A and B from above
+'''
