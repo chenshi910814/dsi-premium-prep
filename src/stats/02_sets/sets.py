@@ -21,15 +21,14 @@ def dedupe_in_order(lst):
 
 # STAR ARGS:  *args
 
-def some_func(arg1, *args):
-    print(type(args))
+def prod_nums(*nums):
+    prod = 1
+    for num in nums:
+        prod *= num
+    return prod
 
-    for item in args:
-        print(item)
-    return None
-
-some_func('cat', 'tree', 'forest', 'epsilon')
-
+print(prod_nums(5,3,5,7,6,9,5,8,1,3,5,7))
+print(prod_nums(5,3,5,))
 
 
 
