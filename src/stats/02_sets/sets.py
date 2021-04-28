@@ -117,6 +117,11 @@ sample_space = union_mult_sets(anim_1,
                                )
 
 def complement(sample_space, lst1):
-    return difference(sample_space, lst1)
+    complement_ = sample_space.copy()
+    
+    for item in lst1:
+        complement_.remove(item)
+
+    return complement_
 
 print(complement(sample_space, anim_1)) # ['eagle', 'shark', 'manta ray', 'meerkat', 'dog', 'prairie dog', 'snake', 'whale', 'bat']
