@@ -17,6 +17,17 @@ def dedupe_in_order(lst):
 
 # print(dedupe_in_order(lst))
 
+
+
+
+
+
+
+
+
+
+
+
 anim_1 = ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat'] 
 anim_2 = ['tiger', 'cat', 'eagle', 'shark', 'manta ray']
 anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
@@ -30,4 +41,4 @@ def union(lst1, lst2):
     
     return set_union
 
-print(union(anim_1, anim_2)) # ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat', 'eagle', 'shark', 'manta ray']
+# print(union(anim_1, anim_2)) # ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat', 'eagle', 'shark', 'manta ray']
