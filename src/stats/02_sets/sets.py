@@ -242,9 +242,9 @@ for outcome in sample_space:
 2. List the sample points in the set A~C   
 '''
 
-print(len(intersection(A, complement(sample_space, C))))
+# print(len(intersection(A, complement(sample_space, C))))
 
 '''
 3. List the sample points in the set ~(AC)
 '''
-print(len(complement(sample_space, intersection(A, C))))
+# print(len(complement(sample_space, intersection(A, C))))
