@@ -24,4 +24,4 @@ anim_3 = ['lion', 'meerkat', 'dog', 'shark', 'eagle', 'prairie dog']
 def union(lst1, lst2):
     pass
 
-print(union(anim_1, anim_2)) # ['tiger', 'cat']
+print(union(anim_1, anim_2)) # ['jellyfish', 'lion', 'tiger', 'cricket', 'squid', 'cat', 'eagle', 'shark', 'manta ray']
