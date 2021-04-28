@@ -196,10 +196,30 @@ for outcome in sample_space:
     print(outcome)
 
 '''
-A = There are 3 or more heads 
+A = There are 3 or more heads
+'''
+A = []
+for outcome in sample_space:
+    if outcome.count('H') >= 3:
+        A.append(outcome)
+
+
+'''
 B = There are 2 or fewer tails 
+'''
+B = []
+for outcome in sample_space:
+    if outcome.count('T') <= 2:
+        B.append(outcome)
+
+'''
 C = All of the coins show the same face
 '''
+C = []
+for outcome in sample_space:
+    if outcome.count('H') == 4 or outcome.count('T') == 4:
+        C.append(outcome)
+
 
 
 
