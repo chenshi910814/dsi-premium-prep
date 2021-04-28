@@ -78,4 +78,23 @@ def intersection(lst1, lst2):
             set_intersect.append(item)
     return set_intersect
 
-print(intersection(anim_1, anim_2)) # ['tiger', 'cat']
+# print(intersection(anim_1, anim_2)) # ['tiger', 'cat']
+
+
+def intersection_mult_sets(*mult_sets):
+    set_intersect = []
+
+    # make sure we have more than one set and each set has more than 0 elements
+    if len(mult_sets) > 1 and all([len(lst)>0 for lst in mult_sets]):
+        for item in mult_sets[0]:
+            is_member = True
+
+            for set_ in mult_sets[1:]:
+                if item not in set_:
+                    is_member = False
+                    break
+            if is_member:
+                set_intersect.append(item)
+    return set_intersect
+
+print(intersection_mult_sets(anim_1, anim_2, anim_3,))
