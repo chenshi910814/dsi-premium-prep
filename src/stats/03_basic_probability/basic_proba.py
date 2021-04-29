@@ -28,3 +28,5 @@ two_or_more_c = []
 # proba_two_or_more_c = card_A / card_S
 
 # print(proba_two_or_more_c)
+
+
