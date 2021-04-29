@@ -29,6 +29,13 @@ two_or_more_c = []
 
 # print(proba_two_or_more_c)
 
+
+from random import choice
+
+def coin_flip():
+    flip = ['H', 'T']
+    return choice(flip)
+
 def series_of_flips(n):
     flips = []
 
@@ -36,3 +43,5 @@ def series_of_flips(n):
         flips.append(coin_flip())
 
     return flips
+
+print(series_of_flips(4))
