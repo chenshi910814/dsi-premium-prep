@@ -91,5 +91,7 @@ def ten_flip_sample_space():
                                             outcomes.append([f1, f2, f3, f4, f5, f6, f7, f8, f9, f10])
     return outcomes
 
-for outcome in ten_flip_sample_space():
-    print(outcome)
+# for outcome in ten_flip_sample_space():
+#     print(outcome)
+
+print(1 / (2**10))
