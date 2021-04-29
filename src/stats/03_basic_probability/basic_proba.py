@@ -49,3 +49,18 @@ def series_of_flips(n):
 
 
 
+def four_flip_sample_space():
+    flips = ['H', 'T']
+    outcomes = []
+
+    for f1 in flips:
+        for f2 in flips:
+            for f3 in flips:
+                for f4 in flips:
+                    outcomes.append(f1, f2, f3, f4)
+    return outcomes
+
+outcomes = four_flip_sample_space()
+
+for outcome in outcomes:
+    print(outcome)
