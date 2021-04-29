@@ -1,4 +1,4 @@
 set1 = {'a', 'b', 'c'}
 set2 = {'c', 'd', 'e'}
 
-print(type(set1))
+print(set1.union(set2) == set2.union(set1))
