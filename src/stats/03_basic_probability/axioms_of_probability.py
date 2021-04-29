@@ -10,3 +10,9 @@ b = False
 # print((a or b) == (b or a))
 # print((a and b) == (b and a)) 
 
+
+set1 = {'a', 'b', 'c'}
+set2 = {'c', 'd', 'e'}
+set3 = {'b', 'f', 'd'}
+
+set2.intersection(set3)
