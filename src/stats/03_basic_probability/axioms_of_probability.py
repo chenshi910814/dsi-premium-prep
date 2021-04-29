@@ -11,8 +11,8 @@ b = False
 # print((a and b) == (b and a)) 
 
 
-set1 = {'a', 'b', 'c'}
-set2 = {'c', 'd', 'e'}
-set3 = {'b', 'f', 'd'}
+A = {'a', 'b', 'c'}
+B = {'c', 'd', 'e'}
+C = {'b', 'f', 'd'}
 
-set2.intersection(set3)
+print(A.union( (B.intersection(C) )) == (A.union(B)).intersection(A.union(C))))
