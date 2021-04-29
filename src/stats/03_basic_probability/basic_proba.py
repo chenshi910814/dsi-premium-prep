@@ -20,4 +20,11 @@ for pet_outcome in pet_outcomes:
     if pet_outcome.count('c') >= 2:
         two_or_more_c.append(pet_outcome)
 
-print(two_or_more_c)
+# print(two_or_more_c)
+
+card_A = len(two_or_more_c)
+card_S = len(pet_outcomes)
+
+proba_two_or_more_c = card_A / card_S
+
+print(proba_two_or_more_c)
