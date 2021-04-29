@@ -15,4 +15,4 @@ A = {'a', 'b', 'c'}
 B = {'c', 'd', 'e'}
 C = {'b', 'f', 'd'}
 
-print(A.union( (B.intersection(C) )) == (A.union(B)).intersection(A.union(C))))
+print(A.union( (B.intersection(C) )) == (A.union(B)).intersection(A.union(C)))
