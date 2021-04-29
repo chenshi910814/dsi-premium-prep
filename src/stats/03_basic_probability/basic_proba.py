@@ -10,3 +10,6 @@ for pet1 in pets:
 
 for pet_outcome in pet_outcomes:
     print(pet_outcome)
+
+print(4**4)
+print(len(pet_outcomes))
