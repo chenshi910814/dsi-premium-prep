@@ -29,4 +29,10 @@ two_or_more_c = []
 
 # print(proba_two_or_more_c)
 
+def series_of_flips(n):
+    flips = []
 
+    for _ in range(n):
+        flips.append(coin_flip())
+
+    return flips
