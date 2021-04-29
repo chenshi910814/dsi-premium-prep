@@ -74,4 +74,22 @@ for outcome in outcomes:
 
 
 
+def ten_flip_sample_space():
+    flips = ['H', 'T']
+    outcomes = []
 
+    for f1 in flips:
+        for f2 in flips:
+            for f3 in flips:
+                for f4 in flips:
+                    for f5 in flips:
+                        for f6 in flips:
+                            for f7 in flips:
+                                for f8 in flips:
+                                    for f9 in flips:
+                                        for f10 in flips:
+                                            outcomes.append([f1, f2, f3, f4, f5, f6, f7, f8, f9, f10])
+    return outcomes
+
+for outcome in ten_flip_sample_space():
+    print(outcome)
