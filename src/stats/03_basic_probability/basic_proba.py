@@ -70,6 +70,8 @@ for outcome in outcomes:
     if outcome.count('H') == 3:
         A.append(outcome)
 
-print(len(A) / len(outcomes))
+# print(len(A) / len(outcomes))
+
+
 
 
