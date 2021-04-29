@@ -57,7 +57,7 @@ def four_flip_sample_space():
         for f2 in flips:
             for f3 in flips:
                 for f4 in flips:
-                    outcomes.append(f1, f2, f3, f4)
+                    outcomes.append([f1, f2, f3, f4])
     return outcomes
 
 outcomes = four_flip_sample_space()
