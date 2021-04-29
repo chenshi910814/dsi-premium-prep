@@ -116,7 +116,7 @@ for num1 in numbers:
         for num3 in numbers:
             print('    ', num3)
             for num4 in numbers:
-                print('      ', num4)
+                print('      ', num4, f' : {num1}{num2}{num3}{num4}') 
 #                 base_ten.append([num1, num2, num3, num4])
 
 # for num in base_ten:
