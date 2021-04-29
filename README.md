@@ -288,7 +288,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 13]()
+**Recording**: [Lecture 13](https://youtu.be/8UnWg9jYxYs)
 
 
 ---------------------------------------------------------
