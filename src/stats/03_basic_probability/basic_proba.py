@@ -110,10 +110,14 @@ numbers = [0,1,2,3,4,5,6,7,8,9]
 base_ten = []
 
 for num1 in numbers:
+    print(num1)
     for num2 in numbers:
+        print('  ', num2)
         for num3 in numbers:
+            print('    ', num3)
             for num4 in numbers:
-                base_ten.append([num1, num2, num3, num4])
+                print('      ', num4)
+#                 base_ten.append([num1, num2, num3, num4])
 
-for num in base_ten:
-    print(num)
+# for num in base_ten:
+#     print(num)
