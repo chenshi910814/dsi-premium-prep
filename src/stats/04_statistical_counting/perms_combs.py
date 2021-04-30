@@ -58,3 +58,6 @@ for sp_number in sports_counting:
 # for sp_number in sp_perms:
 #     print(sp_number)
 
+
+
+
