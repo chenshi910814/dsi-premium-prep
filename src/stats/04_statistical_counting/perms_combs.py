@@ -23,3 +23,6 @@ def permutations(n, k):
 # print(permutations(n=30, k=17))
 
 
+n = 10
+k = 4
+print(permutations(n, k))
