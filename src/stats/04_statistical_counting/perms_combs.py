@@ -12,5 +12,10 @@ def factorial(num):
 def permutations(n, k):
     return int(factorial(n) / factorial(n-k))
 
+def permutations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= 1
+    return perm
 
 print(permutations(n=5, k=5))
