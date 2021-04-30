@@ -181,6 +181,8 @@ def basketball_combs_samp(team_size=11, num_players=5):
         player_comb = []
 
         while len(player_comb) < num_players:
+            player_num = choice(player_range)
+
             if player_num not in player_comb:
                 player_comb.append(player_num)
 
