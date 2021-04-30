@@ -8,3 +8,6 @@ def factorial(num):
 
 # print(1 / factorial(10))
 
+
+def permutations(n, k):
+    return factorial(n) / factorial(n-k)
