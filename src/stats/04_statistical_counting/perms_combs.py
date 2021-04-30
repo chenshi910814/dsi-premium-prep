@@ -8,4 +8,4 @@ def factorial(num):
 
 # print(factorial(52))
 
-print(factorial(24))
+print(factorial(12))
