@@ -126,3 +126,38 @@ def combinations(n, k):
 
 # print(combinations(21, 5))
 
+
+
+num_combs = combinations(11, 5)
+
+def basketball_combs():
+    eleven_nums = range(1, 11+1)
+
+    # every number in base-5
+    possible_five = []
+
+    for i in eleven_nums:
+        for j in eleven_nums:
+            for k in eleven_nums:
+                for l in eleven_nums:
+                    for m in eleven_nums:
+                        possible_five.append([i,j,k,l,m])
+
+    perms = []
+
+    for five in possible_five:
+        if len(list(set(five))) == 5:
+            perms.append(five)
+
+    combs = []
+
+    for five in perms:
+        sorted_five = sorted(five)
+
+        if sorted_five not in combs:
+            combs.append(sorted_five)
+
+    return combs
+
+for team_comb in basketball_combs():
+    print(team_comb)
