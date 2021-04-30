@@ -56,4 +56,4 @@ for sp_number in sports_counting:
         sp_perms.append(sp_number)
 
 for sp_number in sp_perms:
-    print(print(sp_number))
+    print(sp_number)
