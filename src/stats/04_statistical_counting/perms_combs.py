@@ -1,4 +1,4 @@
-
+from random import choice
 
 def factorial(num):
     prod = 1
@@ -167,4 +167,8 @@ def basketball_combs():
 # print(num_combs)
 
 
+
+'''
+Combs via sampling
+'''
 
