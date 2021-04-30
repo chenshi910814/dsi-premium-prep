@@ -12,7 +12,7 @@ def factorial(num):
 def permutations(n, k):
     return int(factorial(n) / factorial(n-k))
 
-print(permutations(n=30, k=17))
+# print(permutations(n=30, k=17))
 
 def permutations(n, k):
     perm = 1
@@ -25,4 +25,6 @@ def permutations(n, k):
 
 n = 10
 k = 4
-print(permutations(n, k))
+# print(permutations(n, k))
+
+
