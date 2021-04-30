@@ -161,3 +161,6 @@ def basketball_combs():
 
 for team_comb in basketball_combs():
     print(team_comb)
+
+print(len(team_comb))
+print(num_combs)
