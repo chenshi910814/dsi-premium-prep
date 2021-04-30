@@ -312,7 +312,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 14]()
+**Recording**: [Lecture 14](https://youtu.be/8U747iC_oZ8)
 
 
 
