@@ -55,5 +55,6 @@ for sp_number in sports_counting:
     if perm == True:
         sp_perms.append(sp_number)
 
-for sp_number in sp_perms:
-    print(sp_number)
+# for sp_number in sp_perms:
+#     print(sp_number)
+
