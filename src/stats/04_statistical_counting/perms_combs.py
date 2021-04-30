@@ -10,4 +10,7 @@ def factorial(num):
 
 
 def permutations(n, k):
-    return factorial(n) / factorial(n-k)
+    return int(factorial(n) / factorial(n-k))
+
+
+print(permutations(n=5, k=5))
