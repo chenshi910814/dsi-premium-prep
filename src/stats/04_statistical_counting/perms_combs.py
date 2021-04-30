@@ -159,9 +159,12 @@ def basketball_combs():
 
     return combs
 
-b_combs = basketball_combs()
-for team_comb in b_combs:
-    print(team_comb)
+# b_combs = basketball_combs()
+# for team_comb in b_combs:
+#     print(team_comb)
 
-print(len(b_combs))
-print(num_combs)
+# print(len(b_combs))
+# print(num_combs)
+
+
+
