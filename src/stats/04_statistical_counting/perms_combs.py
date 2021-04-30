@@ -107,7 +107,7 @@ def heaps_non_recursive(lst, k):
 
 base_5 = ['tennis', 'swimming', 'racquetball', 'basketball', 'soccer']
 
-base_5_perms = heaps_non_recursive(base_5, k=5)
+base_5_perms = heaps_non_recursive(base_5, k=3)
 
 for perm in base_5_perms:
     print(perm)
