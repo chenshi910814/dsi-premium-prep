@@ -15,7 +15,7 @@ def permutations(n, k):
 def permutations(n, k):
     perm = 1
     for i in range(n, n-k, -1):
-        perm *= 1
+        perm *= i
     return perm
 
 print(permutations(n=5, k=5))
