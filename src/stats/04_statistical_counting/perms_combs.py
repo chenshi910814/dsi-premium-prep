@@ -65,3 +65,9 @@ for sp_number in sports_counting:
 Heap's Algorithm
 '''
 
+def swap(lst, idx_1, idx_2):
+    lst_ = lst.copy()
+    temp = lst_[idx_2]
+    lst_[idx_2] = lst_[idx_1]
+    lst_[idx_1] = temp
+    return lst_
