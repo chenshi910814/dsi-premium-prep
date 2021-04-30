@@ -278,7 +278,7 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
 [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
