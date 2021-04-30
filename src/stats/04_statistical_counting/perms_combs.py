@@ -20,4 +20,6 @@ def permutations(n, k):
         perm *= i
     return perm
 
-print(permutations(n=30, k=17))
+# print(permutations(n=30, k=17))
+
+
