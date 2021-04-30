@@ -116,7 +116,7 @@ def heaps_non_recursive(lst, k):
 def combinations(n, k):
     return int(factorial(n) / (factorial(n-k) * factorial(k)))
 
-print(combinations(21, 5))
+# print(combinations(21, 5))
 
 def combinations(n, k):
     perm = 1
@@ -124,4 +124,5 @@ def combinations(n, k):
         perm *= i
     return int(perm / factorial(k))
 
-print(combinations(21, 5))
+# print(combinations(21, 5))
+
