@@ -28,3 +28,14 @@ k = 4
 # print(permutations(n, k))
 
 
+base_5 = ['tennis', 'swimming', 'racquetball', 'basketball', 'soccer']
+
+sports_counting = []
+
+for sp1 in base_5:
+    for sp2 in base_5:
+        for sp3 in base_5:
+            for sp4 in base_5:
+                for sp5 in base_5:
+                    sports_counting.append([sp1, sp2, sp3, sp4, sp5])
+
