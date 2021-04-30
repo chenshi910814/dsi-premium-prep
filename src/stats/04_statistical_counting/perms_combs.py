@@ -39,5 +39,21 @@ for sp1 in base_5:
                 for sp5 in base_5:
                     sports_counting.append([sp1, sp2, sp3, sp4, sp5])
 
-for sp in sports_counting:
-    print(sp)
+# for sp in sports_counting:
+#     print(sp)
+
+sp_perms = []
+
+for sp_number in sports_counting:
+    perm = True
+
+    for sp in sp_number:
+        if sp_number.count(sp) > 1:
+            perm = False
+            break
+
+    if perm == True:
+        sp_perms.append(sp_number)
+
+for sp_number in sp_perms:
+    print(print(sp_number))
