@@ -229,3 +229,9 @@ def combs_alg_from_itertools(lst, k):
             indices[j] = indices[j-1] + 1
         yield tuple(lst_frozen[i] for i in indices)
 
+
+eleven_nums = list(range(1, 11+1))
+team_combs = combs_alg_from_itertools(eleven_nums, 5)
+
+for comb in team_combs:
+    print(comb)
