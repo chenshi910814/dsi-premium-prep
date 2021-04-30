@@ -196,5 +196,36 @@ def basketball_combs_samp(team_size=11, num_players=5):
 team_size = 21
 num_players = 5
 
-print(len(basketball_combs_samp(team_size, num_players)))
-print(combinations(team_size, num_players))
+# print(len(basketball_combs_samp(team_size, num_players)))
+# print(combinations(team_size, num_players))
+
+
+'''
+more optimal combs (itertools alg)
+'''
+
+def combs_alg_from_itertools(lst, k):
+    # freeze lst
+    lst_frozen = tuple(lst)
+    n = len(lst_frozen)
+
+    combs = []
+
+    # fault control
+    if k > n: return "k cannot be greater than n"
+
+    indices = list(range(k))
+
+    yield tuple(lst_frozen[i] for i in indices)
+    while True:
+        for i in reversed(range(k)):
+            if indices[i] != i + n-k:
+                break
+        else:
+            return
+
+        indices[i] += 1
+        for j in range(i+1, k):
+            indices[j] = indices[j-1] + 1
+        yield tuple(lst_frozen[i] for i in indices)
+
