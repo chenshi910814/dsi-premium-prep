@@ -6,4 +6,6 @@ def factorial(num):
         prod *= n
     return prod
 
-print(factorial(52))
+# print(factorial(52))
+
+print(factorial(24))
