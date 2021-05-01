@@ -300,7 +300,7 @@ We can fill our dictionary like this because we know exactly what the question i
 d = {'vowels': 0, 'consonants': 0, 'nonalpha': 0}     
 ```
 
-We now need to iterate over our string and identify each of the three types of characters we are interested.
+We now need to iterate over our string and identify each of the three types of characters we are interested in.
 
 How can we identify vowels in a string?
 
@@ -316,7 +316,7 @@ How can we identify vowels in a string?
 d = {'vowels': 0, 'consonants': 0, 'nonalpha': 0}     
 ```
 
-We now need to iterate over our string and identify each of the three types of characters we are interested.
+We now need to iterate over our string and identify each of the three types of characters we are interested in.
 
 How can we identify vowels in a string?
 
@@ -336,7 +336,7 @@ if char.lower() in ['a', 'e', 'i', 'o', 'u']:
 d = {'vowels': 0, 'consonants': 0, 'nonalpha': 0}     
 ```
 
-We now need to iterate over our string and identify each of the three types of characters we are interested.
+We now need to iterate over our string and identify each of the three types of characters we are interested in.
 
 How can we identify non-alphas in a string?
 
@@ -352,7 +352,7 @@ How can we identify non-alphas in a string?
 d = {'vowels': 0, 'consonants': 0, 'nonalpha': 0}     
 ```
 
-We now need to iterate over our string and identify each of the three types of characters we are interested.
+We now need to iterate over our string and identify each of the three types of characters we are interested in.
 
 How can we identify non-alphas in a string?
 

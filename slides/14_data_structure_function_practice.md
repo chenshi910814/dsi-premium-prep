@@ -1,7 +1,6 @@
 # Function practice on data structures
 
 
-
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
@@ -91,7 +90,7 @@ d2 = {k+'_test': v%13 for k, v in D2.items()}
 ---------------------------------------------------------------
 # BREAKOUT (8 minutes)
 Create a function that will check to see if a book is in a library and if it isn’t, then update your library with the book and let the user know it was a new book, else tell the user that the book was not new.  (Remember capitalization matters) Return your library as a list
-    a. Try this if your library was a list - use list methods 
+    a. Try this if your library was a list - use list methods
     b. Try this if your library was a set - use set methods
 
 ```python
@@ -144,7 +143,7 @@ Write a Python program that analyzes string and compiles statistics on it. Your 
 The program should PRINT using string formatting:
 1. The total word count
 2. The count of unique words
-3. The number of sentences 
+3. The number of sentences
 4. The average sentence length in words (whole number)
 5. A list of words used, in order of descending frequency
 
@@ -172,7 +171,7 @@ def word_counter(text_list):
         if word not in d:
             d[word] = 0
         d[word] += 1
-    
+
     for word, count in d.items():
         out.append((count, word))
 
