@@ -95,3 +95,9 @@ for _ in range(100000):
 
 # for k, v in sorted(outcomes.items()):
 #     print(f'{k}: {v}')
+
+
+'''
+3. Answer questions
+'''
+
