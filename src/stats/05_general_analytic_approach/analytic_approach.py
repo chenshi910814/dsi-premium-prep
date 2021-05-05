@@ -139,4 +139,17 @@ def gumball_capacity():
 #     print(f'{r}: {v}')
 
 
+'''
+3. Answer Questions
 
+What size sphere will it take to accommodate n gumballs?
+'''
+
+def get_sphere(gumball_inventory):
+    d = gumball_capacity()
+
+    for k, v in d.items():
+        if v > gumball_inventory:
+            return k
+
+    return d
