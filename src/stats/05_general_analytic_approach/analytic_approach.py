@@ -1,4 +1,7 @@
 
+
+################# Counting ####################
+
 '''
 1. Synthesize Outcomes by Counting
 '''
@@ -53,4 +56,25 @@ for outcome in S:
     if outcome[0] >= range_to_hit and outcome[2].count('H') == 2:
         hits.append(outcome)
 
-print(f'proba: {round(len(hits) / len(S), 3)}')
+# print(f'proba: {round(len(hits) / len(S), 3)}')
+
+
+
+
+################ Sampling Approach ################
+
+'''
+1. Synthesize outcomes
+''' 
+
+from random import choice
+
+def num_attendees():
+    num_peeps = 1
+
+    for _ in range(20):
+        num_peeps += choice(range(0, 11+1))
+
+    return num_peeps
+
+print(num_attendees())
