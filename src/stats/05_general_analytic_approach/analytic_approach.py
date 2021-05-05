@@ -78,3 +78,18 @@ def num_attendees():
     return num_peeps
 
 print(num_attendees())
+
+
+'''
+2. Observe values
+'''
+
+outcomes = dict()
+
+for _ in range(100000):
+    attending = num_attendees()
+
+    if attending not in outcomes:
+        outcomes[attending] = 0
+    outcomes[attending] += 1
+
