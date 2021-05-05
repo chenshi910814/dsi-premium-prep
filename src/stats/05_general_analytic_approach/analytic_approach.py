@@ -108,3 +108,17 @@ eighty_to_ninety = 0
 #     eighty_to_ninety += outcomes[attendees]
 
 # print(f'{round(eighty_to_ninety / total, 3)}')
+
+
+################### Closed Formula #################
+
+'''
+1. Synthesize outcomes
+'''
+
+from math import pi
+
+def spherical_volume(r):
+    return (4/3) * pi * r**3
+
+
