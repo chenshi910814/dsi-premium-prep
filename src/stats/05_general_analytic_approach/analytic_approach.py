@@ -86,12 +86,12 @@ def num_attendees():
 
 outcomes = dict()
 
-for _ in range(100000):
-    attending = num_attendees()
+# for _ in range(100000):
+#     attending = num_attendees()
 
-    if attending not in outcomes:
-        outcomes[attending] = 0
-    outcomes[attending] += 1
+#     if attending not in outcomes:
+#         outcomes[attending] = 0
+#     outcomes[attending] += 1
 
 # for k, v in sorted(outcomes.items()):
 #     print(f'{k}: {v}')
@@ -102,9 +102,9 @@ for _ in range(100000):
 '''
 
 eighty_to_ninety = 0
-total = sum(outcomes.values())
+# total = sum(outcomes.values())
 
-for attendees in range(80, 90+1):
-    eighty_to_ninety += outcomes[attendees]
+# for attendees in range(80, 90+1):
+#     eighty_to_ninety += outcomes[attendees]
 
-print(f'{round(eighty_to_ninety / total, 3)}')
+# print(f'{round(eighty_to_ninety / total, 3)}')
