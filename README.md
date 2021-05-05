@@ -364,7 +364,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 17]()
+**Recording**: [Lecture 17](https://youtu.be/rrluaczuzq8)
 
 ---------------------------------------------------------
 ### Day 18: Wednesday May 5 (6pm - 8pm Pacific)
