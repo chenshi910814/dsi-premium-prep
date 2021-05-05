@@ -121,4 +121,6 @@ from math import pi
 def spherical_volume(r):
     return (4/3) * pi * r**3
 
+print(spherical_volume(5))
+
 
