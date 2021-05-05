@@ -29,7 +29,20 @@ for roll in rolls:
         for flips in coin_flips:
             S.append([roll, card, flips])
 
-for res in S:
-    print(res)
 
-print(len(S))
+
+
+'''
+2. Observe/Interpret values in list
+'''
+
+# for res in S:
+#     print(res)
+
+# print(len(S))
+
+
+'''
+3. Answer Questions/Interpret
+'''
+
