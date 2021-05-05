@@ -26,3 +26,5 @@ for roll in rolls:
 
 for res in S:
     print(res)
+
+print(len(S))
