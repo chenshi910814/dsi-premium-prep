@@ -1,3 +1,8 @@
+
+'''
+1. Synthesize Outcomes by Counting
+'''
+
 rolls = range(1, 36+1)
 
 suits = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
