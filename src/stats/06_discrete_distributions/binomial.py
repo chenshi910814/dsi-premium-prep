@@ -156,7 +156,7 @@ def binary_sampling_vary_p(num_bits=8, p=0.5, num_samples=1000):
     return d
 
 
-d = binary_sampling_vary_p(num_bits=8, p=0.3, num_samples=1000)
+d = binary_sampling_vary_p(num_bits=8, p=0.95, num_samples=1000)
 
 for k, cnt in sorted(d.items()):
     print(f'{k}: {cnt / sum(d.values())}')
