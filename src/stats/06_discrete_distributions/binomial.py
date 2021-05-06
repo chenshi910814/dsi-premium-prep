@@ -7,7 +7,7 @@ def gen_4_bit_binary():
         for j in range(2):
             for k in range(2):
                 for l in range(2):
-                    bin_dct[decimal].append([i, j, k, l])
+                    bin_dct[decimal] = [i, j, k, l]
                     decimal += 1
 
     return bin_dct
