@@ -100,3 +100,28 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 
 # for k, cnt in sorted(d2.items()):
 #     print(f'{k}: {cnt / sum(d2.values())}')
+
+
+def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
+    d_out = dict()
+
+    for _ in range(num_sample_trials):
+        d = binary_sampling_dict(n_bits, num_samples)
+
+        for k, v in d.items():
+            if k not in d_out:
+                d_out[k] = []
+            d_out[k].append(v)
+
+    for k, v in d_out.items():
+        d_out[k] = sum(v) / len(v)
+    
+    return d_out
+
+d = binary_sampling_clt(n_bits=8, num_samples=1000, num_sample_trials=500)
+
+for k, v in sorted(d.items()):
+    print(f'{k}: {v}')
+
+for k, v in sorted(d.items()):
+    print(f'{k}: {v / sum(d.values())}')
