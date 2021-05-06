@@ -127,3 +127,9 @@ def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
 #     print(f'{k}: {v / sum(d.values())}')
 
 
+from random import random
+
+print(random())
+
+def get_success(p=0.5):
+    if random()
