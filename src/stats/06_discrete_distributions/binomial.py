@@ -91,3 +91,7 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
         d[observed_k] += 1
     return d
 
+d = binary_sampling_dict(num_bits=8, num_samples=1000)
+
+for k, cnt in d.items():
+    print(f'{k}: {cnt}')
