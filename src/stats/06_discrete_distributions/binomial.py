@@ -65,3 +65,10 @@ def binomial_distr(n_trials=8):
 
 # for k, v in d.items():
 #     print(f'{k}: {round(v / sum(d.values()), 5)}' )
+
+
+from random import choice
+
+def get_bit():
+    return choice([0,1])
+
