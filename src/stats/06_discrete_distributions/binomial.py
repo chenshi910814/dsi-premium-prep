@@ -28,4 +28,6 @@ def dec_to_bin(dec, n_bits=8):
     
     return bin_list[::-1]
 
-print(dec_to_bin(1))
+# print(dec_to_bin(43))
+
+
