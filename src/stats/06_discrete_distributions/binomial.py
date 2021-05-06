@@ -178,10 +178,13 @@ def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_tri
     
     return d_out
 
-d = binary_sampling_clt_vary_p(n_bits=8, p=0.3, num_samples=1000, num_sample_trials=500)
+# d = binary_sampling_clt_vary_p(n_bits=8, p=0.3, num_samples=1000, num_sample_trials=500)
 
-for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
 
-for k, v in sorted(d.items()):
-    print(f'{k}: {v / sum(d.values())}')
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v / sum(d.values())}')
+
+
+
