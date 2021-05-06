@@ -162,7 +162,7 @@ def binary_sampling_vary_p(num_bits=8, p=0.5, num_samples=1000):
 #     print(f'{k}: {cnt / sum(d.values())}')
 
 
-def binary_sampling_clt(n_bits=8, p=0.5, num_samples=1000, num_sample_trials=500):
+def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_trials=500):
     d_out = dict()
 
     for _ in range(num_sample_trials):
