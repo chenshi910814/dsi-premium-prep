@@ -78,3 +78,4 @@ def generate_n_bits(n=8):
     # for _ in range(n):
     #     lst.append(get_bit())
     # return lst
+
