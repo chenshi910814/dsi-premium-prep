@@ -188,3 +188,8 @@ def binary_sampling_clt_vary_p(n_bits=8, p=0.5, num_samples=1000, num_sample_tri
 
 
 
+from math import factorial   
+
+def combinations(n, k): 
+    return int(factorial(n) / (factorial(n-k) * factorial(k))) 
+
