@@ -387,7 +387,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 18]()
+**Recording**: [Lecture 18](https://youtu.be/fWeKHitaHVc)
 
 ---------------------------------------------------------
 ### Day 19: Thursday May 6 (6pm - 8pm Pacific)
