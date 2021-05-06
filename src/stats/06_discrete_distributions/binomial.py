@@ -9,7 +9,7 @@ def gen_4_bit_binary():
                 for l in range(2):
                     bin_dct[decimal] = [i, j, k, l]
 
-    return
+    return bin_dct
 
 for dec, bin_ in gen_4_bit_binary().items():
     print(f'{dec}: {bin_}')
