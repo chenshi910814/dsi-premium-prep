@@ -79,3 +79,15 @@ def generate_n_bits(n=8):
     #     lst.append(get_bit())
     # return lst
 
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n_bits(num_bits)
+        observed_k = sum(binary)
+
+        if observed_k not in d:
+            d[observed_k] = 0
+        d[observed_k] += 1
+    return d
+
