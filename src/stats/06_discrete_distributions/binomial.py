@@ -137,3 +137,7 @@ def get_success(p=0.5):
     else:
         return 0
 
+def generate_n_successes(n=8, p=0.5):
+    return [get_success(p) for _ in range(n)]
+
+print(generate_n_successes(n=8, p=0.5))
