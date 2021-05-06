@@ -57,14 +57,14 @@ def binomial_distr(n_trials=8):
     return binomial_dict
 
 
-# d = binomial_distr(n_trials=12)
+d = binomial_distr(n_trials=8)
 
 # for k, v in d.items():
 #     print(f'{k}: {v}' )
 
 
-# for k, v in d.items():
-#     print(f'{k}: {round(v / sum(d.values()), 5)}' )
+for k, v in d.items():
+    print(f'{k}: {round(v / sum(d.values()), 5)}' )
 
 
 from random import choice
@@ -91,12 +91,12 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
         d[observed_k] += 1
     return d
 
-d = binary_sampling_dict(num_bits=8, num_samples=1000)
+# d = binary_sampling_dict(num_bits=8, num_samples=1000)
 
-for k, cnt in sorted(d.items()):
-    print(f'{k}: {cnt / sum(d.values())}')
+# for k, cnt in sorted(d.items()):
+#     print(f'{k}: {cnt / sum(d.values())}')
 
-d2 = binary_sampling_dict(num_bits=8, num_samples=100)
+# d2 = binary_sampling_dict(num_bits=8, num_samples=100)
 
-for k, cnt in sorted(d2.items()):
-    print(f'{k}: {cnt / sum(d2.values())}')
+# for k, cnt in sorted(d2.items()):
+#     print(f'{k}: {cnt / sum(d2.values())}')
