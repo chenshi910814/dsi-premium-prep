@@ -197,6 +197,11 @@ def binomial_pmf(n, p, k):
     return combinations(n, k) * p**k * (1-p)**(n-k)
 
 
-n, k, p = 12, 7, 0.5
+# n, k, p = 12, 7, 0.5
+
+# print(binomial_pmf(n, p, k))
+
+
+n, k, p = 12, 4, 0.3
 
 print(binomial_pmf(n, p, k))
