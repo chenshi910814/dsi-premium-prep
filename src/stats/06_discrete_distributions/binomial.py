@@ -224,4 +224,5 @@ n = 9
 p = 0.5
 
 
-print(binomial_cdf(n, k_high, p=0.5))
+# print(binomial_cdf(n, k_high, p=0.5))
+
