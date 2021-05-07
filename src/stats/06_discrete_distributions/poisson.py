@@ -36,4 +36,4 @@ def poisson_cdf(lam, low_k, high_k):
     return proba
 
 lam = 15*(15/10)
-print(1 - poisson_cdf(lam, low_k=0, high_k=15))
+print(1 - poisson_cdf(lam, low_k=0, high_k=22))
