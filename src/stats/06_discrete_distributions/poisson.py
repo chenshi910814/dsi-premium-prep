@@ -23,13 +23,15 @@ k = 10
 #     print(f'poiss: {round(poisson_pmf(lam, k), 7)}')
 #     print()
 
+# lam = 15 * (15/10)
+# k = 20
+# print(lam)
+# print(poisson_pmf(lam, k))
 
 
+def poisson_cdf(lam, low_k, high_k):
+    proba = 0
+    for k in range(low_k, high_k+1):
+        proba += poisson_pmf(lam, k)
+    return proba
 
-
-
-
-lam = 15 * (15/10)
-k = 20
-print(lam)
-print(poisson_pmf(lam, k))
