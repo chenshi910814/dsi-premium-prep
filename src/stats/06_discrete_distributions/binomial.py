@@ -215,7 +215,7 @@ def binomial_cdf(n, k_high, p=0.5):
     res = []
 
     for i in range(k_high+1):
-        res.append(binomial_pmf(n, p, k_high))
+        print(binomial_pmf(n, p, i))
 
     return sum(res)
 
