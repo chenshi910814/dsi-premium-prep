@@ -218,3 +218,10 @@ def binomial_cdf(n, k_high, p=0.5):
         res.append(binomial_pmf(n, p, k_high))
 
     return sum(res)
+
+k_high = 4
+n = 9
+p = 0.5
+
+
+print(binomial_cdf(n, k_high, p=0.5))
