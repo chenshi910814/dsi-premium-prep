@@ -205,3 +205,7 @@ def binomial_pmf(n, p, k):
 n, k, p = 12, 4, 0.3
 
 print(binomial_pmf(n, p, k))
+
+n, k, p = 14, 6, 0.4
+
+print(binomial_pmf(n, p, k))
