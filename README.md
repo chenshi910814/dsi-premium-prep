@@ -406,14 +406,13 @@
 
 
 
-**Recording**: [(to be posted) Lecture 19]()
+**Recording**: [Lecture 19](https://youtu.be/-WhL05K5t9k)
 
 ---------------------------------------------------------
 ### Day 20: Saturday May 8 (11am - 1pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
-* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 * [Geometric Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/29_geometric_distribution.md)
 
 **HW assignment**: 
