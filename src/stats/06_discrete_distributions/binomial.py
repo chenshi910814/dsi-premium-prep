@@ -244,7 +244,21 @@ def binomial_pmf_dict(n, k_low, k_high, p=0.5):
 
     return d
 
-d = binomial_pmf_dict(12, 0, 12, p=0.5)
+# d = binomial_pmf_dict(12, 0, 12, p=0.5)
 
-for k, p in d.items():
-    print(f'{k}: {p}') 
+# for k, p in d.items():
+#     print(f'{k}: {p}') 
+
+
+def binomial_cdf_dict(n, k_low, k_high, p=0.5):
+    d = dict()
+
+    for k in range(k_low, k_high+1):
+        d[k] = binomial_cdf(n, k, p)
+
+    return d
+
+# d = binomial_pmf_dict(12, 0, 12, p=0.5)
+
+# for k, p in d.items():
+#     print(f'{k}: {p}') 
