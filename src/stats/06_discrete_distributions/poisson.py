@@ -56,3 +56,15 @@ def poisson_pmf_dict(lam, low_k, high_k):
 #     print(f'{k}: {p}')
 
 
+def poisson_count_exp(lam, low_k, high_k, num_samples=10000):
+    d = dict()
+
+    for k in range(low_k, high_k+1):
+        d[k] = round(poisson_pmf(lam, k) * num_samples)
+
+    return d
+
+d = poisson_count_exp(lam=10, low_k=5, high_k=15, num_samples=10000)
+
+for k, cnt in d.items():
+    print(f'{k}: {cnt}')
