@@ -24,3 +24,11 @@ k = 10
 #     print()
 
 
+
+
+
+
+
+lam = 15 * (15/10)
+k = 20
+print(poisson_pmf(lam, k))
