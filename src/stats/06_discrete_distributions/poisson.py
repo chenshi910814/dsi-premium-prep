@@ -50,7 +50,7 @@ def poisson_pmf_dict(lam, low_k, high_k):
 
     return d
 
-d = poisson_pmf_dict(lam, low_k, high_k)
+d = poisson_pmf_dict(lam=10, low_k=0, high_k=30)
 
 for k, p in d.items():
     print(f'{k}: {p}')
