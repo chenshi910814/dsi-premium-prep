@@ -258,7 +258,7 @@ def binomial_cdf_dict(n, k_low, k_high, p=0.5):
 
     return d
 
-d = binomial_cdf_dict(12, 0, 12, p=0.5)
+# d = binomial_cdf_dict(12, 0, 12, p=0.5)
 
-for k, p in d.items():
-    print(f'{k}: {p}') 
+# for k, p in d.items():
+#     print(f'{k}: {p}') 
