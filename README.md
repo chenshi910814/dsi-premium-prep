@@ -395,7 +395,7 @@
 
 **Slide Deck**: 
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
-
+* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 
 **HW assignment**: 
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
