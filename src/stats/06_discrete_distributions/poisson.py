@@ -35,5 +35,22 @@ def poisson_cdf(lam, low_k, high_k):
         proba += poisson_pmf(lam, k)
     return proba
 
-lam = 15*(15/10)
-print(1 - poisson_cdf(lam, low_k=0, high_k=22))
+# lam = 15*(15/10)
+# print(1 - poisson_cdf(lam, low_k=0, high_k=22))
+
+
+
+
+
+def poisson_pmf_dict(lam, low_k, high_k):
+    d = dict()
+
+    for k in range(low_k, high_k+1):
+        d[k] = poisson_pmf(lam, k)
+
+    return d
+
+d = poisson_pmf_dict(lam, low_k, high_k)
+
+for k, p in d.items():
+    print(f'{k}: {p}')
