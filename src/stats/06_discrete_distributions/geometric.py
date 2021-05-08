@@ -42,9 +42,9 @@ def geometric_cdf(p, k):
         geo_cdf += geometric_pmf(p, k)
     return geo_cdf
 
-# successfully passing through 14 routers
-print(0.99**14)
+# # successfully passing through 14 routers
+# print(0.99**14)
 
-# dropped before 15th
-print(geom_cdf(0.01, 14))
-print(geometric_cdf(0.01, 14))
+# # dropped before 15th
+# print(geom_cdf(0.01, 14))
+# print(geometric_cdf(0.01, 14))
