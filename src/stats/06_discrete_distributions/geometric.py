@@ -158,4 +158,4 @@ def geometric_samples_proba_dict(p = 0.05, num_samples=10000, num_sample_trials=
 d = geometric_samples_proba_dict(p=0.5, num_samples=10000, num_sample_trials=100)
 
 for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+    print(f'{k}: {round(v, 4)}')
