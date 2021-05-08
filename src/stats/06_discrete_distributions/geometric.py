@@ -1,3 +1,5 @@
+from random import random
+
 '''
 You're sitting on a park bench.
 There is a 0.2 probability that any given 
@@ -80,4 +82,8 @@ def geometric_cdf_dict(p, k_high):
 #     print(f'{k}: {v}')
 
 
-
+def bernoulli(p=0.5):
+    if random() < p:
+        return 1
+    else:
+        return 0
