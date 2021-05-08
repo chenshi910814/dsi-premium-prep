@@ -180,10 +180,10 @@ for ship1 in ships:
 
 possible_five_ships = []
 
-for i, arrang in enumerate(five_ships):
+for arrang in five_ships:
     valid_ship_arrangement = True
 
-    for ship in arrang:
+    for i, ship in enumerate(arrang):
 
         if ship == 'tanker':
             if i != 0:
