@@ -181,21 +181,29 @@ for ship1 in ships:
 possible_five_ships = []
 
 for i, arrang in enumerate(five_ships):
-    if arrang == 'tanker':
-        if i != 0:
-            if arrang[i-1] in ['yacht', 'cruise ship']:
-                continue
-        if i != 4:
-            if arrang[i+1] in ['yacht', 'cruise ship']:
-                continue
-    if arrang == 'sailboat':
-        if i != 0:
-            if arrang[i-1] == 'transport ship':
-                print(arrang)
-                continue
-        if i != 4:
-            if arrang[i+1] == 'transport ship':
-                continue
+    valid_ship_arrangement = True
+
+    for ship in arrang:
+
+        if arrang == 'tanker':
+            if i != 0:
+                if arrang[i-1] in ['yacht', 'cruise ship']:
+                    valid_ship_arrangement = False
+                    continue
+            if i != 4:
+                if arrang[i+1] in ['yacht', 'cruise ship']:
+                    valid_ship_arrangement = False
+                    continue
+        if arrang == 'sailboat':
+            if i != 0:
+                if arrang[i-1] == 'transport ship':
+                    print(arrang)
+                    valid_ship_arrangement = False
+                    continue
+            if i != 4:
+                if arrang[i+1] == 'transport ship':
+                    valid_ship_arrangement = False
+                    continue
     
     possible_five_ships.append(arrang)
 
