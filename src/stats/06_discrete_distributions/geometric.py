@@ -31,4 +31,11 @@ What is the probability that a given packet of data is lost in the 15th router?
 p = 0.01
 k_incl = 15
 
-print(geometric_pmf(p, k_incl))
+# print(geometric_pmf(p, k_incl))
+
+def geom_cdf(p, k_high):
+    return 1 - (1-p)**k
+
+# successfully passing through 14 routers
+print(geom_cdf(0.99, 14))
+
