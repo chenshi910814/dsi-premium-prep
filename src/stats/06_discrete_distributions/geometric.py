@@ -8,4 +8,4 @@ walks by?
 '''
 p = 0.2
 k_incl = 4
-k_excl = 3
+# k_excl = 3
