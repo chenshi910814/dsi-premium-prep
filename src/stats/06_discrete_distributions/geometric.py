@@ -48,3 +48,6 @@ def geometric_cdf(p, k):
 # # dropped before 15th
 # print(geom_cdf(0.01, 14))
 # print(geometric_cdf(0.01, 14))
+
+
+
