@@ -155,7 +155,58 @@ def geometric_samples_proba_dict(p = 0.05, num_samples=10000, num_sample_trials=
 
     return d_out
 
-d = geometric_samples_proba_dict(p=0.5, num_samples=10000, num_sample_trials=1000)
+# d = geometric_samples_proba_dict(p=0.5, num_samples=10000, num_sample_trials=1000)
 
-for k, v in sorted(d.items()):
-    print(f'{k}: {round(v, 4)}')
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {round(v, 4)}')
+
+
+# 1. Synthesize outcomes
+'''
+We're observing ships on a bay. We see 5 types of ships: tankers, sailboats, yachts, cruise ships, transport.
+
+There are rules in the bay that tankers cannot follow or precede cruise ships or yachts. Sailboats cannot precede or follow transport ships.
+'''
+
+ships = ['tanker', 'sailboat', 'yacht', 'cruise ship', 'transport ship']
+
+five_ships = []
+for ship1 in ships:
+    for ship2 in ships:
+        for ship3 in ships:
+            for ship4 in ships:
+                for ship5 in ships:
+                    five_ships.append([ship1, ship2, ship3, ship4, ship5])
+
+possible_five_ships = []
+
+for i, arrang in enumerate(five_ships):
+    if arrang == 'tanker':
+        if i != 0:
+            if arrang[i-1] in ['yacht', 'cruise ship']:
+                continue
+        if i != 4:
+            if arrang[i+1] in ['yacht', 'cruise ship']:
+                continue
+    if arrang == 'sailboat':
+        if i != 0:
+            if arrang[i-1] == 'transport ship':
+                continue
+        if i != 4:
+            if arrang[i+1] == 'transport ship':
+                continue
+    
+    possible_five_ships.append(arrang)
+
+
+for ship in possible_five_ships:
+    print(ship)
+
+# 2. Observe/Interpret values
+
+
+
+# 3. Answer questions
+
+
+
