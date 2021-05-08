@@ -59,7 +59,7 @@ def geometric_pmf_dict(p, k_high):
     return d
 
 
-d = geometric_pmf_dict(p=0.25, k_high=10)
+d = geometric_pmf_dict(p=0.5, k_high=10)
 
 for k, v in d.items():
     print(f'{k}: {v}')
