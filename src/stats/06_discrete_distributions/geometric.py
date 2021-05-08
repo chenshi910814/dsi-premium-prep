@@ -55,3 +55,8 @@ def geometric_pmf_dict(p, k_high):
 
     for k in range(1, k_high+1):
         d[k] = geometric_pmf(p, k, inclusive)
+    
+    return d
+
+
+d = geometric_pmf_dict(p=0.5, k_high=10)
