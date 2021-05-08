@@ -114,3 +114,7 @@ def geometric_samples_dict(p=0.05, num_samples=10000):
         d[num_trials] += 1
 
     return d
+
+d = geometric_samples_dict(p=0.05, num_samples=10000)
+
+for k, v in sorted(d.items())
