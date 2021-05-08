@@ -34,8 +34,8 @@ k_incl = 15
 # print(geometric_pmf(p, k_incl))
 
 def geom_cdf(p, k_high):
-    return 1 - (1-p)**k
+    return 1 - (1-p)**k_high
 
 # successfully passing through 14 routers
-print(geom_cdf(0.99, 14))
+print(geom_cdf(0.50, 14))
 
