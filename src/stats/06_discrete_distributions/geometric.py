@@ -37,7 +37,7 @@ def geom_cdf(p, k_high):
     return 1 - (1-p)**k_high
 
 def geometric_cdf(p, k):
-    geo_cdf = 0
+    geo_cdf = 1
     for i in range (0, k+1):
         geo_cdf += geometric_pmf(p, k)
     return geo_cdf
@@ -51,4 +51,7 @@ def geometric_cdf(p, k):
 
 
 def geometric_pmf_dict(p, k_high):
-    pass
+    d = dict()
+
+    for k in range(1, k_high+1):
+        d[k] = geometric_pmf(p, k, inclusive)
