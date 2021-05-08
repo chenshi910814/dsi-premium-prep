@@ -50,4 +50,5 @@ def geometric_cdf(p, k):
 # print(geometric_cdf(0.01, 14))
 
 
-
+def geometric_pmf_dict(p, k_high):
+    pass
