@@ -98,6 +98,6 @@ def geometric(p=0.5):
         if flip == 1:
             break
 
-    return lst
+    return len(lst)
 
 print(geometric(p=0.1))
