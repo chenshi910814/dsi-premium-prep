@@ -191,6 +191,7 @@ for i, arrang in enumerate(five_ships):
     if arrang == 'sailboat':
         if i != 0:
             if arrang[i-1] == 'transport ship':
+                print(arrang)
                 continue
         if i != 4:
             if arrang[i+1] == 'transport ship':
