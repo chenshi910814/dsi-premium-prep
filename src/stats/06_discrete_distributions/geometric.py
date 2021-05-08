@@ -65,5 +65,5 @@ def geometric_pmf_dict(p, k_high):
 #     print(f'{k}: {v}')
 
 
-def geometric_pmf_dict(p, k_high):
+def geometric_cdf_dict(p, k_high):
     pass
