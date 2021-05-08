@@ -208,13 +208,10 @@ for arrang in five_ships:
         possible_five_ships.append(arrang)
 
 
-for ships in possible_five_ships:
-    print(ships)
-
-
 # 2. Observe/Interpret values
 
-
+for ships in possible_five_ships:
+    print(ships)
 
 # 3. Answer questions
 
