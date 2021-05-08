@@ -88,3 +88,16 @@ def bernoulli(p=0.5):
     else:
         return 0
 
+def geometric(p=0.5):
+    lst = []
+
+    for _ in range(100000000000000000000):
+        flip = bernoulli(p)
+        lst.append(flip)
+
+        if flip == 1:
+            break
+
+    return lst
+
+print(geometric(p=0.5))
