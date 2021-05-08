@@ -132,6 +132,9 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
             d_out[k].append(v)
 
     for k, lst in d_out:
+        if len(lst) == 1:
+            d_out[k] = lst[0]
+            continue
         d_out[k] = round(sum(lst) / len(lst), 5)
 
     return d_out
