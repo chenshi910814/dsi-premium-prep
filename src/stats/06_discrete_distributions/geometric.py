@@ -131,7 +131,7 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
                 d_out[k] = []
             d_out[k].append(v)
 
-    for k, lst in d_out:
+    for k, lst in d_out.items():
         if len(lst) == 1:
             d_out[k] = lst[0]
             continue
@@ -140,7 +140,7 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
     return d_out
 
 
-d = geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
+d = geometric_samples_trials(p=0.05, num_samples=100, num_sample_trials=100)
 
 for k, v in sorted(d.items()):
     print(f'{k}: {v}')
