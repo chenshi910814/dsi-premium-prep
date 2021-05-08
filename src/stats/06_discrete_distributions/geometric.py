@@ -66,4 +66,15 @@ def geometric_pmf_dict(p, k_high):
 
 
 def geometric_cdf_dict(p, k_high):
-    pass
+    d = dict()
+
+    for k in range(1, k_high+1):
+        d[k] = geom_cdf(p, k)
+    
+    return d
+
+
+# d = geometric_pmf_dict(p=0.5, k_high=10)
+
+# for k, v in d.items():
+#     print(f'{k}: {v}')
