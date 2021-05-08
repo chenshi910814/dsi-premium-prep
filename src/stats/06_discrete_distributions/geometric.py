@@ -9,3 +9,8 @@ walks by?
 p = 0.2
 k_incl = 4
 # k_excl = 3
+
+def geometric_pmf(p, k):
+    return p * (1-p)**(k-1)
+
+print(geometric_pmf(p, k_incl))
