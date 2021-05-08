@@ -197,7 +197,6 @@ for arrang in five_ships:
         if ship == 'sailboat':
             if i != 0:
                 if arrang[i-1] == 'transport ship':
-                    print(arrang)
                     valid_ship_arrangement = False
                     continue
             if i != 4:
@@ -210,8 +209,8 @@ for arrang in five_ships:
 
 
 for ships in possible_five_ships:
-    # print(ships)
-    pass
+    print(ships)
+
 
 # 2. Observe/Interpret values
 
