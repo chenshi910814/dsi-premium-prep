@@ -152,3 +152,10 @@ def geometric_samples_proba_dict(p = 0.05, num_samples=10000, num_sample_trials=
 
     for k, v in d.items():
         d_out[k] = v / round(sum(d.values()))
+
+    return d_out
+
+d = geometric_samples_proba_dict(p=0.5, num_samples=10000, num_sample_trials=100)
+
+for k, v in sorted(d.items()):
+    print(f'{k}: {v}')
