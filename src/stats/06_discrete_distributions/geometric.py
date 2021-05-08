@@ -140,7 +140,15 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
     return d_out
 
 
-d = geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
+# d = geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
 
-for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
+
+
+def geometric_samples_proba_dict(p = 0.05, num_samples=10000, num_sample_trials=100):
+    d = geometric_samples_trials(p, num_samples, num_sample_trials)
+    d_out = dict()
+
+    for k, v in d.items():
+        d_out[k] = v / round(sum(d.values()))
