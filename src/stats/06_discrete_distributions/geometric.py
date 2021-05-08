@@ -140,7 +140,7 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
     return d_out
 
 
-d = geometric_samples_trials(p=0.05, num_samples=100, num_sample_trials=100)
+d = geometric_samples_trials(p=0.05, num_samples=1000, num_sample_trials=100)
 
 for k, v in sorted(d.items()):
     print(f'{k}: {v}')
