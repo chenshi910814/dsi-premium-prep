@@ -74,7 +74,7 @@ def geometric_cdf_dict(p, k_high):
     return d
 
 
-d = geometric_cdf_dict(p=0.5, k_high=10)
+d = geometric_cdf_dict(p=0.5, k_high=1000)
 
 for k, v in d.items():
     print(f'{k}: {v}')
