@@ -200,8 +200,9 @@ for i, arrang in enumerate(five_ships):
     possible_five_ships.append(arrang)
 
 
-for ship in possible_five_ships:
-    print(ship)
+for ships in possible_five_ships:
+    # print(ships)
+    pass
 
 # 2. Observe/Interpret values
 
