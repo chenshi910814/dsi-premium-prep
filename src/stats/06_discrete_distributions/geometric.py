@@ -37,7 +37,7 @@ def geom_cdf(p, k_high):
     return 1 - (1-p)**k_high
 
 # successfully passing through 14 routers
-print(geom_cdf(0.50, 14))
+print(geom_cdf(0.99, 14))
 
 # dropped before 15th
 print(geom_cdf(0.01, 14))
