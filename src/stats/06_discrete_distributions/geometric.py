@@ -120,7 +120,7 @@ def geometric_samples_dict(p=0.05, num_samples=10000):
 # for k, v in sorted(d.items()):
 #     print(f'{k}: {v}')
 
-def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
+def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100):
     d_out = dict()
     
     for _ in range(num_sample_trials):
@@ -135,3 +135,9 @@ def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
         d_out[k] = round(sum(lst) / len(lst), 5)
 
     return d_out
+
+
+d = geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
+
+for k, v in sorted(d.items()):
+    print(f'{k}: {v}')
