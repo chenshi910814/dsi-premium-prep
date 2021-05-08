@@ -115,7 +115,23 @@ def geometric_samples_dict(p=0.05, num_samples=10000):
 
     return d
 
-d = geometric_samples_dict(p=0.05, num_samples=100000)
+# d = geometric_samples_dict(p=0.05, num_samples=100000)
 
-for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
+
+def geometric_samples_trials(p=0.05, num_samples=10000, num_sample_trials=100)
+    d_out = dict()
+    
+    for _ in range(num_sample_trials):
+        d = geometric_samples_dict(p, num_samples)
+
+        for k, v in d.items():
+            if k not in d_out:
+                d_out[k] = []
+            d_out[k].append(v)
+
+    for k, lst in d_out:
+        d_out[k] = round(sum(lst) / len(lst), 5)
+
+    return d_out
