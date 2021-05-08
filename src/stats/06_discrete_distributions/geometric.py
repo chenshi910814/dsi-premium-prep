@@ -13,4 +13,5 @@ k_incl = 4
 def geometric_pmf(p, k):
     return p * (1-p)**(k-1)
 
-print(geometric_pmf(p, k_incl))
+# print(geometric_pmf(p, k_incl))
+
