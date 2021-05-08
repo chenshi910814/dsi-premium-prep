@@ -100,4 +100,4 @@ def geometric(p=0.5):
 
     return lst
 
-print(geometric(p=0.5))
+print(geometric(p=0.1))
