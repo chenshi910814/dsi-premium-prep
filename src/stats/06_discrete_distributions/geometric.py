@@ -21,4 +21,4 @@ You are flipping a fair coin. What is the probability that you get your first he
 p = 0.5
 k_incl = 7
 
-print(geometric_pmf(p, k_incl))
+# print(geometric_pmf(p, k_incl))
