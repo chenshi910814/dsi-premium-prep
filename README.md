@@ -423,7 +423,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 20]()
+**Recording**: [Lecture 20](https://youtu.be/rMpVCB2-rOg)
 
 
 ---------------------------------------------------------
