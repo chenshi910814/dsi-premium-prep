@@ -79,4 +79,11 @@ x = 300
 mu = 475
 sigma = 98
 
-print(normal_cdf(x, mu, sigma)) # 0.0371
+# print(normal_cdf(x, mu, sigma)) # 0.0371 as compared to 0.0367
+
+
+x = 100
+mu = 90
+sigma = 10
+
+print(1 - normal_cdf(x, mu, sigma))
