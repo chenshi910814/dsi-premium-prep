@@ -52,5 +52,5 @@ def exponential_stdev(lam):
 
 # print(exponential_mean(lam=0.1))
 
-print(exponential_variance(lam=0.1))
-print(exponential_stdev(lam=0.1))
+# print(exponential_variance(lam=0.1))
+# print(exponential_stdev(lam=0.1))
