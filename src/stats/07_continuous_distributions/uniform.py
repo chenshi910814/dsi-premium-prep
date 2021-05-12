@@ -86,4 +86,4 @@ x = 100
 mu = 90
 sigma = 10
 
-print(1 - normal_cdf(x, mu, sigma))
+print(1 - normal_cdf(x, mu, sigma)) # 0.159
