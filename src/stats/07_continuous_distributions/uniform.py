@@ -1,5 +1,5 @@
 from random import choice
-from math import e, sqrt
+from math import e, sqrt, pi
 
 
 def get_bit():
@@ -54,3 +54,5 @@ def exponential_stdev(lam):
 
 # print(exponential_variance(lam=0.1))
 # print(exponential_stdev(lam=0.1))
+
+
