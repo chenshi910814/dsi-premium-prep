@@ -23,4 +23,4 @@ def get_float():
 
     return float_accum, bin_list
 
-print(get_float())
+# print(get_float())
