@@ -20,9 +20,10 @@ def main():
     # import day_07_lib
     # import day_08_lib
     # import day_09_lib
-    import day_10_lib
+    # import day_10_lib
     # import day_11_lib
     # import day_12_lib
+    import day_13_lib
 
 if __name__ == "__main__":
     main()
