@@ -364,7 +364,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 17]()
+**Recording**: [Lecture 17](https://youtu.be/rrluaczuzq8)
 
 ---------------------------------------------------------
 ### Day 18: Wednesday May 5 (6pm - 8pm Pacific)
@@ -387,7 +387,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 18]()
+**Recording**: [Lecture 18](https://youtu.be/fWeKHitaHVc)
 
 ---------------------------------------------------------
 ### Day 19: Thursday May 6 (6pm - 8pm Pacific)
@@ -395,7 +395,7 @@
 
 **Slide Deck**: 
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
-
+* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 
 **HW assignment**: 
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
@@ -406,14 +406,13 @@
 
 
 
-**Recording**: [(to be posted) Lecture 19]()
+**Recording**: [Lecture 19](https://youtu.be/-WhL05K5t9k)
 
 ---------------------------------------------------------
 ### Day 20: Saturday May 8 (11am - 1pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
-* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 * [Geometric Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/29_geometric_distribution.md)
 
 **HW assignment**: 
@@ -424,7 +423,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 20]()
+**Recording**: [Lecture 20](https://youtu.be/rMpVCB2-rOg)
 
 
 ---------------------------------------------------------
@@ -460,7 +459,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 22]()
+**Recording**: [Lecture 22](https://youtu.be/7STU8B48V58)
 
 
 ---------------------------------------------------------
