@@ -238,4 +238,17 @@ get min and max
 def get_min_max(lst):
     return min(lst), max(lst)
 
-print(get_min_max(outcomes_Y))
+# print(get_min_max(outcomes_Y))
+
+
+def bins_dict(outcomes_Y):
+    d = dict()
+
+    for num in range(0, 401, 10):
+        if num==0: continue
+        d[f'{num-9} to {num}'] = 0
+
+    print(d)
+
+
+bins_dict(outcomes_Y)
