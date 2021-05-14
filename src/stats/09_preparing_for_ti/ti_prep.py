@@ -294,10 +294,10 @@ def bacteria_war_outcomes(bac_1_attributes, bac_2_attributes, num_samples):
         'both die  ': 0
     }
     for _ in range(num_samples):
-        res = bacteria_war(bac_1_attributes, bac_2_attributes)
-        if res == "Bacteria 1 wins!!!":
+        result = bacteria_war(bac_1_attributes, bac_2_attributes)
+        if result == "Bacteria 1 wins!!!":
             d['bac 1 wins'] += 1
-        elif res == "Bacteria 2 wins!!!":
+        elif result == "Bacteria 2 wins!!!":
             d["bac 2 wins"] += 1
         else:
             d['both die  '] += 1
