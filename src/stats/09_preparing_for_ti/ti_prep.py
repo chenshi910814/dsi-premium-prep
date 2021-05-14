@@ -189,3 +189,9 @@ bac_2 = [2, 18, 20, 5, 1, 2]
 
 
 
+'''
+Y is the result of rolling a 4-sided die, then a 7-sided die,
+then a 12-sided die, and processing through this function:
+
+Y = (d4**3 + d7**2) * d12**(1/2) 
+'''
