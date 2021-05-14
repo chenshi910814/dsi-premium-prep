@@ -154,3 +154,10 @@ def bacteria_war(bac_1_attr, bac_2_attr):
         return bac_2_attr
     else:
         return [1] * len(bac_1)
+
+
+
+bac_1 = [6, 8, 9, 12, 2, 1]
+bac_2 = [2, 18, 20, 5, 1, 2]
+
+print(bacteria_war(bac_1, bac_2))
