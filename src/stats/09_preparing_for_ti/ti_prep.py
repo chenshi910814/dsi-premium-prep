@@ -228,5 +228,5 @@ for val in outcomes_Y:
     if val > 50:
         gt_50 += 1
 
-print('lte_80', lte_80)
-print('gt_50', gt_50)        
+print('lte_80', lte_80 / len(outcomes_Y))
+print('gt_50', gt_50 / len(outcomes_Y))        
