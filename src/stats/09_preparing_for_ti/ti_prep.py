@@ -179,8 +179,8 @@ def bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000):
             d['both die  '] += 1
     return d
 
-bac_1 = [6, 8, 9, 12, 2, 1]
-bac_2 = [2, 18, 20, 5, 1, 2]
+bac_1 = [sum([6, 8, 9, 12, 2, 1])]
+bac_2 = [sum([2, 18, 20, 5, 1, 2])]
 
 d = bacteria_war_outcomes(bac_1, bac_2, num_samples=10000)
 
