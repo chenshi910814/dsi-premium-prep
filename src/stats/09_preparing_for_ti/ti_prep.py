@@ -5,3 +5,13 @@ There are rules in the bay that tankers cannot follow or precede cruise ships or
 '''
 
 ships = ['tanker', 'sailboat', 'yacht', 'cruise ship', 'transport ship']
+
+
+
+
+
+
+# What is the probability that there will be three sailboats in an observation of 5 ships?
+
+# What is the probability of seeing 2 tankers and yacht in an observation of 5 ships?
+
