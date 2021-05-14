@@ -266,6 +266,7 @@ def bins_dict(outcomes_Y):
 
 bac_1_attributes= [6,8,9,12,2,1]
 bac_2_attributes= [2,18,20,5,1,2]
+
 def bacteria_war(bac_1_attributes, bac_2_attributes):
     bac_1 = series_of_rolls(bac_1_attributes)
     bac_2 = series_of_rolls(bac_2_attributes)
@@ -283,7 +284,9 @@ def bacteria_war(bac_1_attributes, bac_2_attributes):
         return "Bacteria 2 wins!!!"
     else:
         return "Tie....."
-print(bacteria_war(bac_1_attributes, bac_2_attributes))
+
+# print(bacteria_war(bac_1_attributes, bac_2_attributes))
+
 def bacteria_war_outcomes(bac_1_attributes, bac_2_attributes, num_samples):
     d = {
         'bac 1 wins': 0,
@@ -292,13 +295,13 @@ def bacteria_war_outcomes(bac_1_attributes, bac_2_attributes, num_samples):
     }
     for _ in range(num_samples):
         res = bacteria_war(bac_1_attributes, bac_2_attributes)
-        if result == "Bacteria 1 wins!!!":
+        if res == "Bacteria 1 wins!!!":
             d['bac 1 wins'] += 1
-        elif result == "Bacteria 2 wins!!!":
+        elif res == "Bacteria 2 wins!!!":
             d["bac 2 wins"] += 1
         else:
             d['both die  '] += 1
     return d
-d = bacteria_war_outcomes(bac_1_attributes, bac_2_attributes, 100)
+d = bacteria_war_outcomes(bac_1_attributes, bac_2_attributes, 1000)
 for k, v in d.items():
     print(f'{k}: {v}')
