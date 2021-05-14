@@ -160,4 +160,27 @@ def bacteria_war(bac_1_attr, bac_2_attr):
 bac_1 = [6, 8, 9, 12, 2, 1]
 bac_2 = [2, 18, 20, 5, 1, 2]
 
-print(bacteria_war(bac_1, bac_2))
+# print(bacteria_war(bac_1, bac_2))
+
+def bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000):
+    d = {
+        'bac 1 wins': 0,
+        'bac 1 wins': 0,
+        'both die  ': 0
+    }
+
+    for _ in range(num_samples):
+        res = bacteria_war(bac_1_attr, bac_2_attr)
+
+        if res == bac_1_attr:
+            d['bac 1 wins'] += 1
+        elif res == bac_2_attr:
+            d['bac 2 wins'] += 1
+        else:
+            d['both die'] += 1
+    return d
+
+d = bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000)
+
+for k, v in d.items():
+    print(f'{k}: {v}')
