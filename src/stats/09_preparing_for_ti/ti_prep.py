@@ -84,3 +84,17 @@ def dice_roll(num_sides):
     return choice(range(1, num_sides+1))
 
     
+
+'''
+Write a function called series_of_rolls, taht takes a list
+called dice_sides as a parameter. The list should contain
+the sides of the dice that will used in subsequent rolls.
+
+The function should return the list of rolls, in order
+
+ex: the list of dice_sides could look like:
+[6, 12, 24, 8, 4]
+
+the returned list could look like:
+[3, 12, 4, 7, 2]
+'''
