@@ -215,5 +215,18 @@ for d4 in range(1, 4+1):
         for d12 in range(1, 12+1):
             outcomes_Y.append(roll_math([d4, d7, d12]))
 
-for lst in outcomes_Y:
-    print(lst)
+# for lst in outcomes_Y:
+#     print(lst)
+
+
+lte_80 = 0
+gt_50 = 0
+
+for val in outcomes_Y:
+    if val <= 80:
+        lte_80 += 1
+    if val > 50:
+        gt_50 += 1
+
+print('lte_80', lte_80)
+print('gt_50', gt_50)        
