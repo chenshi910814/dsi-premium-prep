@@ -32,7 +32,16 @@ for ship_list in five_ships:
             else:
                 if ship_list[i+1] in ['yacht', 'cruise ship'] or ship_list[i-1] in ['yacht', 'cruise ship']:
                     valid = False
-
+        if ship == 'sailboat':
+            if i == 0:
+                if ship_list[i+1] == 'transport':
+                    valid = False
+            elif i == 4:
+                if ship_list[i-1] == 'transport':
+                    valid = False
+            else:
+                if ship_list[i+1] == 'transport' or ship_list[i-1] == 'transport':
+                    valid = False
     if valid:
         possible_five_ships.append(ship_list)
 
