@@ -491,7 +491,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 24]()
+**Recording**: [Lecture 24](https://youtu.be/vBxjPsAXbKo)
 
 ---------------------------------------------------------
 ### Day 25: Saturday May 15 (11am - 1:00pm Pacific)
