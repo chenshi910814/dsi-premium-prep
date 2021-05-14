@@ -197,7 +197,7 @@ Y = (d4**3 + d7**2) * d12**(1/2)
 '''
 def roll_math(roll_list):
     d4, d7, d12 = roll_list
-    return (d4**3 / d7**2) * d12**(1/2)
+    return (d4**3 + d7**2) * d12**(1/2)
 
 
 '''
