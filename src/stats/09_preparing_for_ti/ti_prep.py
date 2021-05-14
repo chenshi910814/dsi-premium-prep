@@ -105,7 +105,8 @@ def series_of_rolls(dice_sides):
         lst.append(dice_roll(sides))
     return lst
 
-sides = [6, 12, 24, 8, 4, 64]
-        [2, 4, 18, 5, 1, 22]
+# sides = [6, 12, 24, 8, 4, 64]
 
-print(series_of_rolls(sides))
+# print(series_of_rolls(sides))
+
+
