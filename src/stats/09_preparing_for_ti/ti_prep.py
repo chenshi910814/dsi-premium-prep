@@ -55,7 +55,7 @@ three_sailboats = []
 
 for ship_list in possible_five_ships:
     if ship_list.count('sailboat') == 3:
-        print(ship_list)
+        # print(ship_list)
         three_sailboats.append(ship_list)
 
 # print(len(three_sailboats) / len(possible_five_ships))
@@ -67,7 +67,7 @@ two_tankers_yacht = []
 
 for ship_list in possible_five_ships:
     if ship_list.count('tanker') == 2 and ship_list.count('yacht') >= 1:
-        print(ship_list)
+        # print(ship_list)
         two_tankers_yacht.append(ship_list)
 
 # print(len(two_tankers_yacht) / len(possible_five_ships))
