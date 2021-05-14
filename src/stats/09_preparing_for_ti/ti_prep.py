@@ -260,5 +260,5 @@ def bins_dict(outcomes_Y):
     return d
 
 
-for k, v in bins_dict(outcomes_Y):
+for k, v in bins_dict(outcomes_Y).items():
     print(f'{k}: {v}')
