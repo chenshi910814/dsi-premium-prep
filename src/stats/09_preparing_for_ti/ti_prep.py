@@ -147,3 +147,10 @@ def bacteria_war(bac_1_attr, bac_2_attr):
             score_lst.append(2)
         else:
             score_lst.append(0)
+
+    if score_lst.count(1) > score_lst.count(2):
+        return bac_1_attr
+    elif score_lst.count() < score_lst.count(2):
+        return bac_2_attr
+    else:
+        return [1] * len(bac_1)
