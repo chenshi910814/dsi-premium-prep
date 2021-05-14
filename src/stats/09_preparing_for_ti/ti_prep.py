@@ -26,7 +26,7 @@ for ship_list in five_ships:
             if i == 0:
                 if ship_list[i+1] in ['yacht', 'cruise ship']:
                     valid = False
-            elif i == 4
+            elif i == 4:
                 if ship_list[i-1] in ['yacht', 'cruise ship']:
                     valid = False
             else:
