@@ -238,3 +238,4 @@ get min and max
 def get_min_max(lst):
     return min(lst), max(lst)
 
+print(get_min_max(outcomes_Y))
