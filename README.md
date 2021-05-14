@@ -484,7 +484,7 @@ or a github link in the associated thread
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
-* Procedural Python (see TI_Prep in SRC)
+* [Procedural Probability with Python (code)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/src/stats/09_preparing_for_ti/ti_prep.py)
 * <s>[Intro to Machine Learning](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)</s>
  
 
