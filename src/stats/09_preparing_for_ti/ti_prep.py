@@ -73,5 +73,14 @@ for ship_list in possible_five_ships:
 # print(len(two_tankers_yacht) / len(possible_five_ships))
 
 
+'''
+Write a function called dice_roll
+has one parameter: num_sides
+should return a random side from the roll of the n-sided die
+'''
+from random import choice
 
+def dice_roll(num_sides):
+    return choice(range(1, num_sides+1))
 
+    
