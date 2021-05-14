@@ -164,7 +164,7 @@ bac_2 = [2, 18, 20, 5, 1, 2]
 def bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000):
     d = {
         'bac 1 wins': 0,
-        'bac 1 wins': 0,
+        'bac 2 wins': 0,
         'both die  ': 0
     }
 
