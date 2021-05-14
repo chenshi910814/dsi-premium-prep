@@ -46,8 +46,8 @@ for ship_list in five_ships:
         possible_five_ships.append(ship_list)
 
 
-for ship_list in possible_five_ships:
-    print(ship_list)
+# for ship_list in possible_five_ships:
+#     print(ship_list)
 
 
 # What is the probability that there will be three sailboats in an observation of 5 ships?
