@@ -16,6 +16,27 @@ for ship1 in ships:
                     five_ships.append([ship1, ship2, ship3, ship4, ship5])
 
 
+possible_five_ships = []
+
+for ship_list in five_ships:
+    valid = True
+
+    for i, ship in enumerate(ship_list):
+        if ship == 'tanker':
+            if i == 0 and ship_list[i+1] in ['yacht', 'cruise ship']:
+                valid = False
+            elif i == 4 and ship_list[i-1] in ['yacht', 'cruise ship']:
+                valid = False
+            else:
+                if ship_list[i+1] in ['yacht', 'cruise ship'] or ship_list[i-1] in ['yacht', 'cruise ship']:
+                    valid = False
+
+    if valid:
+        possible_five_ships.append(ship_list)
+
+
+for ship_list in possible_five_ships:
+    print(ship_list)
 
 
 
