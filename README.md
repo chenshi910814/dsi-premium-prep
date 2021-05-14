@@ -483,7 +483,10 @@ or a github link in the associated thread
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: [Intro to Machine Learning](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)
+**Slide Deck**: 
+* Procedural Python (see TI_Prep in SRC)
+* <s>[Intro to Machine Learning](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)</s>
+ 
 
 **HW assignment**: 
 * Continue working on remaining Learn materials
