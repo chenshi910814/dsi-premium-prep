@@ -23,10 +23,12 @@ for ship_list in five_ships:
 
     for i, ship in enumerate(ship_list):
         if ship == 'tanker':
-            if i == 0 and ship_list[i+1] in ['yacht', 'cruise ship']:
-                valid = False
-            elif i == 4 and ship_list[i-1] in ['yacht', 'cruise ship']:
-                valid = False
+            if i == 0:
+                if ship_list[i+1] in ['yacht', 'cruise ship']:
+                    valid = False
+            elif i == 4
+                if ship_list[i-1] in ['yacht', 'cruise ship']:
+                    valid = False
             else:
                 if ship_list[i+1] in ['yacht', 'cruise ship'] or ship_list[i-1] in ['yacht', 'cruise ship']:
                     valid = False
