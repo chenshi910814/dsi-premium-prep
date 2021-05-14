@@ -176,7 +176,7 @@ def bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000):
         elif res == bac_2_attr:
             d['bac 2 wins'] += 1
         else:
-            d['both die'] += 1
+            d['both die  '] += 1
     return d
 
 bac_1 = [6, 8, 9, 12, 2, 1]
