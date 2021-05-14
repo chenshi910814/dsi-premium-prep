@@ -248,7 +248,17 @@ def bins_dict(outcomes_Y):
         if num==0: continue
         d[f'{num-9} to {num}'] = 0
 
-    print(d)
+    for val_ in outcomes_Y:
+        val = round(val_)
+
+        for k, v in d.items():
+            low, _, high = k.split()
+
+            if val >= int(low) and val <= int(high):
+                d[k] += 1
+
+    return d
 
 
-bins_dict(outcomes_Y)
+for k, v in bins_dict(outcomes_Y):
+    print(f'{k}: {v}')
