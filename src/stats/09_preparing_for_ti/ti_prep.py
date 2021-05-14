@@ -71,3 +71,7 @@ for ship_list in possible_five_ships:
         two_tankers_yacht.append(ship_list)
 
 # print(len(two_tankers_yacht) / len(possible_five_ships))
+
+
+
+
