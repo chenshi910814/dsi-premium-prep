@@ -58,9 +58,16 @@ for ship_list in possible_five_ships:
         print(ship_list)
         three_sailboats.append(ship_list)
 
-print(len(three_sailboats) / len(possible_five_ships))
+# print(len(three_sailboats) / len(possible_five_ships))
 
 
 
-# What is the probability of seeing 2 tankers and yacht in an observation of 5 ships?
+# What is the probability of seeing 2 tankers and at least one yacht in an observation of 5 ships?
+two_tankers_yacht = []
 
+for ship_list in possible_five_ships:
+    if ship_list.count('tanker') == 2 and ship_list.count('yacht') >= 1:
+        print(ship_list)
+        two_tankers_yacht.append(ship_list)
+
+print(len(two_tankers_yacht) / len(possible_five_ships))
