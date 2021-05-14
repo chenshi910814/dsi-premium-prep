@@ -110,3 +110,40 @@ def series_of_rolls(dice_sides):
 # print(series_of_rolls(sides))
 
 
+'''
+You are modeling interactions between bacteria
+in an experimental environment. The bacteria
+have a series of characteristics that will 
+detm whether or not they survive when they 
+interact with another bacteria. These characteristics
+are represented by a series of dice rolls that will 
+be output as a list.
+
+The lengths of the bacteria lists will be the same.
+
+bac_1 has these attribs:
+[6, 8, 9, 12, 2, 1]
+
+bac_2 has these attribs:
+[2, 18, 20, 5, 1, 2]
+
+Scores: 
+bac_1 : 3
+bac_2 : 1
+
+bac_1 lives, bac_2 dies
+if scores are equal, both bac die
+'''
+
+def bacteria_war(bac_1_attr, bac_2_attr):
+    bac_1 = series_of_rolls(bac_1_attr)
+    bac_2 = series_of_rolls(bac_2_attr)
+
+    score_lst = []
+    for i in range(len(bac_1)):
+        if bac_1[i] > bac_2[i]:
+            score_lst.append(1)
+        elif bac_1[i] < bac_2[i]:
+            score_lst.append(2)
+        else:
+            score_lst.append(0)
