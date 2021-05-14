@@ -182,7 +182,7 @@ def bacteria_war_outcomes(bac_1_attr, bac_2_attr, num_samples=1000):
 bac_1 = [6, 8, 9, 12, 2, 1]
 bac_2 = [2, 18, 20, 5, 1, 2]
 
-d = bacteria_war_outcomes(bac_1, bac_2, num_samples=1000)
+d = bacteria_war_outcomes(bac_1, bac_2, num_samples=10000)
 
 for k, v in d.items():
     print(f'{k}: {v}')
