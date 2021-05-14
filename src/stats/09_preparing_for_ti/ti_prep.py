@@ -6,6 +6,15 @@ There are rules in the bay that tankers cannot follow or precede cruise ships or
 
 ships = ['tanker', 'sailboat', 'yacht', 'cruise ship', 'transport ship']
 
+five_ships = []
+
+for ship1 in ships:
+    for ship2 in ships:
+        for ship3 in ships:
+            for ship4 in ships:
+                for ship5 in ships:
+                    five_ships.append([ship1, ship2, ship3, ship4, ship5])
+
 
 
 
