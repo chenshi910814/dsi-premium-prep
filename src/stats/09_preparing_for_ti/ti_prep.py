@@ -98,3 +98,13 @@ ex: the list of dice_sides could look like:
 the returned list could look like:
 [3, 12, 4, 7, 2]
 '''
+
+def series_of_rolls(dice_sides):
+    lst = []
+    for sides in dice_sides:
+        lst.append(dice_roll(sides))
+    return lst
+
+sides = [6,12,24,8,4,64]
+
+print(series_of_rolls(sides))
