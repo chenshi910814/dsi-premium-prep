@@ -196,7 +196,7 @@ then a 12-sided die, and processing through this function:
 Y = (d4**3 + d7**2) * d12**(1/2) 
 '''
 def roll_math(roll_list):
-    d4, d7, d12 = roll_lst
+    d4, d7, d12 = roll_list
     return (d4**3 + d7**2) * d12**(1/2)
 
 
@@ -208,7 +208,7 @@ P(Y > 50) = ?
 '''
 
 ''' use counting '''
-outcomes_Y
+outcomes_Y = []
 
 for d4 in range(1, 4+1):
     for d7 in range(1, 7+1):
