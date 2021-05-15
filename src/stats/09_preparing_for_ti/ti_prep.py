@@ -289,3 +289,7 @@ def median(lst):
     else:
         upper_mid_idx = int(len(lst) / 2)
         return mean([lst_sorted[upper_mid_idx-1], lst_sorted[upper_mid_idx]])
+
+
+
+print(median(a))
