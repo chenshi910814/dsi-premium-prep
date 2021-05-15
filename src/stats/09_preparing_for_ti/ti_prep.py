@@ -368,3 +368,8 @@ def bernoulli(p_success=0.5):
 # print(bernoulli(p_success=0.2))
 
 
+def get_list_of_bits(n_bits):
+    return [choice([0,1]) for _ in range(n_bits)]
+
+
+print(get_list_of_bits(n_bits=8))
