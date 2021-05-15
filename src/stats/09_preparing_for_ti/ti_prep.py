@@ -348,3 +348,11 @@ Leon has a set of 8 plumbing tools. He never needs more than two of them at a ti
 How many different ways can Leon hold any two tools in his hands?
 '''
 # print(permutation(8, 2))
+
+
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+# print(combinations(5, 3))
+
+
