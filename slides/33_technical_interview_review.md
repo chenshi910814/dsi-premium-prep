@@ -342,5 +342,168 @@ def generate_n_bits(n=8):
     # return lst
 ```
 
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes)
+#### Write a function called binary_sampling_dict that has two params
+* `num_bits=8`
+* `num_samples=1000`
+
+return a `dict` where the keys represent the number of successes,
+and the values associated with those keys represent the count
+of that number of successes occurring.
+
+```python
+{
+    0: 35,
+    1: 63,
+    ...
+    num_bits: count of num_bits successes
+}
+
+# 00101101 : 4 successes
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+#### Write a function called binary_sampling_dict that has two params
+* `num_bits=8`
+* `num_samples=1000`
+
+```python
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n_bits(num_bits)
+        observed_k = sum(binary)
+
+        if observed_k not in d:
+            d[observed_k] = 0
+        d[observed_k] += 1
+
+    return d
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (3 minutes)
+### Code the Binomial PMF (`binomial_pmf(n,p,k)`)
+* 3 parameters
+$n$ = number of bernoulli trials
+$p$ = probability of success on any given bernoulli trial
+$k$ = specific number of successes for which to find the probability
+
+$$
+P(X=k) = {n \choose k} p^k(1-p)^{n-k}
+$$
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+### Code the Binomial Distribution 
+
+```python
+def binomial_pmf(n, k, p=0.5):
+    return combinations(n, k) * (p**k) * (1-p)**(n-k)
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes) 
+### Code the Binomial CDF (`binomial_cdf(n, k_high, p=0.5)`)
+
+$$
+P(X \le k) = \sum_{i=0}^k {n \choose i}p^i(1-p)^{n-i}
+$$
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+### Code the Binomial CDF (`binomial_pmf(n, k_high, p=0.5)`)
+
+```python
+def binomial_cdf(n, k_high, p=0.5):
+    cumulative = 0.0
+
+    for k in range(0, k_high+1):
+        cumulative += binomial_pmf(n, k, p)
+
+    return cumulative
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (5 minutes)
+#### Code the `binomial_pmf_dict()` function.
+This should take 4 parameters:
+* `n`: the number of trials
+* `k_low`: the low value of $k$ in the dictionary
+* `k_high`: the high value of $k$ in the dictionary
+* `p=0.5`: the probability of success of a given bernoulli trial
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+
+```python
+def binomial_pmf_dict(n, k_low, k_high, p=0.5):
+    d = dict()
+
+    for k in range(k_low, k_high+1):
+        d[k] = binomial_pmf(n, k, p)
+
+    return d
+
+d = binomial_pmf_dict(8, 0, 8, p=0.25)
+
+for k, v in d.items():
+    print(f'{k}: {v}')
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes)
+Code the `poisson_pmf()` function.
+* $e = 2.71828$
+* Note, both the constant `e` and the `factorial()` function are available from the `math` module.
+
+
+$$
+P(\lambda, k \text{ events}) = \frac{e^{-\lambda}\lambda^k}{k!}
+$$
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+Code the `poisson_pmf()` function.
+Note, both the constant `e` and the `factorial()` function are available from the `math` module.
+
+$$
+P(\lambda, k \text{ events}) = \frac{e^{-\lambda}\lambda^k}{k!}
+$$
+
+
+```python
+from math import e, factorial
+
+# print(e) # 2.718281828459045
+
+def poisson_pmf(lmbda, k):
+    return lmbda**k * e**(-lmbda) / factorial(k)
+```
+
+
+
 
 
