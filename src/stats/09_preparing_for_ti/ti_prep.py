@@ -312,4 +312,6 @@ def variance(lst, sample=True):
 def stdev(lst, sample=True):
     return sqrt(variance(lst, sample))
 
-print(stdev(a))
+b = list(range(0,25))
+print(mean(b))
+print(stdev(b))
