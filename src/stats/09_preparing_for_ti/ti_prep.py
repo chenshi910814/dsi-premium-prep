@@ -399,4 +399,12 @@ def binomial_pmf(n, k, p=0.5):
 
 # print(binomial_pmf(n=8, k=4, p=0.5))
 
+def binomial_cdf(n, k_high, p=0.5):
+    cumulative = 0.0
 
+    for k in range(0, k_high+1):
+        cumulative += binomial_pmf(n, k, p)
+
+    return cumulative
+
+print(binomial_cdf(n=8, k_high=4, p=0.5))
