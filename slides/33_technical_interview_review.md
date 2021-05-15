@@ -59,3 +59,10 @@
 * Might involve introduction to a new statistical concept and interpreting results through that concept.
 
 
+
+<br><br><br><br><br><br><br>
+
+----------------------------------------------------
+# Practice
+* let's review functions and particular problems
+
