@@ -78,10 +78,7 @@ Given that the line was formed organically (i.e, people got into line as they ar
 * Solution: $\frac{1}{3628800} \approx .0000003$
 
 
-<br><br><br><br><br><br><br><br><br>
 
----------------------------------------------------------------
-# BREAKOUT (3 minutes)
 
 
 <br><br><br><br><br><br><br><br><br>
