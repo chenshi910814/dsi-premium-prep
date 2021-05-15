@@ -280,3 +280,12 @@ a = [1, 5, 7, 10, 15, 23, 35, 67, 220, 2000]
 # print(mean(a, trim=2))
 
 
+def median(lst):
+    lst_sorted = sorted(lst)
+
+    if len(lst) % 2:
+        mid = int(len(lst) / 2)
+        return lst_sorted[mid]
+    else:
+        upper_mid_idx = int(len(lst) / 2)
+        return mean([lst_sorted[upper_mid_idx-1], lst_sorted[upper_mid_idx]])
