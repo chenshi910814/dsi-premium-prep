@@ -704,6 +704,67 @@ for k, v in d_incl.items():
 ```
 
 
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# BREAKOUT (4 minutes)
+Code the `geometric(p=0.5)` function. This function should call to the `bernoulli(p)` function and count the number of samples before (not including) the first success. The function should return that count
+
+
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# BREAKOUT Solution
+Code the `geometric(p=0.5)` function. This function should call to the `bernoulli(p)` function and count the number of bernoulli trials before (not including) the first success. The function should return that count
+
+```python
+def geometric(p=0.5):
+    # num of failures prior to success
+    lst = []
+
+    for _ in range(10000000000):
+        flip = bernoulli(p)
+        lst.append(flip)
+
+        if flip == 1:
+            break
+    
+    return len(lst) - 1
+
+
+print(geometric(p=0.0005))
+```
+
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# BREAKOUT (5 minutes)
+code the `geometric_samples_dict(p=0.05, num_samples=10000)` function. It should sample from the `geometric()` function above
+
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# Analyzing Geometric Sampling
+Can pack samples into a dictionary.
+
+```python
+def geometric_samples_dict(p=0.05, num_samples=10000):
+    d = dict()
+
+    for _ in range(num_samples):
+        num_failures = geometric(p)
+
+        if num_failures not in d:
+            d[num_failures] = 0
+        d[num_failures] += 1
+    
+    return d
+
+d = geometric_samples_dict(p=0.05, num_samples=100000)
+
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
+```
 
 
 
