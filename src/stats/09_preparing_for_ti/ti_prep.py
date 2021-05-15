@@ -317,3 +317,11 @@ def stdev(lst, sample=True):
 # print(stdev(b))
 
 
+def factorial(n):
+    prod = 1
+
+    for num in range(2, num+1):
+        prod *= num
+    return prod
+
+print(factorial(5))
