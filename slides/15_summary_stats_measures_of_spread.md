@@ -334,6 +334,23 @@ $$
 Code the `variance()` function. Make sure to include a parameter that determines whether the data is a sample or population, and apply Bessel's correction accordingly
 
 
+* **Population Variance**:
+
+$$
+\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2
+$$
+
+* **Sample Variance**:
+
+$$
+s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \overline x)^2
+$$
+
+* Recall:
+    * $\mu$ : population mean
+    * $\overline x$ : sample mean
+
+
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
@@ -389,6 +406,17 @@ $$
 # BREAKOUT (2 minutes)
 Code the `stdev()` function. Make sure to include a parameter that determines whether the data is a sample or population, and apply Bessel's correction accordingly
 
+* **Population Standard Deviation**:
+
+$$
+\sigma = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2}
+$$
+
+* **Sample Standard Deviation**:
+
+$$
+s = \sqrt{\frac{1}{n-1} \sum_{i=1}^{n} (x_i - \overline x)^2}
+$$
 
 <br><br><br><br><br><br><br><br><br>
 
