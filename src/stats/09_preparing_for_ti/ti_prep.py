@@ -389,5 +389,5 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 
     return d
 
-for k, v in binary_sampling_dict(num_bits=8, num_samples=1000).items():
+for k, v in sorted(binary_sampling_dict(num_bits=8, num_samples=1000).items()):
     print(f'{k}: {v}')
