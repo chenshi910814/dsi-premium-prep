@@ -294,3 +294,53 @@ def combinations(n, k):
 Write a combinations story problem
 
 
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes)
+Code the `bernoulli()` function. It should take one argument, `p_success`.
+
+You will want to use `from random import random`. The `random()` function will return a uniformly distributed random float between 0 and 1.
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes)
+Code the `bernoulli()` function. It should take one argument, `p_success`.
+
+```python
+def bernoulli(p_success=0.5):
+    draw = random() # gets a val betw 0 and 1
+
+    if draw < p_success:
+        return True
+    else:
+        return False
+```
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (4 minutes)
+Code the `get_list_of_bits()` function. It should take one argument, `n_bits`, and it should return a list containing random 1s and 0s.
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT SOLUTION
+
+```python
+from random import choice
+
+def get_bit():
+    return choice([0,1])
+
+def generate_n_bits(n=8):
+    return [get_bit() for _ in range(n)]
+    # lst = []
+    # for _ in range(n):
+    #     lst.append(get_bit())
+    # return lst
+```
+
+
+
