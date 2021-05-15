@@ -196,3 +196,94 @@ Code the `stdev()` function. Make sure to include a parameter that determines wh
 def stdev(lst, sample=True):
     return variance(lst, sample)**(1/2)
 ```
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT (3 minutes) code `factorial()`
+
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT Solution
+
+```python
+def factorial(num):
+    prod = 1
+    for n in range(2, num+1):
+        prod *= n
+    return prod
+```
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT (3 minutes)
+Code the `permutations(n,k)` function
+
+$nPk = \frac{n!}{(n-k)!}$
+
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT Solution
+Code the `permutations(n,k)` function
+
+```python
+def permutations(n, k):
+    return int(factorial(n) / factorial(n-k))
+```
+
+Slightly more optimized:
+
+```python
+def permutations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= i
+    return perm
+```
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT (3 minutes)
+Write a permutations story problem
+
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT (3 minutes)
+Code the `combinations Function`
+
+$$
+nCk = \frac{n!}{((n-k)! k!)}
+$$
+
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT Solution
+Code the `combinations Function`
+
+$$
+nCk = \frac{n!}{((n-k)! k!)}
+$$
+
+```python
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+# Slightly more optimal:
+def combinations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= i
+    return int(perm / factorial(k))
+```
+
