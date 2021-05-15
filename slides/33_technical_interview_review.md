@@ -504,6 +504,60 @@ def poisson_pmf(lmbda, k):
 ```
 
 
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (5 minutes)
+#### Code the `poisson_cdf` function
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+#### Code the `poisson_cdf` function
+
+```python
+def poisson_cdf(lmbda, k_high):
+    cdf = 0.0
+
+    for k in range(k_high+1):
+        cdf += poisson_pmf(lmbda, k)
+
+    return cdf
+```
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT (6 minutes)
+#### Code the `poisson_pmf_dict()`
+* your parameters will be 
+    * `lmbda`
+    * `low_k`
+    * `high_k`
+
+Holding `lmbda` constant, write a function that returns a dictionary showing the probs for number of events from `low_k` to `high_k` (inclusive)
+
+
+<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
+# BREAKOUT Solution
+
+```python
+def poisson_pmf_dict(lmbda, low_k, high_k):
+    d = dict()
+
+    for k in range(low_k, high_k+1):
+        d[k] = poisson_pmf(lmbda, k)
+
+    return d
+
+d = poisson_pmf_dict(10, 0, 30)
+
+for k, v in d.items():
+    print(f'{k}: {round(v, 6)}')
+```
+
+
+
 
 
 
