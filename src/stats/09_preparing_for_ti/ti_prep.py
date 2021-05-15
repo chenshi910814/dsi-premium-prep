@@ -1,4 +1,5 @@
 from math import sqrt
+from random import random
 
 '''
 We're observing ships on a bay. We see 5 types of ships: tankers, sailboats, yachts, cruise ships, transport.
