@@ -1,5 +1,5 @@
 from math import sqrt
-from random import random
+from random import random, choice
 
 '''
 We're observing ships on a bay. We see 5 types of ships: tankers, sailboats, yachts, cruise ships, transport.
@@ -366,4 +366,5 @@ def bernoulli(p_success=0.5):
         return 0
 
 # print(bernoulli(p_success=0.2))
+
 
