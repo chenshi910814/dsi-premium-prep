@@ -334,3 +334,12 @@ def permutations(n, k):
 # print(permutations(5, 3))
 
 
+
+'''
+Paul has 7 cats. He cannot tell them apart. So he numbered their tags 1 - 7. Paul wants to know how many different ways his cats can come inside if they come in in pairs, one after the other.
+Paul knows statistics so now he knows there are only 42 different permutations his 7 cats could be entering in pairs...
+Either 1 then 2, or 2 then 1, or 1 then 3, or 3 then one.....
+'''
+# print(permutation(7, 2))
+
+
