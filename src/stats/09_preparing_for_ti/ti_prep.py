@@ -393,4 +393,8 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 #     print(f'{k}: {v / 1000}')
 
 
+def binomial_pmf(n, k, p=0.5):
+    return combinations(n, k) * (p**k) * (1-p)**(n-k)
 
+
+print(binomial_pmf(n=8, k=4, p=0.5))
