@@ -342,4 +342,9 @@ Either 1 then 2, or 2 then 1, or 1 then 3, or 3 then one.....
 '''
 # print(permutation(7, 2))
 
+'''
+Leon has a set of 8 plumbing tools. He never needs more than two of them at a time, one for his left hand, one for his right. 
+
+How many different ways can Leon hold any two tools in his hands?
+'''
 
