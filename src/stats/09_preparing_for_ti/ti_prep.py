@@ -325,3 +325,12 @@ def factorial(n):
     return prod
 
 # print(factorial(5))
+
+
+def permutations(n, k):
+    return int(factorial(n) / factorial(n-k))
+
+# print(permutations(5, 5))
+# print(permutations(5, 3))
+
+
