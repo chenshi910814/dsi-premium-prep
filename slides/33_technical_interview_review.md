@@ -767,6 +767,49 @@ d = geometric_samples_dict(p=0.05, num_samples=100000)
 ```
 
 
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# Breakout: Binomial Textbook Probs
+You are sitting on a park bench watching city buses go by. On average,
+two out of every 13 buses that goes by has an advertisement for
+oat milk on it. 
+
+**What is the probability that, in one particular set of observations, 10 out of 20 buses have oat milk ads on them?**
+
+
+**What is the probability that less than 9 buses have oat milk adds?**
+
+
+
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# Breakout Solution
+You are sitting on a park bench watching city buses go by. On average, two out of every 13 buses that goes by has an advertisement for oat milk on it. 
+
+**What is the probability that, in one particular set of observations, 10 out of 20 buses have oat milk ads on them?**
+
+```python
+p = 2/13
+k = 10
+n = 20
+# print(binomial_pmf(n,k,p))
+```
+
+**What is the probability that less than 9 buses have oat milk adds?**
+
+```python
+# accum = 0.0
+# for k_ in range(0, 8+1):
+#     accum += binomial_pmf(n, k_, p)
+
+# print(accum)
+```
+
+
+
+
 
 
 
