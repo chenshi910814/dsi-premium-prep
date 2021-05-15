@@ -292,4 +292,14 @@ def median(lst):
 
 
 
-print(median(a))
+# print(median(a))
+
+
+def variance(lst, sample=True):
+    mean_ = mean(lst)
+    total = 0
+
+    for item in lst:
+        total += (item - mean_)**2
+
+    return total / (len(lst) - sample)
