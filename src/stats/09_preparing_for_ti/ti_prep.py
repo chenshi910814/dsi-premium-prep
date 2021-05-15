@@ -1,3 +1,5 @@
+from math import sqrt
+
 '''
 We're observing ships on a bay. We see 5 types of ships: tankers, sailboats, yachts, cruise ships, transport.
 
@@ -305,3 +307,9 @@ def variance(lst, sample=True):
     return total / (len(lst) - sample)
 
 # print(variance(a))
+
+
+def stdev(lst, sample=True):
+    return sqrt(variance(lst, sample))
+
+print(stdev(a))
