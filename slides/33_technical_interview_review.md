@@ -202,7 +202,8 @@ def stdev(lst, sample=True):
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# BREAKOUT (3 minutes) code `factorial()`
+# BREAKOUT (3 minutes) 
+code `factorial()`
 
 
 <br><br><br><br><br><br><br><br><br>
