@@ -813,3 +813,9 @@ n = 20
 
 
 
+<br><br><br><br><br><br><br><br>
+
+--------------------------------
+# Breakout:
+Write your own Binomial Story problem
+
