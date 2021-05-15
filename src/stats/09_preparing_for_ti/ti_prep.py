@@ -407,4 +407,4 @@ def binomial_cdf(n, k_high, p=0.5):
 
     return cumulative
 
-print(binomial_cdf(n=8, k_high=4, p=0.5))
+print(binomial_cdf(n=9, k_high=4, p=0.5))
