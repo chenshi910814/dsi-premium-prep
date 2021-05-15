@@ -303,3 +303,5 @@ def variance(lst, sample=True):
         total += (item - mean_)**2
 
     return total / (len(lst) - sample)
+
+print(variance(a))
