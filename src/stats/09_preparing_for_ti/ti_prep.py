@@ -376,3 +376,18 @@ def get_list_of_bits(n_bits):
 
 
 
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = get_list_of_bits(num_bits)
+        k = sum(binary)
+
+        if k not in d:
+            d[k] = 0
+        d[k] += 1
+
+    return d
+
+for k, v in binary_sampling_dict(num_bits=8, num_samples=1000).items():
+    print(f'{k}: {v}')
