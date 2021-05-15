@@ -365,4 +365,5 @@ def bernoulli(p_success=0.5):
     else:
         return 0
 
-print(bernoulli(p_success=0.2))
+# print(bernoulli(p_success=0.2))
+
