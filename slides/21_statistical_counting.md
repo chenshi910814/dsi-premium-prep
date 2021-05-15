@@ -135,6 +135,8 @@ ex: $k=1$
 # BREAKOUT (3 minutes)
 Code the `permutations(n,k)` function
 
+$nPk = \frac{n!}{(n-k)!}$
+
 
 <br><br><br><br><br><br><br><br><br>
 

@@ -287,3 +287,10 @@ def combinations(n, k):
     return int(perm / factorial(k))
 ```
 
+<br><br><br><br><br><br><br><br><br>
+
+---------------------------------------------------------------
+# BREAKOUT (3 minutes)
+Write a combinations story problem
+
+
