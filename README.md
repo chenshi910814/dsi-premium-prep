@@ -110,7 +110,7 @@
 
 
 ---------------------------------------------------------
-### Day 4: Thursday April 15 (6pm - 8pm Pacific)
+### Day 4: Thursday May 20 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -128,7 +128,7 @@
 **Recording**: [Lecture 4](https://youtu.be/S2ghR8wHLN8)
 
 ---------------------------------------------------------
-### Day 5: Saturday April 17 (11am-1pm Pacific)
+### Day 5: Saturday May 22 (11am-1pm Pacific)
 
 **Instructor**: Clark Walker
 
