@@ -44,7 +44,7 @@
 
 ---------------------------------------------------------
 
-### Day 1: Monday April 12 (6pm - 8pm Pacific)
+### Day 1: Monday May 17 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio, Clark
 
@@ -73,7 +73,7 @@
 
 ---------------------------------------------------------
 
-### Day 2: Tuesday April 13 (6pm - 8pm Pacific)
+### Day 2: Tuesday May 18 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -88,7 +88,7 @@
 **Recording**: [Lecture 2](https://youtu.be/bc1tW5fFV9A)
 
 ---------------------------------------------------------
-### Day 3: Wednesday April 14 (6pm - 8pm Pacific)
+### Day 3: Wednesday May 19 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
