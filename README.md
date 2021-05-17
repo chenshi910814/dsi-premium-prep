@@ -1,5 +1,5 @@
 # Galvanize Data Science Immersive Premium Prep
-## April 12th, 2021 - May 15th, 2021
+## May 24th, 2021 - June 26th, 2021
 
 
 ### Important Links
