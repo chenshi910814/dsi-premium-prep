@@ -68,7 +68,7 @@
 
 
 
-**Recording**: [Lecture 1](https://youtu.be/15Sml_vvytc)
+**Recording**: [(to be posted) Lecture 1](https://youtu.be/15Sml_vvytc)
 
 
 ---------------------------------------------------------
@@ -85,7 +85,7 @@
 
 
 
-**Recording**: [Lecture 2](https://youtu.be/bc1tW5fFV9A)
+**Recording**: [(to be posted) Lecture 2](https://youtu.be/bc1tW5fFV9A)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday May 19 (6pm - 8pm Pacific)
@@ -106,7 +106,7 @@
 
 
 
-**Recording**: [Lecture 3](https://youtu.be/xrjjEF0asNU)
+**Recording**: [(to be posted) Lecture 3](https://youtu.be/xrjjEF0asNU)
 
 
 ---------------------------------------------------------
@@ -125,7 +125,7 @@
 
 
 
-**Recording**: [Lecture 4](https://youtu.be/S2ghR8wHLN8)
+**Recording**: [(to be posted) Lecture 4](https://youtu.be/S2ghR8wHLN8)
 
 ---------------------------------------------------------
 ### Day 5: Saturday May 22 (11am-1pm Pacific)
@@ -144,7 +144,7 @@
 
 
 
-**Recording**: [Lecture 5](https://youtu.be/h4iDR1oGYmc)
+**Recording**: [(to be posted) Lecture 5](https://youtu.be/h4iDR1oGYmc)
 
 ---------------------------------------------------------
 ### Day 6: Monday May 24 (6pm - 8pm Pacific)
@@ -163,7 +163,7 @@
 
 
 
-**Recording**: [Lecture 6](https://youtu.be/1CzSDmZmmMY)
+**Recording**: [(to be posted) Lecture 6](https://youtu.be/1CzSDmZmmMY)
 
 ---------------------------------------------------------
 ### Day 7: Tuesday May 25 (6pm - 8pm Pacific)
@@ -184,7 +184,7 @@
 
 
 
-**Recording**: [Lecture 7](https://youtu.be/2Nu8_hZbAQU)
+**Recording**: [(to be posted) Lecture 7](https://youtu.be/2Nu8_hZbAQU)
 
 
 ---------------------------------------------------------
@@ -210,7 +210,7 @@
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 
-**Recording**: [Lecture 8](https://youtu.be/NzzQc7c0ODY)
+**Recording**: [(to be posted) Lecture 8](https://youtu.be/NzzQc7c0ODY)
 
 ---------------------------------------------------------
 ### Day 9: Thursday May 27 (6pm - 8pm Pacific)
@@ -225,7 +225,7 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**Recording**: [Lecture 9](https://youtu.be/ePXHYZfdVr4)
+**Recording**: [(to be posted) Lecture 9](https://youtu.be/ePXHYZfdVr4)
 
 ---------------------------------------------------------
 ### Day 10: Saturday May 29 (11am - 1:00pm Pacific)
@@ -240,7 +240,7 @@
 
 
 
-**Recording**: [Lecture 10](https://youtu.be/6I23qSiWxXs)
+**Recording**: [(to be posted) Lecture 10](https://youtu.be/6I23qSiWxXs)
 
 ---------------------------------------------------------
 ### Day 11: Monday May 31 (6pm - 8pm Pacific)
@@ -271,7 +271,7 @@
 
 
 
-**Recording**: [Lecture 12](https://youtu.be/-J9fcH9vS8k)
+**Recording**: [(to be posted) Lecture 12](https://youtu.be/-J9fcH9vS8k)
 
 ---------------------------------------------------------
 ### Day 13: Wednesday June 2 (6pm - 8pm Pacific)
@@ -288,7 +288,7 @@
 
 
 
-**Recording**: [Lecture 13](https://youtu.be/8UnWg9jYxYs)
+**Recording**: [(to be posted) Lecture 13](https://youtu.be/8UnWg9jYxYs)
 
 
 ---------------------------------------------------------
@@ -312,7 +312,7 @@
 
 
 
-**Recording**: [Lecture 14](https://youtu.be/8U747iC_oZ8)
+**Recording**: [(to be posted) Lecture 14](https://youtu.be/8U747iC_oZ8)
 
 
 
@@ -327,7 +327,7 @@
 
 
 
-**Recording**: [Lecture 15]()
+**Recording**: [(to be posted) Lecture 15]()
 
 ---------------------------------------------------------
 ### Day 16: Monday June 7 (6pm - 8pm Pacific)
@@ -364,7 +364,7 @@
 
 
 
-**Recording**: [Lecture 17](https://youtu.be/rrluaczuzq8)
+**Recording**: [(to be posted) Lecture 17](https://youtu.be/rrluaczuzq8)
 
 ---------------------------------------------------------
 ### Day 18: Wednesday June 9 (6pm - 8pm Pacific)
@@ -387,7 +387,7 @@
 
 
 
-**Recording**: [Lecture 18](https://youtu.be/fWeKHitaHVc)
+**Recording**: [(to be posted) Lecture 18](https://youtu.be/fWeKHitaHVc)
 
 ---------------------------------------------------------
 ### Day 19: Thursday June 10 (6pm - 8pm Pacific)
@@ -406,7 +406,7 @@
 
 
 
-**Recording**: [Lecture 19](https://youtu.be/-WhL05K5t9k)
+**Recording**: [(to be posted) Lecture 19](https://youtu.be/-WhL05K5t9k)
 
 ---------------------------------------------------------
 ### Day 20: Saturday June 12 (11am - 1pm Pacific)
@@ -423,7 +423,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [Lecture 20](https://youtu.be/rMpVCB2-rOg)
+**Recording**: [(to be posted) Lecture 20](https://youtu.be/rMpVCB2-rOg)
 
 
 ---------------------------------------------------------
@@ -459,7 +459,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [Lecture 22](https://youtu.be/7STU8B48V58)
+**Recording**: [(to be posted) Lecture 22](https://youtu.be/7STU8B48V58)
 
 
 ---------------------------------------------------------
@@ -494,7 +494,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [Lecture 24](https://youtu.be/vBxjPsAXbKo)
+**Recording**: [(to be posted) Lecture 24](https://youtu.be/vBxjPsAXbKo)
 
 ---------------------------------------------------------
 ### Day 25: Saturday June 19 (11am - 1:00pm Pacific)
