@@ -44,7 +44,7 @@
 
 ---------------------------------------------------------
 
-### Day 1: Monday May 17 (6pm - 8pm Pacific)
+### Day 1: Monday May 24 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio, Clark
 
@@ -73,7 +73,7 @@
 
 ---------------------------------------------------------
 
-### Day 2: Tuesday May 18 (6pm - 8pm Pacific)
+### Day 2: Tuesday May 25 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -88,7 +88,7 @@
 **Recording**: [(to be posted) Lecture 2]()
 
 ---------------------------------------------------------
-### Day 3: Wednesday May 19 (6pm - 8pm Pacific)
+### Day 3: Wednesday May 26 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -110,7 +110,7 @@
 
 
 ---------------------------------------------------------
-### Day 4: Thursday May 20 (6pm - 8pm Pacific)
+### Day 4: Thursday May 27 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -128,7 +128,7 @@
 **Recording**: [(to be posted) Lecture 4]()
 
 ---------------------------------------------------------
-### Day 5: Saturday May 22 (11am-1pm Pacific)
+### Day 5: Saturday May 29 (11am-1pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -147,7 +147,7 @@
 **Recording**: [(to be posted) Lecture 5]()
 
 ---------------------------------------------------------
-### Day 6: Monday May 24 (6pm - 8pm Pacific)
+### Day 6: Monday May 31 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -166,7 +166,7 @@
 **Recording**: [(to be posted) Lecture 6]()
 
 ---------------------------------------------------------
-### Day 7: Tuesday May 25 (6pm - 8pm Pacific)
+### Day 7: Tuesday June 1 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -188,7 +188,7 @@
 
 
 ---------------------------------------------------------
-### Day 8: Wednesday May 26 (6pm - 8pm Pacific)
+### Day 8: Wednesday June 2 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -213,7 +213,7 @@
 **Recording**: [(to be posted) Lecture 8]()
 
 ---------------------------------------------------------
-### Day 9: Thursday May 27 (6pm - 8pm Pacific)
+### Day 9: Thursday June 3 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -228,7 +228,7 @@
 **Recording**: [(to be posted) Lecture 9]()
 
 ---------------------------------------------------------
-### Day 10: Saturday May 29 (11am - 1:00pm Pacific)
+### Day 10: Saturday June 5 (11am - 1:00pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -243,7 +243,7 @@
 **Recording**: [(to be posted) Lecture 10]()
 
 ---------------------------------------------------------
-### Day 11: Monday May 31 (6pm - 8pm Pacific)
+### Day 11: Monday June 7 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -259,7 +259,7 @@
 **Recording**: [(to be posted) Lecture 11]()
 
 ---------------------------------------------------------
-### Day 12: Tuesday June 1 (6pm - 8pm Pacific)
+### Day 12: Tuesday June 8 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -274,7 +274,7 @@
 **Recording**: [(to be posted) Lecture 12]()
 
 ---------------------------------------------------------
-### Day 13: Wednesday June 2 (6pm - 8pm Pacific)
+### Day 13: Wednesday June 9 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -292,7 +292,7 @@
 
 
 ---------------------------------------------------------
-### Day 14: Thursday June 3 (6pm - 8pm Pacific)
+### Day 14: Thursday June 10 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -317,7 +317,7 @@
 
 
 ---------------------------------------------------------
-### Day 15: Saturday June 5 (11am - 1:00pm Pacific) 
+### Day 15: Saturday June 12 (11am - 1:00pm Pacific) 
 
 **Instructor**: Clark Walker
 
@@ -330,7 +330,7 @@
 **Recording**: [(to be posted) Lecture 15]()
 
 ---------------------------------------------------------
-### Day 16: Monday June 7 (6pm - 8pm Pacific)
+### Day 16: Monday June 14 (6pm - 8pm Pacific)
 **Instructor**: Clark Walker
 
 **Slide Deck**: 
@@ -348,7 +348,7 @@
 **Recording**: [(to be posted) Lecture 16]()
 
 ---------------------------------------------------------
-### Day 17: Tuesday June 8 (6pm - 8pm Pacific)
+### Day 17: Tuesday June 15 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -367,7 +367,7 @@
 **Recording**: [(to be posted) Lecture 17]()
 
 ---------------------------------------------------------
-### Day 18: Wednesday June 9 (6pm - 8pm Pacific)
+### Day 18: Wednesday June 16 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -390,7 +390,7 @@
 **Recording**: [(to be posted) Lecture 18]()
 
 ---------------------------------------------------------
-### Day 19: Thursday June 10 (6pm - 8pm Pacific)
+### Day 19: Thursday June 17 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -409,7 +409,7 @@
 **Recording**: [(to be posted) Lecture 19]()
 
 ---------------------------------------------------------
-### Day 20: Saturday June 12 (11am - 1pm Pacific)
+### Day 20: Saturday June 19 (11am - 1pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -427,7 +427,7 @@ or a github link in the associated thread
 
 
 ---------------------------------------------------------
-### Day 21: Monday June 14 (6pm - 8pm Pacific)
+### Day 21: Monday June 21 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -447,7 +447,7 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 21]()
 
 ---------------------------------------------------------
-### Day 22: Tuesday June 15 (6pm - 8pm Pacific)
+### Day 22: Tuesday June 22 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
@@ -463,7 +463,7 @@ or a github link in the associated thread
 
 
 ---------------------------------------------------------
-### Day 23: Wednesday June 16 (6pm - 8pm Pacific)
+### Day 23: Wednesday June 23 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -479,7 +479,7 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 23]()
 
 ---------------------------------------------------------
-### Day 24: Thursday June 17 (6pm - 8pm Pacific)
+### Day 24: Thursday June 24 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -497,7 +497,7 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 24]()
 
 ---------------------------------------------------------
-### Day 25: Saturday June 19 (11am - 1:00pm Pacific)
+### Day 25: Saturday June 26 (11am - 1:00pm Pacific)
 
 **Instructor**: Tovio Roberts and Clark Walker
 
