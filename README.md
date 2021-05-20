@@ -2,6 +2,8 @@
 ## May 24th, 2021 - June 26th, 2021
 
 
+### NOTE: Due to Memorial Day, we will hold our final class for this cohort on Monday, June 28
+
 ### Important Links
 [Zoom Link](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
 * Must be a registered user
