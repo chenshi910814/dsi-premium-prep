@@ -16,6 +16,7 @@
 [Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2508)
 
 [Premium Prep Transfer Request](https://docs.google.com/forms/d/e/1FAIpQLSfrojOIirbsmhexwjoIG5rzc4f1tFWwACxXE_BSPskwXFLkZA/viewform)
+* use this form to request transfer into an upcoming round of Premium Prep
 
 ### Other Helpful Resources
 
