@@ -50,8 +50,8 @@
 
 # Lecture Etiquette
 * Having your camera on is preferred
+    * Please be appropriately dressed if your camera is on
 * Please set yourself to mute by default, and be conscious of your microphone generally
-* Please be appropriately dressed if your camera is on
 * Please limit questions to the lecture thread and/or to the specified time allocated by the instructor
 
 
