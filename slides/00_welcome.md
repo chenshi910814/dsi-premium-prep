@@ -117,11 +117,10 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 # What Premium Prep Covers
 * Basic Python proficiency
 * Basic Probability and Statistics concepts
-    * expressed through Python
+    * Expressed through Python
 
 
 <br><br><br><br><br><br><br><br><br>
-
 
 ----------------------------------------------------------------
 
