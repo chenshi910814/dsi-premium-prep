@@ -287,8 +287,8 @@ There are no wrong answers here. That said, let's look at the expectations we ha
     * The ability to think critically about a problem, and approach a solution with a scientific/evidence based approach
     * The ability to ask the right question. Asking the question that will lead to an answer which will provide insight to the business, science, or research project they’re working on. 
     * A great data scientist is obsessed with solving complex problems, and will use any tool necessary to come up with an acceptable solution; even when that means they need to make a new tool themselves.
-    * Develop consciousness of your biases
-        * [Wikipedia List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+* Develop consciousness of your biases
+    * [Wikipedia List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 
 
@@ -300,6 +300,28 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 * [Repl.it](http://repl.it) is a coding environment you can use until you become comfortable with coding in your local environment
 * [Google Colabs](https://colab.research.google.com) is a cloud-based environment that runs Jupyter notebooks.  You can use Colabs until you set up your local environment to run Jupyter notebooks
 
+
+
+<br><br><br><br><br><br><br><br><br>
+
+----------------------------------------------------------------
+# BREAKOUT (5 minutes)
+
+1. Set up a repl.it account
+2. Create a Repl, add this code and run it:
+
+```python
+print('Hello World!')
+```
+3. Paste the link to your repl in the Slack thread
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+----------------------------------------------------------------
+# BREAKOUT Solution
+If you are having trouble with any of these steps, reach out directly and we'll help get you sorted
 
 
 <br><br><br><br><br><br><br><br><br>
