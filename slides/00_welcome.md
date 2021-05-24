@@ -244,18 +244,9 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 <br><br><br><br><br><br><br><br><br>
 
 ----------------------------------------------------------------
-# Understand that you are a beginner
-* You will struggle, and that's a good thing
-* "Even if you can't now, you will soon."
-* Everyone's path is different, so set your own benchmarks and work with us to gauge your readiness
-* See the [Beginner's Creed](https://brennan.io/beginner/)
-
-
-
-<br><br><br><br><br><br><br><br><br>
-
-----------------------------------------------------------------
 # Growth vs. Fixed Mindset
+* You will struggle, and that's a good thing
+    * "Even if you can't now, you will soon."
 * https://fs.blog/2015/03/carol-dweck-mindset/
     Carol Dweck - coined the term, leader in the research
 
