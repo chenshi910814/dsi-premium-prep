@@ -52,17 +52,6 @@
 
 
 
-<br><br><br><br><br><br><br><br><br>
-
-----------------------------------------------------------------
-# Compiled Languages
-* A compiled language requires that your code be translated into a more fundamental machine language before it is run. This leads to a workflow of:
-    * Write/Edit Code
-    * Compile Code
-    * Run the compiled executable
-* Compiled languages: C/C++, Java/Scala (sort of), Rust
-
-
 
 <br><br><br><br><br><br><br><br><br>
 
