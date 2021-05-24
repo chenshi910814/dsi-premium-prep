@@ -84,6 +84,22 @@ __Get diverse students to a baseline skill level to pass the Technical Interview
 
 <br><br><br><br><br><br><br><br><br>
 
+----------------------------------------------------------------
+# BREAKOUT (3 minutes)
+### What are your goals for this course?
+* post your response in the Slack thread for today's class
+
+
+<br><br><br><br><br><br><br><br><br>
+
+----------------------------------------------------------------
+# BREAKOUT Solution
+There are no wrong answers here. That said, let's look at the expectations we have of you as students.
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
 
 ----------------------------------------------------------------
 # Expectations
