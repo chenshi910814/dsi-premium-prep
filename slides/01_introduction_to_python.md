@@ -86,35 +86,6 @@
 
 
 
-<br><br><br><br><br><br><br><br><br>
-
-----------------------------------------------------------------
-# Think about the problem 
-* Broadly define what you are trying to do. 
-* Does your problem have a specific outcome that you want to obtain?
-
-
-
-<br><br><br><br><br><br><br><br><br>
-
-----------------------------------------------------------------
-# Define what it means for the program to be working 
-* Prior to writing any code, understand what a solution or what success is in your program
-    * Is it suppose to print something?
-    * Are you creating a new variable?
-    * Are you changing an existing variable?
-
-
-
-<br><br><br><br><br><br><br><br><br>
-
-----------------------------------------------------------------
-# Create a series of steps for a repeatable operation
-* Think about how to obtain your solution in small definable steps.
-* If necessary, write “Pseudocode” that describes the general algorithm for what you are trying to accomplish
-* Write code (as in, translate Pseudocode into Python)
-
-
 
 <br><br><br><br><br><br><br><br><br>
 
