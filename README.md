@@ -217,7 +217,7 @@
 **Recording**: [(to be posted) Lecture 8]()
 
 ---------------------------------------------------------
-### Day 9: Saturday June 5 (6pm - 8pm Pacific)
+### Day 9: Saturday June 5 (11am-1pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -232,7 +232,7 @@
 **Recording**: [(to be posted) Lecture 9]()
 
 ---------------------------------------------------------
-### Day 10: Monday June 7 (11am - 1:00pm Pacific)
+### Day 10: Monday June 7 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -296,7 +296,7 @@
 
 
 ---------------------------------------------------------
-### Day 14: Saturday June 12 (6pm - 8pm Pacific)
+### Day 14: Saturday June 12 (11am-1pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -321,7 +321,7 @@
 
 
 ---------------------------------------------------------
-### Day 15: Monday June 14 (11am - 1:00pm Pacific) 
+### Day 15: Monday June 14 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -394,7 +394,7 @@
 **Recording**: [(to be posted) Lecture 18]()
 
 ---------------------------------------------------------
-### Day 19: Saturday June 19 (6pm - 8pm Pacific)
+### Day 19: Saturday June 19 (11am-1pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -413,7 +413,7 @@
 **Recording**: [(to be posted) Lecture 19]()
 
 ---------------------------------------------------------
-### Day 20: Monday June 21 (11am - 1pm Pacific)
+### Day 20: Monday June 21 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: 
@@ -483,7 +483,7 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 23]()
 
 ---------------------------------------------------------
-### Day 24: Saturday June 26 (6pm - 8pm Pacific)
+### Day 24: Saturday June 26 (11am-1pm Pacific)
 
 **Instructor**: Tovio Roberts
 
@@ -501,7 +501,7 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 24]()
 
 ---------------------------------------------------------
-### Day 25: Monday June 28 (11am - 1:00pm Pacific)
+### Day 25: Monday June 28 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio Roberts and Clark Walker
 
