@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
 # Introduction to Python
 * What is Python?
-* Interpreted vs. Compiled Languages
+* Python is an _Interpreted_ language
 * Python Resources
 * Text Editors
 * How to Program 
@@ -37,9 +37,8 @@
 
 ----------------------------------------------------------------
 # Start off using repl.it to run your code
-* Create an account and open up a new Repl now!
-![Sign up for repl](images/sign_up_for_repl.png)
-
+* Easy, cross-platform, share-able
+* The minimum necessary for you to get some code working
 
 
 <br><br><br><br><br><br><br><br><br>
