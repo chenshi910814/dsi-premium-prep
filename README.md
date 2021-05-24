@@ -510,5 +510,5 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 25]()
+**Recording**: [Lecture 25](https://youtu.be/2qPxefrNuD0)
 
