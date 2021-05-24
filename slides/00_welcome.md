@@ -113,8 +113,18 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 
 <br><br><br><br><br><br><br><br><br>
 
+----------------------------------------------------------------
+# What Premium Prep Covers
+* Basic Python proficiency
+* Basic Probability and Statistics concepts
+    * expressed through Python
+
+
+<br><br><br><br><br><br><br><br><br>
+
 
 ----------------------------------------------------------------
+
 # The Materials...
 * Learn is our Learning Management System
     * [Premium Prep Cohort](https://learn-2.galvanize.com/cohorts/2508)
