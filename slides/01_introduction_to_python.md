@@ -71,7 +71,7 @@
 # Text Editors 
 * Text editors are used to write plain text (using [UTF-8](https://en.wikipedia.org/wiki/UTF-8) encoding)
 * DSI and Galvanize courses use [VSCode](https://code.visualstudio.com/) primarily, please install it ASAP
-* Install [Anaconda](https://www.anaconda.com/distribution/) for your operating system, giving you access to Jupyter notebooks
+* Install [Anaconda](https://www.anaconda.com/distribution/) for your operating system, giving you access to Jupyter notebooks and a local Python environment
 
 
 
