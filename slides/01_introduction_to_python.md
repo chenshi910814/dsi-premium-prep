@@ -141,7 +141,7 @@ comment
 * Send a message to someone reading your code	
 * Exclude some code snippet from running 
 * Provide function documentation 
-* Leave TODO: statements in your code, for later development
+* Leave `# TODO:` statements in your code, for later development
 
 
 
