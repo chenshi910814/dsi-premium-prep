@@ -142,9 +142,7 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 ----------------------------------------------------------------
 # Bugs and Edits
 * We do our best to catch any bugs and perform copy edits prior to release
-* Please Direct Message @Tovio and @Lance on Slack if you find bugs or copy errors in:
-    * The Learn materials (lessons and challenges)
-    * Homeworks/Supplemental Materials
+* Please post bugs in the #bugs channel
 
 
 
