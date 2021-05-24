@@ -227,7 +227,7 @@ NOTE: In general, you will want to avoid writing comments that say what your cod
 * Python is a “duck typed” language
     * _"If it walks like a duck, and quacks like a duck, then it must be a duck."_
     * Effectively, this means that you can perform mathematical operations between similar types, such as ints and floats, because Python infers a general type for the operation.
-        * For example, operations between ints and floats will result in float results
+        * For example, operations between ints and floats will result in floats
         * Division will result in a float
 
 
