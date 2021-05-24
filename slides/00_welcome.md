@@ -105,7 +105,6 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 # Expectations
 * You should work toward completion of the challenges in the Learn materials
 * Attend lecture, watch lecture recordings
-    * If you notice we’re not recording, REMIND US
 * Complete takeaway/HW challenges
 * Ask questions in Slack when you’re stuck for 10 minutes or more
     * Address peer questions using Socratic method
