@@ -187,7 +187,7 @@ comment
 ----------------------------------------------------------------
 # BREAKOUT (3 minutes):
 * Use the `type()` function to discover the type of the number `74`.
-* Describe simply what you did on the line above your code snippet
+* Using a comment, describe simply what you did on the line above your code snippet
 
 
 
