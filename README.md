@@ -151,6 +151,10 @@
 **Recording**: [(to be posted) Lecture 5]()
 
 ---------------------------------------------------------
+### [Week 1 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
+* Please complete this survey. We will use it to iterate on this course.
+
+---------------------------------------------------------
 ### Day 6: Tuesday June 1 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
