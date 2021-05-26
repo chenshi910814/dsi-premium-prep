@@ -89,7 +89,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 2]()
+**Recording**: [Lecture 2](https://youtu.be/4eo6Cki6L44)
 
 ---------------------------------------------------------
 ### Day 3: Wednesday May 26 (6pm - 8pm Pacific)
