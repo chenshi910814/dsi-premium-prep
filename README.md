@@ -129,7 +129,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 4]()
+**Recording**: [Lecture 4](https://youtu.be/_GVE5vJ6YlM)
 
 ---------------------------------------------------------
 ### Day 5: Saturday May 29 (11am-1pm Pacific)
