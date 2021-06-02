@@ -194,7 +194,7 @@ for i in range(15):
     print(i, twin_prime(i) )
 
 #######################################################"""
-# """un/comment to de/activate ###########################
+"""un/comment to de/activate ###########################
 
 def is_prime(num):
     if num < 2: return False
