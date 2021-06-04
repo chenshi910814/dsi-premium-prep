@@ -218,7 +218,7 @@
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 
-**Recording**: [(to be posted) Lecture 8]()
+**Recording**: [Lecture 8](https://youtu.be/DyerN7A72VI)
 
 ---------------------------------------------------------
 ### Day 9: Saturday June 5 (11am-1pm Pacific)
