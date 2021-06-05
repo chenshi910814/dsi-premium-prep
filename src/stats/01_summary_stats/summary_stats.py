@@ -29,7 +29,7 @@ def median(lst):
 
     if len(lst) % 2:
         mid_idx = int(len(lst) / 2)
-        return lst_sorted[mid_idx]
+        return lst_[mid_idx]
 
 
 
