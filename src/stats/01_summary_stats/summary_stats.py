@@ -57,3 +57,7 @@ farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0
 # print(f'Sample median Farmhouse: {round(median(farmhouse), 1)}')
 
 
+home_sales = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
+print(sorted(home_sales))
+print(f'mean of home sales: {round(mean(home_sales))}')
+print(f'median of home sales: {round(median(home_sales))}')
