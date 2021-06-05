@@ -28,11 +28,10 @@ def median(lst):
     lst_ = sorted(lst)
 
     if len(lst) % 2:
-        mid_idx = int(len(lst) / 2)
-        return lst_[mid_idx]
+        return lst_[int(len(lst) / 2)]
     else:
         upper_mid_idx = int(len(lst) / 2)
-        return mean([lst_[upper_mid_idx-1], lst_[upper_mid_idx]])
+        return (lst_[upper_mid_idx-1] + lst_[upper_mid_idx]]) / 2
 
 
 
