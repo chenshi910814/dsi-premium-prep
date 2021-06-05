@@ -25,13 +25,10 @@ farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0
 
 
 def median(lst):
-    lst_ = sorted(lst)
-
     if len(lst) % 2:
-        return lst_[int(len(lst) / 2)]
+        return sorted(lst)[int(len(lst) / 2)]
     else:
-        upper_mid_idx = int(len(lst) / 2)
-        return (lst_[upper_mid_idx-1] + lst_[upper_mid_idx]) / 2
+        return (sorted(lst)[int(len(lst) / 2)-1] + sorted(lst)[int(len(lst) / 2)]) / 2
 
 
 
