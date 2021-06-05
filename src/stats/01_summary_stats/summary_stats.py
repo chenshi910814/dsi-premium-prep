@@ -64,7 +64,7 @@ home_sales = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 
 
 
-pets = ['cat', 'dog', 'goldfish', 'ferret', 'ferret', 'cat', 'cat']
+pets = ['cat', 'dog', 'goldfish', 'ferret', 'ferret', 'cat', 'cat'] * 5
 
 
 print(pets.count('ferret'))
