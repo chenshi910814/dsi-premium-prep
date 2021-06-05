@@ -64,7 +64,7 @@ home_sales = [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
 
 
 
-pets = ['hermit crab', 'cat', 'dog', 'goldfish', 'ferret', 'ferret', 'ferret', 'cat', 'cat'] * 5
+pets = ['hermit crab', 'cat', 'dog', 'goldfish', 'ferret', 'ferret',  'cat', 'cat', 'ferret',] * 5
 
 # print(pets.count('ferret'))
 
@@ -72,7 +72,7 @@ def mode(lst):
     most_occurring = lst[0]
 
     for item in lst[1:]:
-        if lst.count(item) >= lst.count(most_occurring):
+        if lst.count(item) > lst.count(most_occurring):
             most_occurring = item
     
     return most_occurring
