@@ -31,7 +31,7 @@ def median(lst):
         return lst_[int(len(lst) / 2)]
     else:
         upper_mid_idx = int(len(lst) / 2)
-        return (lst_[upper_mid_idx-1] + lst_[upper_mid_idx]]) / 2
+        return (lst_[upper_mid_idx-1] + lst_[upper_mid_idx]) / 2
 
 
 
