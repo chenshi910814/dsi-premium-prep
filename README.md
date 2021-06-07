@@ -238,6 +238,72 @@
 ---------------------------------------------------------
 ### Day 10: Monday June 7 (6pm - 8pm Pacific)
 
+**Instructor**: Clark Walker
+
+**Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
+
+**HW assignment**: 
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
+
+
+
+**Recording**: [(to be posted) Lecture 10]()
+
+---------------------------------------------------------
+### Day 11: Tuesday June 8 (6pm - 8pm Pacific)
+
+**Instructor**: Tovio Roberts
+
+**Slide Deck**:
+* [Data Structure Function Practice](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/14_data_structure_function_practice.md)
+* **Review f-strings and `.format()`**
+* [Accumulator Review](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/16_accumulator_review.md)
+
+**HW assignment**: N/A
+
+
+
+**Recording**: [(to be posted) Lecture 11]()
+
+---------------------------------------------------------
+### Day 12: Wednesday June 9 (6pm - 8pm Pacific)
+
+**Instructor**: Clark Walker
+
+**Slide Decks**:
+* [Finish up: Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md) 
+* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
+
+**HW assignment**: N/A
+
+
+
+**Recording**: [(to be posted) Lecture 12]()
+
+---------------------------------------------------------
+### Day 13: Thursday June 10 (6pm - 8pm Pacific)
+
+**Instructor**: Clark Walker
+
+**Slide Deck**:
+* [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
+* [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
+[Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
+
+**HW assignment**: 
+* Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+
+
+
+**Recording**: [(to be posted) Lecture 13]()
+
+
+---------------------------------------------------------
+temperarily duplicated days 10 - 13
+---------------------------------------------------------
+### Day 10: Monday June 7 (6pm - 8pm Pacific)
+
 **Instructor**: Tovio Roberts
 
 **Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
