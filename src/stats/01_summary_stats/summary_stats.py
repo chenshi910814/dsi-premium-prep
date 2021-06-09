@@ -77,4 +77,9 @@ def mode(lst):
     
     return most_occurring
 
-print(mode(pets))
+# print(mode(pets))
+
+
+from random import choice
+
+print(choice([1,2,3]))
