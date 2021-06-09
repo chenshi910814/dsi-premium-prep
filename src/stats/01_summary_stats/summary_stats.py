@@ -104,10 +104,6 @@ for _ in range(100000):
 
 
 def five_number_summary(lst):
-    min_ = min(lst)
-    max_ = max(lst)
-    med  = median(lst)
-
     sorted_list = sorted(lst)
 
     lower_half = sorted_list[0: int(len(lst) / 2) + (len(lst) % 2 == 1)]
@@ -117,12 +113,15 @@ def five_number_summary(lst):
     q1 = median(lower_half)
     q3 = median(upper_half)
 
-    return min_, q1, med, q3, max_
+    return min(lst), q1, median(lst), q3, max(lst)
 
 a = [1,9,12,78,45,53,22,23,24]
 b = [1,9,12,78,45,53,22,23,24, 55]
-print(sorted(a))
-print(five_number_summary(a))
-print()
-print(sorted(b))
-print(five_number_summary(b))
+# print(sorted(a))
+# print(five_number_summary(a))
+# print()
+# print(sorted(b))
+# print(five_number_summary(b))
+
+
+
