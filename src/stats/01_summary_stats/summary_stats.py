@@ -141,3 +141,20 @@ b = list(range(0, 100+1, 5))
 # print(iqr(b))
 
 
+def detect_outliers(lst, outlier_coef=1.5):
+    _, q1, _, q3, _ = five_number_summary(lst)
+    iqr_ = iqr(lst)
+
+    outliers = []
+
+    for num in lst:
+        if num < q1 - outlier_coef*iqr_:
+            outliers.append(num)
+
+        if num > q3 + outlier_coef*iqr_:
+            outliers.append(num)
+
+    return outliers
+
+a = [-1000, 12,32,54,45,87,89,61,31, 12549]
+print(detect_outliers(a))
