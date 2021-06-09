@@ -264,7 +264,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 11]()
+**Recording**: [Lecture 11](https://youtu.be/SURdHANS1aA)
 
 ---------------------------------------------------------
 ### Day 12: Wednesday June 9 (6pm - 8pm Pacific)
