@@ -82,13 +82,15 @@ def mode(lst):
 
 from random import choice
 
-num_samples = 5
+def get_samps(sample_range, num_samples=5):
+    
+    samples = []
+
+    for _ in range(num_samples):
+        samples.append(choice(sample_range))
+    
+    return samples
 
 sample_range = list(range(0, 99+1))
-samples = []
-
-for _ in range(num_samples):
-    samples.append(choice(sample_range))
-
 print(f'mu: {mean(sample_range)}')
-print(f'x_bar: {mean(samples)}')
+print(f'x_bar: {mean(get_samps(sample_range, num_samples=5))}')
