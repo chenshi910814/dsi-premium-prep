@@ -187,7 +187,16 @@ def variance(lst, sample=True):
 
 
 a =  [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
-print(variance(a, sample=True)) # 64_140_000
-print(mean(a))
-print(variance(a, sample=True)**(1/2))
-print(variance(a, sample=False)**(1/2))
+# print(variance(a, sample=True)) # 64_140_000
+# print(mean(a))
+
+# '''Standard Deviation'''
+# print(variance(a, sample=True)**(1/2))
+# print(variance(a, sample=False)**(1/2))
+
+from math import sqrt
+
+def stdev(lst, sample=True):
+    return sqrt(variance(lst, sample))
+
+print(stdev(a))
