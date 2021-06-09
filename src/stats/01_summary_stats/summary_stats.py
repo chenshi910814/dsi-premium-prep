@@ -163,11 +163,11 @@ def detect_outliers(lst, outlier_coef=1.5):
 
 def remove_outliers(lst, outlier_coef=1.5):
     outliers = detect_outliers(lst, outlier_coef)
-    output = []
+    output = lst.copy()
 
-    for num in lst:
-        if num not in outliers:
-            output.append(num)
+    for num in outliers:
+        if num in output:
+            output.remove(num)
 
     return output
 
