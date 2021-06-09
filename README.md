@@ -243,7 +243,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 10]()
+**Recording**: [Lecture 10](https://youtu.be/5IzsUSY3KTY)
 
 ---------------------------------------------------------
 ### Day 11: Tuesday June 8 (6pm - 8pm Pacific)
