@@ -156,5 +156,5 @@ def detect_outliers(lst, outlier_coef=1.5):
 
     return outliers
 
-a = [-1000, 12,32,54,45,87,89,61,31, 12549]
-print(detect_outliers(a, outlier_coef=1.5))
+# a = [-1000, 12,32,54,45,87,89,61,31, 12549]
+# print(detect_outliers(a, outlier_coef=1.5))
