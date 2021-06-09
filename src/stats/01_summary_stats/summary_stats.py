@@ -120,7 +120,9 @@ def five_number_summary(lst):
         print(upper_half)
 
     q1 = median(lower_half)
-    q2 = median(upper_half)
+    q3 = median(upper_half)
+
+    return min_, q1, med, q3, max_
 
 a = [1,9,12,78,45,53,22,23,24]
 b = [1,9,12,78,45,53,22,23,24, 55]
