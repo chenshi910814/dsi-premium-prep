@@ -93,11 +93,25 @@ def get_samps(sample_range, num_samples=5):
 
 num_samples = 5
 sample_range = list(range(0, 99+1))
-print(f'mu: {mean(sample_range)}')
+# print(f'mu: {mean(sample_range)}')
 # print(f'x_bar: {mean(get_samps(sample_range, num_samples=5))}')
 
 means = []
 for _ in range(100000):
     means.append(mean(get_samps(sample_range, num_samples)))
 
-print(f'mean of means: {mean(means)}')
+# print(f'mean of means: {mean(means)}')
+
+
+def five_number_summary(lst):
+    min_ = min(lst)
+    max_ = max(lst)
+    med  = median(lst)
+
+    sorted_list = sorted(lst)
+
+    if len(lst) % 2 == 1:
+        lower_half = sorted_list[0: int(len(lst) / 2) + 1]
+        print(lower_half)
+
+        upper_half = sorted_list[int(len(lst) / 2): ]
