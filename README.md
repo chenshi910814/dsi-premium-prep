@@ -240,11 +240,6 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
-
-**HW assignment**: 
-* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
-* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
 
 
 
@@ -255,6 +250,13 @@
 
 **Instructor**: Tovio Roberts
 
+**Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
+
+**HW assignment**: 
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
+
+
 **Slide Deck**:
 * [Data Structure Function Practice](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/14_data_structure_function_practice.md)
 * **Review f-strings and `.format()`**
@@ -263,8 +265,8 @@
 **HW assignment**: N/A
 
 
-
 **Recording**: [Lecture 11](https://youtu.be/SURdHANS1aA)
+
 
 ---------------------------------------------------------
 ### Day 12: Wednesday June 9 (6pm - 8pm Pacific)
@@ -300,7 +302,7 @@
 
 
 ---------------------------------------------------------
-temperarily duplicated days 10 - 13
+temporarily duplicated days 10 - 13
 ---------------------------------------------------------
 ### Day 10: Monday June 7 (6pm - 8pm Pacific)
 
