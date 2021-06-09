@@ -110,12 +110,9 @@ def five_number_summary(lst):
 
     sorted_list = sorted(lst)
 
-    if len(lst) % 2 == 1:
-        lower_half = sorted_list[0: int(len(lst) / 2) + 1]
-        upper_half = sorted_list[int(len(lst) / 2): ]
-    else:
-        lower_half = sorted_list[0: int(len(lst) / 2)]
-        upper_half = sorted_list[int(len(lst) / 2): ]
+    lower_half = sorted_list[0: int(len(lst) / 2) + (len(lst) % 2 == 1)]
+    upper_half = sorted_list[int(len(lst) / 2): ]
+
 
     q1 = median(lower_half)
     q3 = median(upper_half)
