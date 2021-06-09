@@ -325,16 +325,27 @@ mode_lst = ['kangaroo', 'muskrat', 'platypus', 'muskrat', 'squid', 'squirrel', '
 * What can you do to better approach the population parameter?
 
 ```python
-from random import choice
+# from random import choice
 
+def get_samps(sample_range, num_samples=5):
+    
+    samples = []
+
+    for _ in range(num_samples):
+        samples.append(choice(sample_range))
+    
+    return samples
+
+num_samples = 5
 sample_range = list(range(0, 99+1))
+print(f'mu: {mean(sample_range)}')
+# print(f'x_bar: {mean(get_samps(sample_range, num_samples=5))}')
 
-samples = []
-for _ in range(5):
-    samples.append(choice(sample_range))
+means = []
+for _ in range(100000):
+    means.append(mean(get_samps(sample_range, num_samples)))
 
-print(mean(sample_range))
-print(mean(samples))
+print(f'mean of means: {mean(means)}')
 ```
 
 
