@@ -115,3 +115,9 @@ def five_number_summary(lst):
         print(lower_half)
 
         upper_half = sorted_list[int(len(lst) / 2): ]
+        print(upper_half)
+
+a = [1,9,12,78,45,53,22,23,24]
+
+print(sorted(a))
+print(five_number_summary(a))
