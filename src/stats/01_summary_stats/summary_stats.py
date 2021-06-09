@@ -126,5 +126,8 @@ def five_number_summary(lst):
 
 a = [1,9,12,78,45,53,22,23,24]
 b = [1,9,12,78,45,53,22,23,24, 55]
+print(sorted(a))
+print(five_number_summary(a))
+print()
 print(sorted(b))
 print(five_number_summary(b))
