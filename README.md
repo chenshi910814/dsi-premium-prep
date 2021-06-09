@@ -52,11 +52,11 @@
 
 **Instructor**: Tovio, Clark
 
-**Slide Decks**: 
+**Slide Decks**:
 * [Welcome to Premium Prep](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/00_welcome.md)
 * [Introduction to Python](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/01_introduction_to_python.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Sign up for [Repl.it](https://repl.it/), this will be an initial coding environment
 * Visit [Google Colabs](https://colab.research.google.com/) and create a notebook
 * Read through the Welcome to [Data Science Prep Section](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-init/00_purpose/00_ds_prep_welcome_overview.md)
@@ -81,7 +81,8 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
+**Slide Deck**:
+* [Introduction to Python](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/01_introduction_to_python.md)
 * [Python Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/02_python_basics.md)
 
 
@@ -97,9 +98,11 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
+* [Introduction to Python](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/01_introduction_to_python.md)
+* [Python Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/02_python_basics.md)
 * [Python Variables and Control Flow](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/03_python_variables_and_control_flow.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete the Day 1 Homework first (links above)
 * Complete all Challenges in these Learn Sections:
     * [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
@@ -118,7 +121,8 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
+**Slide Deck**:
+* [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
 * [Function Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/04_basic_functions.md)
 * [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
 
@@ -137,10 +141,12 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
+* [Function Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/04_basic_functions.md)
+* [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
 * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 * [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Learn Units in Intro Python:
     * [List Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/09_List_Functions_and_Methods/00_unit_overview.md)
     * [List Iteration](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_unit_overview.md)
@@ -159,12 +165,12 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
-* [List Methods and Operations (cont'd)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/07_list_methods_and_operations.md)
-* [While Loops](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/08_while_loops.md)
-* [Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/09_strings.md)
+**Slide Deck**:
+* [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
+* [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete these Learn Units:
     * [While Loops](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/13_While_Loops/00_unit_overview.md)
     * [Strings](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/14_Strings/00_unit_overview.md)
@@ -179,10 +185,11 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Strings (cont'd)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/09_strings.md)
+* [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
+* [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
-
-**HW assignment**: 
+**HW assignment**:
 * Work through these Learn Units:
     * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
     * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
@@ -200,13 +207,11 @@
 
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
-* [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
-* [Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/12_data_structures.md)
-* [More Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/13_more_data_structures.md)
+**Slide Deck**:
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
 
-**HW assignment**: 
+**HW assignment**:
 * [Python HW](https://colab.research.google.com/drive/1M_sZH5mJpNDIgGias0Q2Lz7rtFfO2HKc)
 * Wrap up these Units on Learn:
     * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
@@ -240,8 +245,9 @@
 
 **Instructor**: Clark Walker
 
-
-
+**Slide Deck**:
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [While Loops](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/08_while_loops.md)
 
 **Recording**: [Lecture 10](https://youtu.be/5IzsUSY3KTY)
 
@@ -252,7 +258,7 @@
 
 **Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
 * Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
 
@@ -267,26 +273,25 @@
 
 **Recording**: [Lecture 11](https://youtu.be/SURdHANS1aA)
 
-
 ---------------------------------------------------------
-
-# Note: The following days will be updated shortly, just reworking the schedule a little.
 
 ### Day 12: Wednesday June 9 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
 **Slide Decks**:
-* [Finish up: Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md) 
-* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
+* [Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/09_strings.md)
+* [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
+
 
 **HW assignment**: N/A
-
 
 
 **Recording**: [(to be posted) Lecture 12]()
 
 ---------------------------------------------------------
+# Note: The following days will be updated shortly, just reworking the schedule a little.
+
 ### Day 13: Thursday June 10 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
@@ -296,7 +301,7 @@
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
 [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
@@ -309,10 +314,10 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Discrete Random Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/01_discrete_random_variables.md)
     * [Probability Mass Function](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/02_discrete_pmf.md)
@@ -346,11 +351,11 @@
 ### Day 16: Tuesday June 15 (6pm - 8pm Pacific)
 **Instructor**: Clark Walker
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Python Classes for Stats Functions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/26_python_classes_for_stats_functions.md)
 * [Tests and Errors](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/27_tests_and_errors.md)
 
-**HW assignment**: 
+**HW assignment**:
 [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md)
 
 
@@ -365,12 +370,12 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [General Analytic Approach](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/22_general_analytic_approach.md)
 * [Discrete Random Variables](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/23_discrete_random_variables.md)
 
 
-**HW assignment**: 
+**HW assignment**:
 * Review the code and materials regarding the General Analytic Approach
 
 
@@ -383,10 +388,10 @@
 ### Day 18: Thursday June 17 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Wrap up these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Cumulative Distribution Function](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/03_discrete_cdf.md)
     * [Bernoulli Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/04_bernoulli.md)
@@ -406,11 +411,11 @@
 ### Day 19: Saturday June 19 (11am-1pm Pacific)
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 * [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
 
@@ -425,13 +430,13 @@
 ### Day 20: Monday June 21 (6pm - 8pm Pacific)
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Geometric Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/29_geometric_distribution.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete the [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md) on Learn
-* Code out your own analytic approach to a phenomenon 
-(mathematical, probabilistic, etc), and submit a .py file, a collab link, 
+* Code out your own analytic approach to a phenomenon
+(mathematical, probabilistic, etc), and submit a .py file, a collab link,
 or a github link in the associated thread
 
 
@@ -446,7 +451,7 @@ or a github link in the associated thread
 
 **Slide Deck**: [Function Practice 2](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/28_function_practice_2.md)
 
-**HW assignment**: 
+**HW assignment**:
 * These lessons in the [Conditional Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/00_conditional_probability_overview.md)
     * [Overview](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/00_conditional_probability_overview.md)
     * [Conditional Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/01_conditional_probability.md)
@@ -465,8 +470,8 @@ or a github link in the associated thread
 
 **Slide Deck**: [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
 
-**HW assignment** 
-* These are optional: 
+**HW assignment**
+* These are optional:
 	* Do the [Kaggle Pandas Tutorial](https://www.kaggle.com/learn/pandas)
 	* Read 2.2, 4.6.5, and 5.1 of [Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
 
@@ -482,7 +487,7 @@ or a github link in the associated thread
 
 **Slide Deck**: [Bayes Theorem](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/30_conditional_probability_bayes.md)
 
-**HW assignment**: 
+**HW assignment**:
 * Complete these units on Learn
     * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
     * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
@@ -496,12 +501,12 @@ or a github link in the associated thread
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Procedural Probability with Python (code)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/src/stats/09_preparing_for_ti/ti_prep.py)
 * <s>[Intro to Machine Learning](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)</s>
- 
 
-**HW assignment**: 
+
+**HW assignment**:
 * Continue working on remaining Learn materials
 * Schedule a mentoring session to gauge where you are at and where you need to focus
 
@@ -514,14 +519,13 @@ or a github link in the associated thread
 
 **Instructor**: Tovio Roberts and Clark Walker
 
-**Slide Deck**: 
+**Slide Deck**:
 * [Intro to Machine Learning, cont'd](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)
 * [Technical Interview Review](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/33_technical_interview_review.md)
 
-**HW assignment**: 
+**HW assignment**:
 	Finish your Learn materials and get ready for your TI!
 
 
 
 **Recording**: [(to be posted) Lecture 25]()
-
