@@ -213,7 +213,7 @@ def next_prime(anchor):
 
 
 def twin_prime(nth):
-    """
+    '''
     The twin prime conjecture is a theory in which there are an infinite
     number of pairs of primes that differ by 2. This function finds the
     'nth' twin prime pair. For example, the 5th twin prime pair is (29, 31).
@@ -225,7 +225,7 @@ def twin_prime(nth):
     ---------------
     list
         The 'nth' pair of twin primes
-    """
+    '''
     prime_anchor = 1
     pair_counter = 1
     while True:

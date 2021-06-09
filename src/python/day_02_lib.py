@@ -115,19 +115,3 @@ else:
 print("fin")
 
 #######################################################"""
-# """un/comment to de/activate ###########################
-
-# Question: print the division of the result of 4 minus 2 times 2 into twenty
-# Clark's Answer: print ((4-2) * (20/2))
-# Sherry sees print(  20 / ( 4 - 2 * 2) )
-# this would give a Division by Zero;
-# I would add more parentheses if I saw more commas in the problem statement; Seems like the problem is poorly stated. --Does anyone else see this discrepancy?
-
-
-
-#######################################################"""
-# """un/comment to de/activate ###########################
-
-
-
-#######################################################"""

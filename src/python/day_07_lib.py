@@ -228,3 +228,94 @@ del my_lst
 
 
 #######################################################"""
+"""un/comment to de/activate ###########################
+# # len()
+# lst = [4, 3, 6, 4, 8]
+# print( len(lst) )
+#
+# # .count()
+# print( lst.count(4) )
+# print( lst.count(3) )
+# print( lst.count("hello") )
+
+
+# zip()
+names = ["Joanne", "Jason"  , "Jessie", "Joe"]
+ages  = [25      , 33       , 18      , 77]
+jobs  = ["doctor", "trucker", "lawyer", "programmer"]
+
+for name, age, job in zip(names, ages, jobs):
+    print(f"{name} is {age} years old, they are a {job}")
+
+
+#######################################################"""
+"""un/comment to de/activate ###########################
+# zip and enumerate
+
+lst_a = [4, 3, 7, 6, 5, 9, 2, 4]
+lst_b = [1, 4, 6, 7, 4, 6, 3, 8]
+
+#  Σ (a / b) ** i
+# i=0
+acc = 0
+for i, (a, b) in enumerate(  zip( lst_a, lst_b )  ):
+    acc += (a / b) ** i
+
+print(acc)
+
+#######################################################"""
+"""un/comment to de/activate ###########################
+# max()
+# min()
+
+lst = [4, 3, 7, 6, 5, 9, 2, 4]
+print(max(lst))
+print(min(lst))
+
+lst = ["hello", "my", "name", "is", "clark"]
+print(max(lst))
+print(min(lst))
+
+#######################################################"""
+"""un/comment to de/activate ###########################
+
+# unpacking
+# a, b = ["hello", "world", "foo"]
+# ValueError: too many values to unpack (expected 2, got 3)
+# a, b, c, d = ["hello", "world", "foo"]
+# ValueError: not enough values to unpack (expected 4, got 3)
+a, b, c = ["hello", "world", "foo"]
+print(a)
+print(b)
+
+#######################################################"""
+"""un/comment to de/activate ###########################
+# any()
+# all()
+
+lst = [4, 3, 7, 6, 5, 9, 2, 4]
+print( any(lst) )
+print( all(lst) )
+lst = [4, 3, 7, 6, 5, 0, 2, 4]
+print( any(lst) )
+print( all(lst) )
+lst = [0, 0, "", []]
+print( any(lst) )
+print( all(lst) )
+
+#######################################################"""
+"""un/comment to de/activate ###########################
+
+'append',
+'clear',
+'copy',
+'count',
+'extend',
+'index',
+'insert',
+'pop',
+'remove',
+'reverse',
+'sort'
+
+#######################################################"""
