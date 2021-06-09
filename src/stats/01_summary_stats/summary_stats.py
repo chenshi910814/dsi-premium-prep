@@ -124,4 +124,13 @@ b = [1,9,12,78,45,53,22,23,24, 55]
 # print(five_number_summary(b))
 
 
+def iqr(lst):
+    _, q1, _, q3, _ = five_number_summary(lst)
+    return q3 - q1
 
+
+a = list(range(0, 50+1, 5)) 
+b = list(range(0, 100+1, 5))
+
+print(iqr(a))
+print(iqr(b))
