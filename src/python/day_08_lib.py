@@ -20,7 +20,7 @@ while controller < 10:
 print( "fin" )
 
 #######################################################"""
-# """un/comment to de/activate ###########################
+"""un/comment to de/activate ###########################
 
 # is_prime(n) # bool # True if n is a prime number else False
 def is_prime(n):
