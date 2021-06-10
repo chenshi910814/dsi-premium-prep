@@ -287,7 +287,7 @@
 **HW assignment**: N/A
 
 
-**Recording**: [(to be posted) Lecture 12]()
+**Recording**: [Lecture 12](https://youtu.be/7KWeZbSRwoE)
 
 ---------------------------------------------------------
 # Note: The following days will be updated shortly, just reworking the schedule a little.
