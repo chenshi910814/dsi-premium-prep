@@ -437,7 +437,6 @@
 * Review the code and materials regarding the Binomial Distribution in the stats folder
 
 
-
 **Recording**: [(to be posted) Lecture 20]()
 
 ---------------------------------------------------------
@@ -452,10 +451,6 @@
 **HW assignment**:
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
-
-
-
-
 
 
 **Recording**: [(to be posted) Lecture 21]()
@@ -488,9 +483,9 @@ or a github link in the associated thread
 **Slide Deck**: [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
 
 **HW assignment**
-* These are optional:
-	* Do the [Kaggle Pandas Tutorial](https://www.kaggle.com/learn/pandas)
-	* Read 2.2, 4.6.5, and 5.1 of [Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
+* Review these units on Learn
+    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
+    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
 
 
