@@ -289,6 +289,10 @@
 
 **Recording**: [Lecture 12](https://youtu.be/7KWeZbSRwoE)
 
+
+---------------------------------------------------------
+
+
 ### Day 13: Thursday June 10 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
@@ -296,6 +300,7 @@
 **Slide Deck**:
 * [Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/09_strings.md)
 * [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
+
 <!--
 * [Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/12_data_structures.md)
 * [More Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/13_more_data_structures.md)
