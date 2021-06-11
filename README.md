@@ -337,6 +337,10 @@
 **Recording**: [(to be posted) Lecture 14]()
 
 
+---------------------------------------------------------
+### [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
+* Please complete this survey. We will use it to iterate on this course.
+
 
 ---------------------------------------------------------
 ### Day 15: Monday June 14 (6pm - 8pm Pacific)
