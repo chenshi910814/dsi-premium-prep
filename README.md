@@ -350,7 +350,8 @@
 
 **HW assignment**: 
 * Wrap up homework from last class
-*
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
 
 
 
