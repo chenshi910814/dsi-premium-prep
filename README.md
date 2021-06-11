@@ -321,7 +321,7 @@
 **Slide Deck**:
 * [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
 * [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
-* [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
+
 
 
 **HW assignment**: 
@@ -347,14 +347,14 @@
 
 ---------------------------------------------------------
 ### Day 16: Tuesday June 15 (6pm - 8pm Pacific)
-**Instructor**: Clark Walker
+**Instructor**: Tovio Roberts
 
 **Slide Deck**:
-* [Python Classes for Stats Functions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/26_python_classes_for_stats_functions.md)
-* [Tests and Errors](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/27_tests_and_errors.md)
+* [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
+*
 
 **HW assignment**:
-[Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md)
+* Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
 
