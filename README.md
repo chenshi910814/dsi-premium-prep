@@ -416,6 +416,19 @@
 ---------------------------------------------------------
 ### Day 19: Saturday June 19 (11am-1pm Pacific)
 
+**Instructor**: Clark Walker
+
+**Slide Deck**:
+* [Data Structure Function Practice](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/14_data_structure_function_practice.md)
+* [Accumulator Review](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/16_accumulator_review.md)
+* [Function Practice 1](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/18_function_practice_1.md)
+* [Function Practice 2](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/28_function_practice_2.md)
+
+**HW assignment**: N/A
+
+
+
+**Recording**: [(to be posted) Lecture 19]()
 
 ---------------------------------------------------------
 ### Day 20: Monday June 21 (6pm - 8pm Pacific)
