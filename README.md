@@ -351,7 +351,7 @@
 
 **Slide Deck**:
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
-*
+
 
 **HW assignment**:
 * Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
@@ -369,12 +369,12 @@
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
-* [General Analytic Approach](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/22_general_analytic_approach.md)
-* [Discrete Random Variables](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/23_discrete_random_variables.md)
+* [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
 
 
 **HW assignment**:
-* Review the code and materials regarding the General Analytic Approach
+* Review the code and materials regarding the Statistical Counting
+* Complete materials on Learn for Statistical Counting
 
 
 
@@ -387,6 +387,8 @@
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
+* [General Analytic Approach](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/22_general_analytic_approach.md)
+* [Discrete Random Variables](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/23_discrete_random_variables.md)
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 
 **HW assignment**:
