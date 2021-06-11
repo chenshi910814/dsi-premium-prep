@@ -2,10 +2,14 @@
 
 
 # Data Structures Review
+* Dictionaries
 * Sets
 * Tuples
-* Dictionaries
-* List, Dict, if/else comprehension
+* comprehensions
+    * List comprehensions
+    * Dict comprehensions
+    * conditions in comprehensions
+
 
 
 
