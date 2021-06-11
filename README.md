@@ -308,7 +308,7 @@
 
 
 **HW assignment**:
-* Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+
 
 
 **Recording**: [Lecture 13](https://youtu.be/36ef4eBqskw)
@@ -316,6 +316,28 @@
 ---------------------------------------------------------
 ### Day 14: Saturday June 12 (11am-1pm Pacific)
 
+
+**Instructor**: Clark Walker
+
+**Slide Deck**: 
+* [More Strings](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/11_more_strings.md)
+* [Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/12_data_structures.md)
+* [More Data Structures](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/13_more_data_structures.md)
+
+
+**HW assignment**: 
+* [Python HW](https://colab.research.google.com/drive/1M_sZH5mJpNDIgGias0Q2Lz7rtFfO2HKc)
+* Wrap up these Units on Learn:
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
+    * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
+
+
+**Recording**: [(to be posted) Lecture 8]()
 
 
 
