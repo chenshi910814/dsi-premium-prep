@@ -370,7 +370,7 @@
 
 
 **HW assignment**: 
-* Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+* Review and work on Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
 **Recording**: [(to be posted) Lecture 16]()
@@ -388,7 +388,7 @@
 
 
 **HW assignment**:
-* Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+* Continue review and completion of Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
 **Recording**: [(to be posted) Lecture 16]()
@@ -428,7 +428,7 @@
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 
 **HW assignment**:
-* Wrap up these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
+* Begin these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
     * [Cumulative Distribution Function](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/03_discrete_cdf.md)
     * [Bernoulli Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/04_bernoulli.md)
     * [Binomial Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/05_binomial.md)
@@ -467,6 +467,7 @@
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
+* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 * [Geometric Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/29_geometric_distribution.md)
 
 **HW assignment**:
