@@ -384,6 +384,15 @@
 
 ---------------------------------------------------------
 ### Day 18: Thursday June 17 (6pm - 8pm Pacific)
+
+
+---------------------------------------------------------
+### Day 19: Saturday June 19 (11am-1pm Pacific)
+
+
+---------------------------------------------------------
+### Day 20: Monday June 21 (6pm - 8pm Pacific)
+
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
@@ -402,13 +411,11 @@
 
 
 
-
-
-
 **Recording**: [(to be posted) Lecture 18]()
 
 ---------------------------------------------------------
-### Day 19: Saturday June 19 (11am-1pm Pacific)
+### Day 21: Tuesday June 22 (6pm - 8pm Pacific)
+
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
@@ -426,8 +433,10 @@
 
 **Recording**: [(to be posted) Lecture 19]()
 
+
 ---------------------------------------------------------
-### Day 20: Monday June 21 (6pm - 8pm Pacific)
+### Day 22: Wednesday June 23 (6pm - 8pm Pacific)
+
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
@@ -444,29 +453,9 @@ or a github link in the associated thread
 **Recording**: [(to be posted) Lecture 20]()
 
 
----------------------------------------------------------
-### Day 21: Tuesday June 22 (6pm - 8pm Pacific)
-
-**Instructor**: Clark Walker
-
-**Slide Deck**: [Function Practice 2](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/28_function_practice_2.md)
-
-**HW assignment**:
-* These lessons in the [Conditional Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/00_conditional_probability_overview.md)
-    * [Overview](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/00_conditional_probability_overview.md)
-    * [Conditional Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/01_conditional_probability.md)
-    * [Multiplication Rule and iid](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/02_multiply_rule_of_prob.md)
-* Review
-    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
-    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
-
-
-
-**Recording**: [(to be posted) Lecture 21]()
 
 ---------------------------------------------------------
-### Day 22: Wednesday June 23 (6pm - 8pm Pacific)
-**Instructor**: Tovio Roberts
+### Day 23: Thursday June 24 (6pm - 8pm Pacific)
 
 **Slide Deck**: [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
 
@@ -477,11 +466,13 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 22]()
+**Recording**: [(to be posted) Lecture 23]()
+
 
 
 ---------------------------------------------------------
-### Day 23: Thursday June 24 (6pm - 8pm Pacific)
+### Day 24: Saturday June 26 (11am-1pm Pacific)
+
 
 **Instructor**: Tovio Roberts
 
@@ -493,25 +484,6 @@ or a github link in the associated thread
     * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
 
-
-**Recording**: [(to be posted) Lecture 23]()
-
----------------------------------------------------------
-### Day 24: Saturday June 26 (11am-1pm Pacific)
-
-**Instructor**: Tovio Roberts
-
-**Slide Deck**:
-* [Procedural Probability with Python (code)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/src/stats/09_preparing_for_ti/ti_prep.py)
-* <s>[Intro to Machine Learning](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)</s>
-
-
-**HW assignment**:
-* Continue working on remaining Learn materials
-* Schedule a mentoring session to gauge where you are at and where you need to focus
-
-
-
 **Recording**: [(to be posted) Lecture 24]()
 
 ---------------------------------------------------------
@@ -520,7 +492,6 @@ or a github link in the associated thread
 **Instructor**: Tovio Roberts and Clark Walker
 
 **Slide Deck**:
-* [Intro to Machine Learning, cont'd](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/32_intro_to_machine_learning.md)
 * [Technical Interview Review](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/33_technical_interview_review.md)
 
 **HW assignment**:
