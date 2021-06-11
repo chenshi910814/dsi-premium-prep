@@ -338,7 +338,7 @@
 
 
 ---------------------------------------------------------
-### [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
+### [Week 3 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfG83Z53HUsUuzEMoWJFU0IV07QtYrlXpX99sQvopdaPCtnXQ/viewform)
 * Please complete this survey. We will use it to iterate on this course.
 
 
