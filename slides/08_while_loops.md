@@ -19,7 +19,7 @@ while some_condition:
     some code
 ```
 
-* Typically, `while` loops have some counter or flag as well. 
+* Typically, `while` loops have some counter or flag as well.
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -277,10 +277,10 @@ Would you use a for loop or a while loop?
 
 ---------------------------------------------------------------
 # BREAKOUT (8 minutes)
-Write a for loop to print a menu out of this list with their number options starting at 1? Store the choices (as the item names, not the numbers) in a list. Print out the list containing the food ordered.
+Write a while loop to print a menu out of this list with their number options starting at 1? Store the choices (as the item names, not the numbers) in a list. Print out the list containing the food ordered.
 
 ```python
-food_lst = [‘Pancakes’, ‘Omelet’, ‘Toast’, ‘Waffles’, ‘Bacon’, ‘Sausage’, ‘Orange Juice’]
+food_lst = ['Pancakes', 'Omelet', 'Toast', 'Waffles', 'Bacon', 'Sausage', 'Orange Juice']
 ```
 
 <br><br><br><br><br><br><br><br><br>
@@ -289,7 +289,7 @@ food_lst = [‘Pancakes’, ‘Omelet’, ‘Toast’, ‘Waffles’, ‘Bacon�
 # BREAKOUT SOLUTION
 
 ```python
-food_lst = [‘Pancakes’, ‘Omelet’, ‘Toast’, ‘Waffles’, ‘Bacon’, ‘Sausage’, ‘Orange Juice’]
+food_lst = ['Pancakes', 'Omelet', 'Toast', 'Waffles', 'Bacon', 'Sausage', 'Orange Juice']
 order = []
 
 wish_to_continue = 'Y'
