@@ -540,3 +540,9 @@ or a github link in the associated thread
 
 
 **Recording**: [(to be posted) Lecture 25]()
+
+
+
+---------------------------------------------------------
+### [Post-Premium Prep Survey]()
+* Please complete this survey. We will use it to iterate on this course.
