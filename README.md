@@ -347,13 +347,15 @@
 * Review the Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
-**Recording**: [(to be posted) Lecture 14]()
+**Recording**: [(to be posted) Lecture 16]()
 
 
-**Instructor**: Tovio Roberts
+
 
 ---------------------------------------------------------
 ### Day 17: Wednesday June 16 (6pm - 8pm Pacific)
+
+**Instructor**: Tovio Roberts
 
 **Slide Deck**:
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
@@ -382,7 +384,7 @@
 * Complete materials on Learn for Statistical Counting
 
 
-**Recording**: [(to be posted) Lecture 17]()
+**Recording**: [(to be posted) Lecture 18]()
 
 
 ---------------------------------------------------------
@@ -410,7 +412,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 18]()
+**Recording**: [(to be posted) Lecture 20]()
 
 ---------------------------------------------------------
 ### Day 21: Tuesday June 22 (6pm - 8pm Pacific)
@@ -430,7 +432,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 19]()
+**Recording**: [(to be posted) Lecture 21]()
 
 
 ---------------------------------------------------------
@@ -449,7 +451,7 @@ or a github link in the associated thread
 
 
 
-**Recording**: [(to be posted) Lecture 20]()
+**Recording**: [(to be posted) Lecture 22]()
 
 
 
