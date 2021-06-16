@@ -28,4 +28,4 @@ def union(set1, set2):
             set_union.append(item)
     return set_union
 
-print(union(a, b)) # -> all unique elems from a and b
+print(union(union(a, b), c)) # -> all unique elems from a and b
