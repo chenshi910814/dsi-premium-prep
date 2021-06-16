@@ -116,3 +116,15 @@ def complement(sample_space, set1):
 
 
 
+four_sided = [1,2,3,4]
+coin = ['H', 'T']
+
+sample_space = []
+
+for roll in four_sided:
+    for flip1 in coin:
+        for flip2 in coin:
+            sample_space.append([roll, flip1, flip2])
+
+for outcome in sample_space:
+    print(outcome)
