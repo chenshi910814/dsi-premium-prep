@@ -44,4 +44,15 @@ def union(set1, set2):
 
 # print(union(union(a, b), c)) # -> all unique elems from a and b
 
+def union_mult_sets(*mult_sets):
+    set_union = []
 
+    for lst in mult_sets:
+        for item in lst:
+            if item not in set_union:
+                set_union.append(item)
+
+    return set_union
+
+
+print(union_mult_sets(a, b, c))
