@@ -15,6 +15,20 @@ def dedupe_in_order(lst):
 # print(dedupe_in_order(lst))
 
 
+def star_args(*args):
+    print(type(args))
+    for item in args:
+        print(item)
+    return None
+
+# star_args([1,2,3], 'cat', -27, 1.345)
+
+
+
+
+
+
+
 a = ['bat', 'cat', 'dog', 'porpoise', 'whale', 'ant', 'bear']
 b = ['bat', 'cat', 'dog', 'eagle', 'shark', 'anteater', 'gull']
 c = ['porpoise', 'platypus', 'crane', 'hermit crab', 'shark', 'anteater', 'gull']
@@ -28,4 +42,6 @@ def union(set1, set2):
             set_union.append(item)
     return set_union
 
-print(union(union(a, b), c)) # -> all unique elems from a and b
+# print(union(union(a, b), c)) # -> all unique elems from a and b
+
+
