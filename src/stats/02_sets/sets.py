@@ -112,4 +112,6 @@ sample_space = union_mult_sets(a, b, c, ['elephant', 'hippo', 'nutria'])
 def complement(sample_space, set1):
     return difference(sample_space, set1)
 
-print(complement(sample_space, a))
+# print(complement(sample_space, a))
+
+
