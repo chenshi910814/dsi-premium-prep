@@ -126,5 +126,20 @@ for roll in four_sided:
         for flip2 in coin:
             sample_space.append([roll, flip1, flip2])
 
+# for outcome in sample_space:
+#     print(outcome)
+
+A = []
+
 for outcome in sample_space:
-    print(outcome)
+    if outcome[0] == 1:
+        A.append(outcome)
+
+print(A)
+print()
+B = []
+
+for outcome in sample_space:
+    if outcome.count('H') >= 1:
+        B.append(outcome)
+print(B)
