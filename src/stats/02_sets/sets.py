@@ -58,7 +58,7 @@ def union_mult_sets(*mult_sets):
 # print(union_mult_sets(a, b, c))
 
 a = ['bat', 'cat', 'dog', 'porpoise', 'whale', 'ant', 'bear']
-b = ['bat', 'cat', 'dog', 'eagle', 'shark', 'anteater', 'gull']
+b = ['bat', 'cat', 'dog', 'eagle', 'porpoise', 'shark', 'anteater', 'gull']
 c = ['porpoise', 'platypus', 'crane', 'hermit crab', 'shark', 'anteater', 'gull']
 
 def intersection(set1, set2):
@@ -69,4 +69,27 @@ def intersection(set1, set2):
             set_intersect.append(item)
     return set_intersect
 
-print(intersection(a, b)) # ['bat', 'cat', 'dog']
+# print(intersection(a, b)) # ['bat', 'cat', 'dog']
+
+
+a = ['bat', 'cat', 'dog', 'porpoise', 'whale', 'ant', 'bear']
+b = ['bat', 'cat', 'dog', 'eagle', 'porpoise', 'shark', 'anteater', 'gull']
+c = ['porpoise', 'platypus', 'crane', 'hermit crab', 'shark', 'anteater', 'gull']
+
+def intersection_mult(*mult_sets):
+    set_intersect = []
+
+    if len(mult_sets) > 1 and len(mult_sets[0]) > 0:
+        for item in mult_sets[0]:
+            is_member = True
+
+            for set_ in mult_sets[1:]:
+                if item not in set_:
+                    is_member = False
+                    break
+            
+            if is_member:
+                set_intersect.append(item)
+
+    return set_intersect
+
