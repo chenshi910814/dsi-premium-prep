@@ -93,4 +93,4 @@ def intersection_mult(*mult_sets):
 
     return set_intersect
 
-print(intersection_mult(a, b, c))
+# print(intersection_mult(a, b, c))
