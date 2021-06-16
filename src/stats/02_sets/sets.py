@@ -11,3 +11,5 @@ def dedupe_in_order(lst):
         if element not in deduped:
             deduped.append(element)
     return deduped
+
+print(dedupe_in_order(lst))
