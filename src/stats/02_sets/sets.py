@@ -135,11 +135,13 @@ for outcome in sample_space:
     if outcome[0] == 1:
         A.append(outcome)
 
-print(A)
+# print(A)
 print()
 B = []
 
 for outcome in sample_space:
     if outcome.count('H') >= 1:
         B.append(outcome)
-print(B)
+# print(B)
+
+print(union(A, B))
