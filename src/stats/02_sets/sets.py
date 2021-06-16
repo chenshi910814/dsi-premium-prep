@@ -55,4 +55,10 @@ def union_mult_sets(*mult_sets):
     return set_union
 
 
-print(union_mult_sets(a, b, c))
+# print(union_mult_sets(a, b, c))
+
+a = ['bat', 'cat', 'dog', 'porpoise', 'whale', 'ant', 'bear']
+b = ['bat', 'cat', 'dog', 'eagle', 'shark', 'anteater', 'gull']
+c = ['porpoise', 'platypus', 'crane', 'hermit crab', 'shark', 'anteater', 'gull']
+
+print(intersection(a, b)) # ['bat', 'cat', 'dog']
