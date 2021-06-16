@@ -61,4 +61,12 @@ a = ['bat', 'cat', 'dog', 'porpoise', 'whale', 'ant', 'bear']
 b = ['bat', 'cat', 'dog', 'eagle', 'shark', 'anteater', 'gull']
 c = ['porpoise', 'platypus', 'crane', 'hermit crab', 'shark', 'anteater', 'gull']
 
+def intersection(set1, set2):
+    set_intersect = []
+
+    for item in set1:
+        if item in set2:
+            set_intersect.append(item)
+    return set_intersect
+
 print(intersection(a, b)) # ['bat', 'cat', 'dog']
