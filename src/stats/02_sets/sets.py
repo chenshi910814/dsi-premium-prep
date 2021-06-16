@@ -102,5 +102,9 @@ def difference(set1, set2):
             set_difference.append(item)
     return set_difference
 
-print(difference(a, b))
+# print(difference(a, b))
 
+
+
+sample_space = union_mult_sets(a, b, c)
+print(sample_space)
