@@ -144,4 +144,5 @@ for outcome in sample_space:
         B.append(outcome)
 # print(B)
 
-print(union(A, B))
+print(len(sample_space))
+print(len(union(A, B)))
