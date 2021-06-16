@@ -1,4 +1,13 @@
 # list/set trick 
 lst = ['skiing', 'shuffleball', 'swimming', 'swimming', 'golf']
 
-print(list(set(lst)))
+# print(list(set(lst)))
+
+
+def dedupe_in_order(lst):
+    deduped = []
+
+    for element in lst:
+        if element not in deduped:
+            deduped.append(element)
+    return deduped
