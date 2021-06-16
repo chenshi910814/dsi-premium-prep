@@ -106,5 +106,5 @@ def difference(set1, set2):
 
 
 
-sample_space = union_mult_sets(a, b, c)
+sample_space = union_mult_sets(a, b, c, ['elephant', 'hippo', 'nutria'])
 print(sample_space)
