@@ -30,4 +30,21 @@ def series_of_flips(n):
     return flips
 
 
-print(series_of_flips(n=12))
+# print(series_of_flips(n=12))
+
+def four_flip_sample_space():
+    flips = ['H', 'T']
+    outcomes = []
+
+    for flip1 in flips:
+        for flip2 in flips:
+            for flip3 in flips:
+                for flip4 in flips:
+                    outcomes.append([flip1, flip2, flip3, flip4, ])
+
+    return outcomes
+
+outcomes = four_flip_sample_space()
+
+for outcome in outcomes:
+    print(outcome)
