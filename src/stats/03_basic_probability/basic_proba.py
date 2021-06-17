@@ -14,3 +14,5 @@ two_or_more_cats = []
 for pet_outcome in pet_outcomes:
     if pet_outcome.count('cat') >= 2:
         two_or_more_cats.append(pet_outcome)
+
+print(len(two_or_more_cats) / len(pet_outcomes))
