@@ -19,4 +19,4 @@ def permutations(n, k):
 
 
 
-print(permutations(1000, 1000))
+print(permutations(500, 100))
