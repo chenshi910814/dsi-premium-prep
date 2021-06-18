@@ -235,6 +235,8 @@ def combs_from_itertools(lst, k):
         indices[i] += 1
         for j in range(i+1, k):
             indices[j] = indices[j-1] + 1
+        print(tuple(lst_frozen[i] for i in indices))
+        break
         yield tuple(lst_frozen[i] for i in indices)
         
 
