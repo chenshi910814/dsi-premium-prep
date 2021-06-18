@@ -222,6 +222,7 @@ def combs_from_itertools(lst, k):
     if k > n: return
 
     indices = list(range(k))
+    print(tuple(lst_frozen[i] for i in indices))
     yield tuple(lst_frozen[i] for i in indices)
 
     while True:
