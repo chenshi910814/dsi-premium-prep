@@ -55,3 +55,14 @@ for an_list in animals_counting:
 
 # for an_list in animal_perms:
 #     print(an_list)
+
+
+
+''' Heaps Algorithm '''
+
+def swap(lst, idx_1, idx_2):
+    lst_ = lst.copy()
+    temp = lst_[idx_2]
+    lst_[idx_2] = lst_[idx_1]
+    lst_[idx_1] = temp
+    return lst_
