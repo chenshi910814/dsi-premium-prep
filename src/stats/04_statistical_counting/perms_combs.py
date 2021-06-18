@@ -24,4 +24,6 @@ def permutations(n, k):
         perm *= i
     return perm
 
-print(permutations(850, 100))
+# print(permutations(850, 100))
+
+
