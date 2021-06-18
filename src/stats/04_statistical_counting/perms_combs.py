@@ -136,7 +136,7 @@ Out of 11 basketball players, we can have teams
 of 5. How many teams of 5 are possible?
 '''
 
-num_combs = combinations(11, 5)
+
 
 def basketball_combs():
     eleven_nums = range(1, 11+1)
@@ -169,5 +169,11 @@ def basketball_combs():
 
     return combs
 
+num_combs = combinations(11, 5)
+basketball_combs = basketball_combs()
 
-basketball_perms = basketball_combs()
+for comb in basketball_combs:
+    print(comb)
+
+print(len(basketball_combs))
+print(num_combs)
