@@ -119,12 +119,12 @@ five_perms = heaps_non_recursive(base_5, 5)
 def combinations(n, k):
     return int(factorial(n) / (factorial(n-k)*factorial(k)))
 
-# print(combinations(850, 100))
+print(combinations(21, 5))
 
 def combinations(n, k):
     perm = 1
     for i in range(n, n-k, -1):
         perm *= i
-    return perm
+    return int(perm / factorial(k))
 
-# print(combinations(850, 100))
+print(combinations(21, 5))
