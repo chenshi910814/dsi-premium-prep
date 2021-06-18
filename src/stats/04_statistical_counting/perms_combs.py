@@ -225,6 +225,7 @@ def combs_from_itertools(lst, k):
     yield tuple(lst_frozen[i] for i in indices)
 
     while True:
+        print(indices)
         for i in reversed(range(k)):
             if indices[i] != i + n - k:
                 break
@@ -239,7 +240,7 @@ def combs_from_itertools(lst, k):
 bask_nums = list(range(1, 21+1))
 counter = 0
 for team in combs_from_itertools(bask_nums, 5):
-    print(team)
+    # print(team)
     counter += 1
 
 print(counter)
