@@ -6,3 +6,7 @@ def factorial(n):
     return prod
 
 # print(factorial(5))
+
+
+print(factorial(10))
+
