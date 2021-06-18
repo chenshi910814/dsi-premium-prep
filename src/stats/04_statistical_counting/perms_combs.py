@@ -38,5 +38,20 @@ for an1 in base_5:
                 for an5 in base_5:
                     animals_counting.append([an1, an2, an3, an4, an5])
 
-for an in animals_counting:
-    print(an)
+# for an in animals_counting:
+#     print(an)
+
+animal_perms = []
+
+for an_list in animals_counting:
+    perm = True
+
+    for an in an_list:
+        if an_list.count(an) > 1:
+            perm = False
+            break
+    if perm:
+        animals_perms.append(an_list)
+
+for an_list in animal_perms:
+    print(an_list)
