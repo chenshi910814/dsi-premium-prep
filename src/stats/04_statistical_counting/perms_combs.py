@@ -225,6 +225,8 @@ def combs_from_itertools(lst, k):
     print(tuple(lst_frozen[i] for i in indices))
     yield tuple(lst_frozen[i] for i in indices)
 
+
+    counter = 1
     while True:
         # print(indices)
         for i in reversed(range(k)):
@@ -236,8 +238,10 @@ def combs_from_itertools(lst, k):
         for j in range(i+1, k):
             indices[j] = indices[j-1] + 1
         print(tuple(lst_frozen[i] for i in indices))
-        break
         yield tuple(lst_frozen[i] for i in indices)
+        counter += 1
+
+        if counter > 5: break
         
 
 bask_nums = list(range(1, 21+1))
