@@ -235,3 +235,12 @@ def combs_from_itertools(lst, k):
             indices[j] = indices[j-1] + 1
         yield tuple(lst_frozen[i] for i in indices)
         
+
+bask_nums = list(range(1, 11+1))
+counter = 0
+for team in combs_from_itertools(bask_nums, 5):
+    print(team)
+    counter += 1
+
+print(counter)
+print(combinations(21, 5))
