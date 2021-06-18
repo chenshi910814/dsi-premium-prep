@@ -244,12 +244,12 @@ def combs_from_itertools(lst, k):
         
 
 bask_nums = list(range(1, 21+1))
-# counter = 0
-# for team in combs_from_itertools(bask_nums, 5):
-#     # print(team)
-#     counter += 1
+counter = 0
+for team in combs_from_itertools(bask_nums, 5):
+    # print(team)
+    counter += 1
 
-print(combs_from_itertools(bask_nums, 5))
+# print(combs_from_itertools(bask_nums, 5))
 
 # print(counter)
 # print(combinations(21, 5))
