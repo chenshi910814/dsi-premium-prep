@@ -130,3 +130,34 @@ def combinations(n, k):
 # print(combinations(21, 5))
 
 
+# an expensive counting approach
+'''
+Out of 11 basketball players, we can have teams
+of 5. How many teams of 5 are possible?
+'''
+
+num_combs = combinations(11, 5)
+
+def basketball_combs():
+    eleven_nums = range(1, 11+1)
+
+    possible_five = []
+
+    for i in eleven_nums:
+        for j in eleven_nums:
+            for k in eleven_nums:
+                for l in eleven_nums:
+                    for m in eleven_nums:
+                        possible_five.append([i,j,k,l,m])
+
+    perms = []
+
+    for five in possible_five:
+        if len(list(set(five))) == 5:
+            perms.append(five)
+
+    for five in perms:
+        print(five)
+
+
+basketball_perms = basketball_combs()
