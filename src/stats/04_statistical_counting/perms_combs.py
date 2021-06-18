@@ -104,3 +104,13 @@ def heaps_non_recursive(lst, k):
             i += 1
     return perms
 
+base_5 = ['ant', 'bat', 'crawdad', 'eagle', 'falcon']
+
+
+five_perms = heaps_non_recursive(base_5, 5)
+
+for five in five_perms:
+    print(five)
+
+print(len(five_perms))
+print(permutations(5, 5))
