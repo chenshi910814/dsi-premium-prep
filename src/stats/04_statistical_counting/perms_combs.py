@@ -225,7 +225,7 @@ def combs_from_itertools(lst, k):
     yield tuple(lst_frozen[i] for i in indices)
 
     while True:
-        print(indices)
+        # print(indices)
         for i in reversed(range(k)):
             if indices[i] != i + n - k:
                 break
@@ -243,5 +243,7 @@ for team in combs_from_itertools(bask_nums, 5):
     # print(team)
     counter += 1
 
-print(counter)
-print(combinations(21, 5))
+# print(counter)
+# print(combinations(21, 5))
+
+print(reversed(list(range(10))))
