@@ -27,3 +27,16 @@ def permutations(n, k):
 # print(permutations(850, 100))
 
 
+base_5 = ['ant', 'bat', 'crawdad', 'eagle', 'falcon']
+
+animals_counting = []
+
+for an1 in base_5:
+    for an2 in base_5:
+        for an3 in base_5:
+            for an4 in base_5:
+                for an5 in base_5:
+                    animals_counting.append([an1, an2, an3, an4, an5])
+
+for an in animals_counting:
+    print(an)
