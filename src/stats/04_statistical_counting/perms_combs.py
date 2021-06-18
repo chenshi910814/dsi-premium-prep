@@ -247,4 +247,4 @@ for team in combs_from_itertools(bask_nums, 5):
 # print(counter)
 # print(combinations(21, 5))
 
-print(list(reversed(list(range(10)))))
+# print(list(reversed(list(range(10)))))
