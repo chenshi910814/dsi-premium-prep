@@ -18,3 +18,10 @@ def permutations(n, k):
 
 # print(permutations(850, 100))
 
+def permutations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= i
+    return perm
+
+print(permutations(850, 100))
