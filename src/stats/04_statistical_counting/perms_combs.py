@@ -51,7 +51,7 @@ for an_list in animals_counting:
             perm = False
             break
     if perm:
-        animals_perms.append(an_list)
+        animal_perms.append(an_list)
 
 for an_list in animal_perms:
     print(an_list)
