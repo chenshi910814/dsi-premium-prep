@@ -16,5 +16,5 @@ def factorial(n):
 def permutations(n, k):
     return int(factorial(n) / factorial(n-k))
 
-print(permutations(850, 100))
+# print(permutations(850, 100))
 
