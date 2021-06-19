@@ -360,7 +360,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 15]()
+**Recording**: [Lecture 15](https://youtu.be/OIedGYz0gpc)
 
 ---------------------------------------------------------
 ### Day 16: Tuesday June 15 (6pm - 8pm Pacific)
@@ -431,7 +431,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 19]()
+**Recording**: [Lecture 19](https://youtu.be/-PCq4lDuLMU)
 
 ---------------------------------------------------------
 ### Day 20: Monday June 21 (6pm - 8pm Pacific)
