@@ -64,3 +64,6 @@ for _ in range(100000):
     else:
         outcomes[attending] += 1
 
+for k, v in sorted(outcomes.items()):
+    print(f'{k}: {v}')
+
