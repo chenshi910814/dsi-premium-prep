@@ -82,3 +82,10 @@ from math import pi
 
 def spherical_volume(r):
     return (4/3) * pi * r**3
+
+
+def gumball_capacity():
+    d = dict()
+
+    for r in range(4, 100+1):
+        d[r] = round(spherical_volume(r) / spherical_volume(1))
