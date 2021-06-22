@@ -23,7 +23,17 @@ for roll in rolls:
         for flip in coin_flips:
             S.append([roll, card, flip])
 
-for outcome in S:
-    print(outcome)
+# for outcome in S:
+#     print(outcome)
     
-print(len(S))
+# print(len(S))
+
+hits = []
+range_to_hit = 18
+
+for outcome in S:
+    if outcome[0] >= range_to_hit and outcome[2].count('H') == 2:
+        print(outcome)
+        hits.append(outcome)
+    
+print(f'proba: {round(len(hits) / len(S), 3)}')
