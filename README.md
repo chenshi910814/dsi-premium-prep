@@ -453,7 +453,7 @@
 * Review the code and materials regarding the Binomial Distribution in the stats folder
 
 
-**Recording**: [(to be posted) Lecture 20]()
+**Recording**: [Lecture 20](https://youtu.be/Z3rEBFaM-PQ)
 
 ---------------------------------------------------------
 ### Day 21: Tuesday June 22 (6pm - 8pm Pacific)
