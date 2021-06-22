@@ -23,4 +23,7 @@ for roll in rolls:
         for flip in coin_flips:
             S.append([roll, card, flip])
 
-            
+for outcome in S:
+    print(outcome
+    
+print(len(S))
