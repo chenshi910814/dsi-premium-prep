@@ -70,3 +70,7 @@ for _ in range(100000):
 eighty_to_ninety = 0
 total = sum(outcomes.values())
 
+for attendees in range(80, 90+1):
+    eighty_to_ninety += outcomes[attendees]
+
+print(f'{round(eighty_to_ninety / total, 3)}')
