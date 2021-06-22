@@ -97,10 +97,9 @@ def gumball_capacity():
 
 
 def get_sphere(gumball_inventory):
-    d = gumball_capacity()
 
-    for k, v in d.items():
-        if v > gumball_inventory:
+    for k, v in gumball_capacity().items():
+        if v >= gumball_inventory:
             return k
     return "No sphere available"
 
