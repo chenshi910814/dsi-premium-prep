@@ -60,6 +60,7 @@ for _ in range(100000):
     attending = num_attendees()
 
     if attending not in outcomes:
-        outcomes[attending] = 0
-    outcomes[attending] += 1
+        outcomes[attending] = 1
+    else:
+        outcomes[attending] += 1
 
