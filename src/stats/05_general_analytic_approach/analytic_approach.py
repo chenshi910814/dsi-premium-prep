@@ -39,3 +39,17 @@ for outcome in S:
 # print(f'proba: {round(len(hits) / len(S), 3)}')
 
 
+
+
+
+from random import choice
+
+def num_attendees():
+    num_peeps = 1
+
+    for _ in range(20):
+        num_peeps += choice(range(0, 11+1))
+
+    return num_peeps
+
+print(num_attendees())
