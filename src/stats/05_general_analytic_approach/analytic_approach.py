@@ -24,6 +24,6 @@ for roll in rolls:
             S.append([roll, card, flip])
 
 for outcome in S:
-    print(outcome
+    print(outcome)
     
 print(len(S))
