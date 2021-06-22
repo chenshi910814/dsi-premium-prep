@@ -76,3 +76,9 @@ for attendees in range(80, 90+1):
 # print(f'{round(eighty_to_ninety / total, 3)}')
 
 
+
+
+from math import pi
+
+def spherical_volume(r):
+    return (4/3) * pi * r**3
