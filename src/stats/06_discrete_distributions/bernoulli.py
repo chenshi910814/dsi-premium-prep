@@ -17,3 +17,4 @@ print([bernoulli(p_success=0.1) for _ in range(trials)].count(1) / trials)
 #     lst.append(bernoulli(p_success=0.1))
 
 # print(lst.count(1) / trials)
+
