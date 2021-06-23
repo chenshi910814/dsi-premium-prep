@@ -25,4 +25,5 @@ def dec_to_bin(dec, n_bits=8):
 
     return bin_list[::-1] # list(reversed(bin_list))
 
-print(dec_to_bin(dec=43, n_bits=32))
+# print(dec_to_bin(dec=43, n_bits=32))
+
