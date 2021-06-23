@@ -58,5 +58,7 @@ d = binomial_distr(n_trials=8)
 # for k, v in d.items():
 #     print(f'{k}: {v}')
 
-for k, v in d.items():
-    print(f'{k}: {round(v / sum(d.values()), 5)}')
+# for k, v in d.items():
+#     print(f'{k}: {round(v / sum(d.values()), 5)}')
+
+
