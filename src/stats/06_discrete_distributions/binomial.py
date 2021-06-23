@@ -94,3 +94,5 @@ def generate_n_bits(n=8):
     # for _ in range(n):
     #     lst.append(choice([0,1]))
     # return lst
+
+print(generate_n_bits(n=8))
