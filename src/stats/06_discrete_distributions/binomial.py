@@ -68,4 +68,4 @@ P(n=12, k=9, p=0.5)
 '''
 d = binomial_distr(n_trials=12)
 
-print(d[9])
+print(round(d[9] / sum(d.values()), 5))
