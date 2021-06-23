@@ -95,4 +95,24 @@ def generate_n_bits(n=8):
     #     lst.append(choice([0,1]))
     # return lst
 
-print(generate_n_bits(n=8))
+# print(generate_n_bits(n=8))
+
+
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n_bits(num_bits)
+        observed_k = sum(binary)
+
+        if observed_k not in d:
+            d[observed_k] = 0
+        d[observed_k] += 1
+    return d
+
+
+''' one trial of 100 samples '''
+d1 = binary_sampling_dict(num_bits=16, num_samples=100)
+
+for k, v in sorted(d1.items()):
+    print(f'{k}: {v / sum(d1.values)}')
