@@ -68,4 +68,13 @@ P(n=12, k=9, p=0.5)
 '''
 d = binomial_distr(n_trials=12)
 
-print(round(d[9] / sum(d.values()), 5))
+# print(round(d[9] / sum(d.values()), 5))
+
+'''
+P(n=12, k <= 4, p=0.5)
+'''
+proba = 0.0
+for k in range(0, 4+1):
+    proba += d[k] / sum(d.values())
+
+print(round(proba, 5))
