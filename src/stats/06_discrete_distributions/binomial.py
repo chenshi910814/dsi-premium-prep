@@ -115,4 +115,4 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 d1 = binary_sampling_dict(num_bits=16, num_samples=100)
 
 for k, v in sorted(d1.items()):
-    print(f'{k}: {v / sum(d1.values)}')
+    print(f'{k}: {v / sum(d1.values())}')
