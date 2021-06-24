@@ -142,14 +142,16 @@ def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
 
     return d_out
 
-d = binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500)
+# d = binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500)
 
-# observe counts
-for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+# # observe counts
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
 
-print()
-# observe probas
-# observe counts
-for k, v in sorted(d.items()):
-    print(f'{k}: {round(v / sum(d.values()), 5)}')
+# print()
+# # observe probas
+# # observe counts
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {round(v / sum(d.values()), 5)}')
+
+
