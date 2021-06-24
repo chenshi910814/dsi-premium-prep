@@ -260,4 +260,6 @@ n = 12
 k = 4
 p = 0.3
 
-print(binomial_pmf(n, k, p))
+# print(binomial_pmf(n, k, p))
+
+
