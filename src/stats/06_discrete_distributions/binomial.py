@@ -124,3 +124,32 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 #     print(f'{k}: {v / sum(d2.values())}')
 
 
+''' 500 trials of 1000 Samples'''
+
+def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
+    d_out = dict()
+
+    for _ in range(num_sample_trials):
+        d = binary_sampling_dict(n_bits, num_samples)
+
+        for k, count in d.items():
+            if k not in d_out:
+                d_out[k] = []
+            d_out[k].append(count)
+
+    for k, v in d_out.items():
+        d_out[k] = sum(v) / len(v)
+
+    return d_out
+
+d = binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500)
+
+# observe counts
+for k, v in sorted(d.items()):
+    print(f'{k}: {v}')
+
+print()
+# observe probas
+# observe counts
+for k, v in sorted(d.items()):
+    print(f'{k}: {round(v / sum(d.values()), 5)}')
