@@ -215,13 +215,30 @@ def binary_sampling_clt_vary_p(n_bits=16, p=0.5, num_samples=1000, num_sample_tr
 
     return d_out
 
-d = binary_sampling_clt_vary_p(n_bits=8, p=0.3, num_samples=1000, num_sample_trials=500)
+# d = binary_sampling_clt_vary_p(n_bits=8, p=0.3, num_samples=1000, num_sample_trials=500)
 
-# observe counts
-for k, v in sorted(d.items()):
-    print(f'{k}: {v}')
+# # observe counts
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {v}')
 
-print()
-# observe probas
-for k, v in sorted(d.items()):
-    print(f'{k}: {round(v / sum(d.values()), 5)}')
+# print()
+# # observe probas
+# for k, v in sorted(d.items()):
+#     print(f'{k}: {round(v / sum(d.values()), 5)}')
+
+
+
+
+
+def factorial(n):
+    prod = 1
+    for num in range(2, n+1):
+        prod *= num
+    return prod
+
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+
+def binomial_pmf(n, k, p=0.5):
+    return combinations(n, k) * (p**k) * (1-p)**(n-k)
