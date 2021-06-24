@@ -469,7 +469,7 @@
     * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
 
 
-**Recording**: [(to be posted) Lecture 21]()
+**Recording**: [Lecture 21](https://youtu.be/7OO8IWNz6Is)
 
 
 ---------------------------------------------------------
