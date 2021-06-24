@@ -169,4 +169,30 @@ def generate_n(n=8, p=0.5):
         lst.append(bernoulli(p))
     return lst
 
-print(generate_n(n=8, p=0.1))
+# print(generate_n(n=8, p=0.1))
+
+def binary_sampling_dict_vary_p(num_bits=8, p=0.5, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        binary = generate_n(num_bits, p)
+        observed_k = sum(binary)
+
+        if observed_k not in d:
+            d[observed_k] = 0
+        d[observed_k] += 1
+    return d
+
+''' one trial of 100 samples '''
+d1 = binary_sampling_dict_vary_p(num_bits=8, p=0.3, num_samples=100)
+
+for k, v in sorted(d1.items()):
+    print(f'{k}: {v / sum(d1.values())}')
+
+print()
+
+''' one trial of 1000 samples '''
+d2 = binary_sampling_dict_vary_p(num_bits=8, p=0.3, num_samples=1000)
+
+for k, v in sorted(d2.items()):
+    print(f'{k}: {v / sum(d2.values())}')
