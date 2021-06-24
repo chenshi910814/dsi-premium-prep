@@ -284,4 +284,6 @@ The probability that a puppy at the pound is cute is 0.67. What is the probabili
 There are 8 components in parallel and functioning independent of each other. At least 3 of those components need to be operational for a given circuit to function. The probability of any given component being operational upon observation is 0.7. What is the probability that at least 3 components are operational upon observation?
 '''
 
-print(1 - binomial_cdf(8, 2, 0.7))
+# print(1 - binomial_cdf(8, 2, 0.7))
+
+
