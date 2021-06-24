@@ -242,3 +242,13 @@ def combinations(n, k):
 
 def binomial_pmf(n, k, p=0.5):
     return combinations(n, k) * (p**k) * (1-p)**(n-k)
+
+
+'''
+What is the proba of getting 7 heads in 12 coin flips?
+'''
+n = 12
+k = 7
+p = 0.5
+
+print(binomial_pmf(n, k, p))
