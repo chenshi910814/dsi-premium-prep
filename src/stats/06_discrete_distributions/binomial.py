@@ -161,3 +161,12 @@ def bernoulli(p_success=0.5):
         return 1
     else:
         return 0
+
+
+def generate_n(n=8, p=0.5):
+    lst = []
+    for _ in range(n):
+        lst.append(bernoulli(p))
+    return lst
+
+print(generate_n(n=8, p=0.1))
