@@ -251,4 +251,6 @@ n = 12
 k = 7
 p = 0.5
 
-print(binomial_pmf(n, k, p))
+# print(binomial_pmf(n, k, p))
+
+
