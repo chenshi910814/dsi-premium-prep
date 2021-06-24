@@ -154,4 +154,10 @@ def binary_sampling_clt(n_bits=16, num_samples=1000, num_sample_trials=500):
 # for k, v in sorted(d.items()):
 #     print(f'{k}: {round(v / sum(d.values()), 5)}')
 
+from random import random
 
+def bernoulli(p_success=0.5):
+    if random() < p_success:
+        return 1
+    else:
+        return 0
