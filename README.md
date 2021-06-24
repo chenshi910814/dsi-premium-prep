@@ -463,7 +463,6 @@
 **Slide Deck**:
 * [Discrete Random Variables](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/23_discrete_random_variables.md)
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
-* [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
 
 **HW assignment**:
 * Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
@@ -480,15 +479,10 @@
 
 **Slide Deck**:
 * [Poisson Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
-* [Geometric Distribution](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/29_geometric_distribution.md)
+
 
 **HW assignment**:
 * Complete the [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md) on Learn
-* Code out your own analytic approach to a phenomenon
-(mathematical, probabilistic, etc), and submit a .py file, a collab link,
-or a github link in the associated thread
-
-
 
 **Recording**: [Lecture 22](https://youtu.be/qfolp6OGAG8)
 
@@ -497,7 +491,9 @@ or a github link in the associated thread
 ---------------------------------------------------------
 ### Day 23: Thursday June 24 (6pm - 8pm Pacific)
 
-**Slide Deck**: [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
+**Slide Deck**: 
+* [Poisson Distribution (cont'd)](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/25_poisson_distribution.md)
+* [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
 
 **HW assignment**
 * Review these units on Learn
