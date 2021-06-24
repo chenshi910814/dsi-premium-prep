@@ -276,5 +276,5 @@ def binomial_cdf(n, k_high, p=0.5):
 The probability that a puppy at the pound is cute is 0.67. What is the probability that 11 or less puppies out of the next 20 you observe at the pound will be cute.
 '''
 
-print(binomial_cdf(n=20, k_high=11, p=0.67))
+# print(binomial_cdf(n=20, k_high=11, p=0.67))
 
