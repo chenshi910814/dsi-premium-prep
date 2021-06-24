@@ -10,3 +10,5 @@ def factorial(n):
 def poisson_pmf(lam, k):
     return lam**k * e**(-lam) / factorial(k)
 
+
+print(poisson_pmf(lam=10, k=12))
