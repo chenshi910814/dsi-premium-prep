@@ -117,8 +117,11 @@ d1 = binary_sampling_dict(num_bits=8, num_samples=100)
 for k, v in sorted(d1.items()):
     print(f'{k}: {v / sum(d1.values())}')
 
+print()
+
 ''' one trial of 1000 samples '''
 d2 = binary_sampling_dict(num_bits=8, num_samples=1000)
 
 for k, v in sorted(d2.items()):
     print(f'{k}: {v / sum(d2.values())}')
+
