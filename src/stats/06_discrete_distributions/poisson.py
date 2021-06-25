@@ -32,4 +32,6 @@ k = 10
 #     print()
 
 
-print(round(poisson_pmf(lam = 15 * (15/10), k=20), 4))
+# print(round(poisson_pmf(lam = 15 * (15/10), k=20), 4))
+
+
