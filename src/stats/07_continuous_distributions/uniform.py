@@ -6,4 +6,8 @@ def get_bit():
 def get_binary(n=8):
     return [get_bit() for _ in range(n)]
 
-print(get_binary())
+binary = get_binary(n=8)
+
+accum = 0.0
+
+print(binary[0] * 0.5**1 + binary[1] * 0.5**2 + binary[2] * 0.5**2 + binary[3] * 0.5**2 + binary[4] * 0.5**2 + binary[5] * 0.5**2 + binary[6] * 0.5**2 + binary[7] * 0.5**2)
