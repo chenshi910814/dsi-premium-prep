@@ -59,4 +59,4 @@ d = poisson_pmf_dict(lam=22.5, low_k=0, high_k=40)
 num_observations = 10000
 
 for k, v in d.items():
-    print(f'{k}: {v*10000}')
+    print(f'{k}: {round(v*10000)}')
