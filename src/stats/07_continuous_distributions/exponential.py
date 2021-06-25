@@ -16,3 +16,7 @@ def exponential_variance(lam):
 
 def exponential_stdev(lam):
     return sqrt(1 / lam**2)
+
+
+
+print(1 - exponential_cdf(lam=0.1, x=10))
