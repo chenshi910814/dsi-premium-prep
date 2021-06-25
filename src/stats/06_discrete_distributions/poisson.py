@@ -46,3 +46,15 @@ def poisson_cdf(lam, k_high):
 # print(1 - poisson_cdf(lam=15 * (15/10), k_high=15))
 
 
+def poisson_pmf_dict(lam, low_k, high_k):
+    d = dict()
+
+    for k in range(low_k, high_k+1):
+        d[k] = poisson_pmf(lam, k)
+    return d
+
+
+d = poisson_pmf_dict(lam=22.5, low_k=0, high_k=30)
+
+for k, v in d.items():
+    print(f'{k}: {v}')
