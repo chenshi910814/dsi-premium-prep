@@ -56,5 +56,7 @@ def poisson_pmf_dict(lam, low_k, high_k):
 
 d = poisson_pmf_dict(lam=22.5, low_k=0, high_k=40)
 
+num_observations = 10000
+
 for k, v in d.items():
-    print(f'{k}: {v}')
+    print(f'{k}: {v*10000}')
