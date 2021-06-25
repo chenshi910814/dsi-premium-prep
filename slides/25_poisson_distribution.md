@@ -181,7 +181,7 @@ We can think of $e$ as a constant utilized in the Poisson PMF to describe a rate
 Cars passing by an intersection at a certain time of day/year,  for the duration of a fixed amount of time, will likely follow a Poisson distribution
 
 **Question:**
-A given intersection will have, on avg, 15 cars pass through in 10 mintues. What is the probability that 20 cars pass through in 15 minutes?
+A given intersection will have, on avg, 15 cars pass through in 10 minutes. What is the probability that 20 cars pass through in 15 minutes?
 
 
 <br><br><br><br><br><br><br><br><br><br>
