@@ -502,7 +502,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 23]()
+**Recording**: [Lecture 23](https://youtu.be/4Ti8kt3r1cs)
 
 
 
