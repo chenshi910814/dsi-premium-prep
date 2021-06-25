@@ -512,7 +512,9 @@
 
 **Instructor**: Tovio Roberts
 
-**Slide Deck**: [Bayes Theorem](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/30_conditional_probability_bayes.md)
+**Slide Deck**: 
+* [Continuous Distributions](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/31_continuous_distributions.md)
+* [Bayes Theorem](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/30_conditional_probability_bayes.md)
 
 **HW assignment**:
 * Complete these units on Learn
