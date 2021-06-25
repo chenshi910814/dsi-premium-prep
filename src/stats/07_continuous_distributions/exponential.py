@@ -19,4 +19,6 @@ def exponential_stdev(lam):
 
 
 
-print(1 - exponential_cdf(lam=0.1, x=10))
+print(1 - exponential_cdf(lam=0.1, x=10)) # 0.368
+
+print(exponential_mean(lam=5))
