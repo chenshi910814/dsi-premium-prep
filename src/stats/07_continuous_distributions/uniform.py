@@ -6,7 +6,7 @@ def get_bit():
 def get_binary(n=8):
     return [get_bit() for _ in range(n)]
 
-binary = get_binary(n=8)
+binary = [1,1,1,1,1,1,1,1]#get_binary(n=8)
 
 accum = 0.0
 
