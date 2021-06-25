@@ -42,5 +42,7 @@ def poisson_cdf(lam, k_high):
         cdf += poisson_pmf(lam, k)
     return cdf
 
-print(15 * (15/10))
-print(1 - poisson_cdf(lam=15 * (15/10), k_high=15))
+# print(15 * (15/10))
+# print(1 - poisson_cdf(lam=15 * (15/10), k_high=15))
+
+
