@@ -522,7 +522,7 @@
     * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
 
-**Recording**: [(to be posted) Lecture 24]()
+**Recording**: [Lecture 24](https://youtu.be/dUZOMKUhwpI)
 
 ---------------------------------------------------------
 ### Day 25: Monday June 28 (6pm - 8pm Pacific)
