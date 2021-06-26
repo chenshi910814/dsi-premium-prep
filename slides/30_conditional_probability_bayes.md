@@ -371,7 +371,7 @@ $P(Pos|\text{not }D)=0.02$
 ##### 3. Compute the Total Probability
 
 $$
-P(\text{Pos}) &= P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})}
+P(\text{Pos}) = P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})
 $$
 
 $$
