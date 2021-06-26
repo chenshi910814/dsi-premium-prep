@@ -370,11 +370,16 @@ $P(Pos|\text{not }D)=0.02$
 
 ##### 3. Compute the Total Probability
 
-$$\begin{aligned}
-P(\text{Pos}) &= P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})} \\
-&= \frac{0.99 \cdot 0.001}{0.99 \cdot 0.001 + 0.02 \cdot 0.999} \\
+$$
+P(\text{Pos}) &= P(\text{Pos}|D) \cdot P(D) + P(\text{Pos}|\text{not D}) \cdot P(\text{not D})}
+$$
+
+$$
+= \frac{0.99 \cdot 0.001}{0.99 \cdot 0.001 + 0.02 \cdot 0.999} 
+$$
+
+$$
 &= 0.02097
-\end{aligned}
 $$
 
 ##### 4. Plug in and compute
