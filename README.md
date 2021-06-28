@@ -542,5 +542,5 @@
 
 
 ---------------------------------------------------------
-### [Post-Premium Prep Survey]()
+### [Post-Premium Prep Survey](https://docs.google.com/forms/d/e/1FAIpQLSdbHgRGyzOPCQCArv8hVHnapTJYJlOeesUj5yT9KzufBZy5Yg/viewform)
 * Please complete this survey. We will use it to iterate on this course.
