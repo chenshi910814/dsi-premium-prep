@@ -219,6 +219,18 @@ def factorial(num):
     return prod
 ```
 
+#### recursive factorial
+
+```python
+# Factorial of a number using recursion
+
+def factorial_recursive(n):
+   if n == 1:
+       return n
+   else:
+       return n * factorial_recursive(n-1)
+```
+
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
