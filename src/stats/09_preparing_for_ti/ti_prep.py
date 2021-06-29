@@ -86,7 +86,7 @@ def list_of_bits(n_bits):
     bit_list = []
     for _ in range(n_bits):
         bit_list.append([0,1])
-    return bit_lst
+    return bit_list
 
 def list_of_bits(n_bits):
     return [choice([0,1]) for _ in range(n_bits)]
