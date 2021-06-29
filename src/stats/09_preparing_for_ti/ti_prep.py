@@ -21,4 +21,4 @@ def variance(lst, sample=True):
 
     return total / (len(lst) - sample)
 
-print(variance(a))
+print(variance(a)**(1/2))
