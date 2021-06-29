@@ -46,5 +46,6 @@ def combinations(n, k):
     return int(factorial(n) / (factorial(n-k) * factorial(k)))
 
 
-print(permutations(5,5))
-print(combinations(5,3))
+# print(permutations(5,5))
+# print(combinations(5,3))
+
