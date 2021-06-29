@@ -37,7 +37,7 @@ def factorial_recursive(n):
         return n * factorial_recursive(n-1)
 
 
-print(factorial_recursive(9))
+# print(factorial_recursive(9))
 
 def permutations(n, k):
     return int(factorial(n) / factorial(n-k))
@@ -71,4 +71,6 @@ def get_list(n=8):
 
 lst = get_list()
 # print(proc_list(lst), lst)
+
+
 
