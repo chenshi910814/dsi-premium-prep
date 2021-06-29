@@ -64,4 +64,5 @@ def get_list(n=8):
     return out
 
 lst = get_list()
-print(proc_list(lst), lst)
+# print(proc_list(lst), lst)
+
