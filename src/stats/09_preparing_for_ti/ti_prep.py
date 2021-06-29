@@ -1,4 +1,4 @@
-
+from random import choice
 
 def mean(lst, trim=0):
     lst_ = lst.copy()
@@ -57,5 +57,11 @@ def proc_list(lst):
     return sum_
 
 
-a = [2, 4, 6, 8, 10, 12]
+def get_list(n=8):
+    out = []
+    fours = [0,1,2,3]
+    for _ in range(n):
+        out.append(choice(fours))
+    return fours
+
 print(proc_list(a))
