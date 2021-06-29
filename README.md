@@ -77,7 +77,7 @@
 
 ---------------------------------------------------------
 
-### Day 2: Tuesday May 25 (6pm - 8pm Pacific)
+### Day 2: Wednesday July 7 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
@@ -93,7 +93,7 @@
 **Recording**: [Lecture 2](https://youtu.be/4eo6Cki6L44)
 
 ---------------------------------------------------------
-### Day 3: Wednesday May 26 (6pm - 8pm Pacific)
+### Day 3: Thursday July 8 (6pm - 8pm Pacific)
 
 **Instructor**: Clark Walker
 
