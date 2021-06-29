@@ -30,8 +30,15 @@ def factorial(n):
         prod *= num
     return prod
 
+def factorial_recursive(n):
+    if n == 1:
+        return n
+    else:
+        print(n)
+        return n * factorial_recursive(n-1)
 
-# print(factorial(5))
+
+print(factorial_recursive(9))
 
 def permutations(n, k):
     return int(factorial(n) / factorial(n-k))
