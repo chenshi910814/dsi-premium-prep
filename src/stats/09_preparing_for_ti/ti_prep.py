@@ -31,4 +31,20 @@ def factorial(n):
     return prod
 
 
-print(factorial(5))
+# print(factorial(5))
+
+def permutations(n, k):
+    return int(factorial(n) / factorial(n-k))
+
+def permutations(n, k):
+    perm = 1
+    for i in range(n, n-k, -1):
+        perm *= 1
+    return perm
+
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+
+print(permutations(5,5))
+print(combinations(5,5))
