@@ -1,4 +1,4 @@
-from random import choice
+from random import choice, random
 
 def mean(lst, trim=0):
     lst_ = lst.copy()
@@ -72,5 +72,14 @@ def get_list(n=8):
 lst = get_list()
 # print(proc_list(lst), lst)
 
+
+def bernoulli(p_success=0.5):
+    draw = random()
+    if draw < p_success:
+        return 1
+    else:
+        return 0
+
+print(bernoulli(0.3))
 
 
