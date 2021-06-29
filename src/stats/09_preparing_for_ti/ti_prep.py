@@ -8,3 +8,5 @@ def mean(lst, trim=0):
     return sum(lst_) / len(lst_)
 
 a = [1, 5, 7, 10, 15, 23, 35, 67, 220, 2000]
+
+print(mean(a, trim=2))
