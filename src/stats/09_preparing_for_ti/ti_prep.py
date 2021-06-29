@@ -56,7 +56,6 @@ def proc_list(lst):
         sum_ += num * (1/4)**idx
     return sum_
 
-
 def get_list(n=8):
     out = []
     fours = [0,1,2,3]
@@ -64,4 +63,5 @@ def get_list(n=8):
         out.append(choice(fours))
     return fours
 
-print(proc_list(a))
+lst = get_list()
+print(proc_list(lst), lst)
