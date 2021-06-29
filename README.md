@@ -117,7 +117,7 @@
 
 
 ---------------------------------------------------------
-### Day 4: Thursday May 27 (6pm - 8pm Pacific)
+### Day 4: Saturday July 10 (11am - 1pm Pacific)
 
 **Instructor**: Clark Walker
 
