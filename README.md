@@ -48,7 +48,7 @@
 
 ---------------------------------------------------------
 
-### Day 1: Monday May 24 (6pm - 8pm Pacific)
+### Day 1: Tuesday July 6 (6pm - 8pm Pacific)
 
 **Instructor**: Tovio, Clark
 
