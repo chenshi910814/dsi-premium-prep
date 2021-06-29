@@ -49,3 +49,13 @@ def combinations(n, k):
 # print(permutations(5,5))
 # print(combinations(5,3))
 
+
+def proc_list(lst):
+    sum_ = 0.0
+    for idx, num in enumerate(lst, 1):
+        sum_ += num * (1/4)**idx
+    return sum_
+
+
+a = [2, 4, 6, 8, 10, 12]
+print(proc_list(a))
