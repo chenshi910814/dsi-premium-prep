@@ -2,7 +2,7 @@
 ## July 6th, 2021 - August 7th, 2021
 
 
-### NOTE: Due to Memorial Day, we will hold our final class for this cohort on Monday, June 28
+### NOTE: The first day of class is Tuesday, July 6th
 
 ### Important Links
 [Zoom Link](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
