@@ -115,4 +115,18 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 def poisson_pmf(lam, k):
     return lam**k  * e**(-lam) / factorial(k)
 
-print(poisson_pmf(lam=10, k=10))
+# print(poisson_pmf(lam=10, k=10))
+
+
+
+def poisson_pmf_dict(lam, low_k, high_k):
+    d = dict()
+
+    for k in range(low_k, high_k+1):
+        d[k] = poisson_pmf(lam, k)
+    return d
+
+d = poisson_pmf_dict(lam=10, low_k=0, high_k=20)
+
+for k, v in d.items():
+    print(f'{k}: {round(v, 6)}')
