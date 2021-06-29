@@ -136,7 +136,7 @@
 **Recording**: [Lecture 4](https://youtu.be/_GVE5vJ6YlM)
 
 ---------------------------------------------------------
-### Day 5: Saturday May 29 (11am-1pm Pacific)
+### Day 5: Monday July 12 (6pm-8pm Pacific)
 
 **Instructor**: Clark Walker
 
