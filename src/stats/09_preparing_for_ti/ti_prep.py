@@ -106,5 +106,7 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
     return d
 
 
-for k, count in sorted(binary_sampling_dict().items()):
-    print(f'{k}: {count}')
+# for k, count in sorted(binary_sampling_dict().items()):
+#     print(f'{k}: {count}')
+
+
