@@ -537,7 +537,7 @@
 
 
 
-**Recording**: [(to be posted) Lecture 25]()
+**Recording**: [Lecture 25](https://youtu.be/YoOr6SwN11Y)
 
 
 
