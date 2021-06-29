@@ -16,8 +16,8 @@ def variance(lst, sample=True):
     mean_ = mean(lst)
     total = 0.0
 
-    for item in lst:
-        total += (item - mean_)**2
+    for i in range(0, len(lst)):
+        total += (lst[i] - mean_)**2
 
     return total / (len(lst) - sample)
 
@@ -91,4 +91,6 @@ def list_of_bits(n_bits):
 def list_of_bits(n_bits):
     return [choice([0,1]) for _ in range(n_bits)]
 
-print(list_of_bits(4))
+# print(list_of_bits(4))
+
+
