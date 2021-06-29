@@ -61,7 +61,7 @@ def get_list(n=8):
     fours = [0,1,2,3]
     for _ in range(n):
         out.append(choice(fours))
-    return fours
+    return out
 
 lst = get_list()
 print(proc_list(lst), lst)
