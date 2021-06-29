@@ -72,7 +72,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 1](https://youtu.be/UsE_B4-4sjE)
+**Recording**: [(to be added) Lecture 1]()
 
 
 ---------------------------------------------------------
@@ -90,7 +90,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 2](https://youtu.be/4eo6Cki6L44)
+**Recording**: [(to be added) Lecture 2]()
 
 ---------------------------------------------------------
 ### Day 3: Thursday July 8 (6pm - 8pm Pacific)
@@ -113,7 +113,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 3](https://youtu.be/MnzV-la09MY)
+**Recording**: [(to be added) Lecture 3]()
 
 
 ---------------------------------------------------------
@@ -133,7 +133,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 4](https://youtu.be/_GVE5vJ6YlM)
+**Recording**: [(to be added) Lecture 4]()
 
 ---------------------------------------------------------
 ### Day 5: Monday July 12 (6pm-8pm Pacific)
@@ -154,7 +154,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 5](https://youtu.be/TlrJCZ0d61g)
+**Recording**: [(to be added) Lecture 5]()
 
 ---------------------------------------------------------
 ### [Week 1 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
@@ -177,7 +177,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 6](https://youtu.be/QV9AqIRa1c4)
+**Recording**: [(to be added) Lecture 6]()
 
 ---------------------------------------------------------
 ### Day 7: Wednesday July 14 (6pm - 8pm Pacific)
@@ -199,7 +199,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 7](https://youtu.be/fgeTlym-osg)
+**Recording**: [(to be added) Lecture 7]()
 
 
 ---------------------------------------------------------
@@ -223,7 +223,7 @@
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 
-**Recording**: [(to be added) Lecture 8](https://youtu.be/DyerN7A72VI)
+**Recording**: [(to be added) Lecture 8]()
 
 ---------------------------------------------------------
 ### Day 9: Saturday July 17 (11am-1pm Pacific)
@@ -238,7 +238,7 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**Recording**: [(to be added) Lecture 9](https://youtu.be/ivg0auTWErE)
+**Recording**: [(to be added) Lecture 9]()
 
 ---------------------------------------------------------
 ### Day 10: Monday July 19 (6pm - 8pm Pacific)
@@ -249,7 +249,7 @@
 * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 * [While Loops](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/08_while_loops.md)
 
-**Recording**: [(to be added) Lecture 10](https://youtu.be/5IzsUSY3KTY)
+**Recording**: [(to be added) Lecture 10]()
 
 ---------------------------------------------------------
 ### Day 11: Tuesday July 20 (6pm - 8pm Pacific)
@@ -271,7 +271,7 @@
 **HW assignment**: N/A
 
 
-**Recording**: [(to be added) Lecture 11](https://youtu.be/SURdHANS1aA)
+**Recording**: [(to be added) Lecture 11]()
 
 ---------------------------------------------------------
 
@@ -287,7 +287,7 @@
 **HW assignment**: N/A
 
 
-**Recording**: [(to be added) Lecture 12](https://youtu.be/7KWeZbSRwoE)
+**Recording**: [(to be added) Lecture 12]()
 
 
 ---------------------------------------------------------
@@ -311,7 +311,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 13](https://youtu.be/36ef4eBqskw)
+**Recording**: [(to be added) Lecture 13]()
 
 ---------------------------------------------------------
 ### Day 14: Saturday July 24 (11am-1pm Pacific)
@@ -334,7 +334,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 14](https://youtu.be/lATMXVwFZyk)
+**Recording**: [(to be added) Lecture 14]()
 
 
 ---------------------------------------------------------
@@ -360,7 +360,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 15](https://youtu.be/OIedGYz0gpc)
+**Recording**: [(to be added) Lecture 15]()
 
 ---------------------------------------------------------
 ### Day 16: Tuesday July 27 (6pm - 8pm Pacific)
@@ -375,7 +375,7 @@
 * Review and work on Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
-**Recording**: [(to be added) Lecture 16](https://youtu.be/wDiBD6C_V9o)
+**Recording**: [(to be added) Lecture 16]()
 
 
 
@@ -394,7 +394,7 @@
 * Continue review and completion of Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
-**Recording**: [(to be added) Lecture 16](https://youtu.be/GqjzlniTeQM)
+**Recording**: [(to be added) Lecture 16]()
 
 
 
@@ -413,7 +413,7 @@
 * Complete materials on Learn for Statistical Counting
 
 
-**Recording**: [(to be added) Lecture 18](https://youtu.be/bl97TFCqcDE)
+**Recording**: [(to be added) Lecture 18]()
 
 
 ---------------------------------------------------------
@@ -431,7 +431,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 19](https://youtu.be/-PCq4lDuLMU)
+**Recording**: [(to be added) Lecture 19]()
 
 ---------------------------------------------------------
 ### Day 20: Monday August 2 (6pm - 8pm Pacific)
@@ -453,7 +453,7 @@
 * Review the code and materials regarding the Binomial Distribution in the stats folder
 
 
-**Recording**: [(to be added) Lecture 20](https://youtu.be/Z3rEBFaM-PQ)
+**Recording**: [(to be added) Lecture 20]()
 
 ---------------------------------------------------------
 ### Day 21: Tuesday August 3 (6pm - 8pm Pacific)
@@ -469,7 +469,7 @@
     * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
 
 
-**Recording**: [(to be added) Lecture 21](https://youtu.be/7OO8IWNz6Is)
+**Recording**: [(to be added) Lecture 21]()
 
 
 ---------------------------------------------------------
@@ -484,7 +484,7 @@
 **HW assignment**:
 * Complete the [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md) on Learn
 
-**Recording**: [(to be added) Lecture 22](https://youtu.be/qfolp6OGAG8)
+**Recording**: [(to be added) Lecture 22]()
 
 
 
@@ -502,7 +502,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 23](https://youtu.be/4Ti8kt3r1cs)
+**Recording**: [(to be added) Lecture 23]()
 
 
 
