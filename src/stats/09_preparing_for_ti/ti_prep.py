@@ -1,4 +1,5 @@
 from random import choice, random
+from math import e
 
 def mean(lst, trim=0):
     lst_ = lst.copy()
@@ -110,3 +111,8 @@ def binary_sampling_dict(num_bits=8, num_samples=1000):
 #     print(f'{k}: {count}')
 
 
+
+def poisson_pmf(lam, k):
+    return lam**k  * e**(-lam) / factorial(k)
+
+print(poisson_pmf(lam=10, k=10))
