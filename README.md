@@ -13,7 +13,7 @@
 
 [Premium Prep Recordings](https://www.youtube.com/playlist?list=PL5T50pwCrPUoUeTNj_hsHXK8-1z1ZPS2g)
 
-[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2508)
+[Our Learn Cohort](https://learn-2.galvanize.com/cohorts/2509)
 
 [Premium Prep Transfer Request](https://docs.google.com/forms/d/e/1FAIpQLSfrojOIirbsmhexwjoIG5rzc4f1tFWwACxXE_BSPskwXFLkZA/viewform)
 * Use this form to request transfer into an upcoming round of Premium Prep. This is an option for all Premium Prep students.
