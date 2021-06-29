@@ -94,3 +94,17 @@ def list_of_bits(n_bits):
 # print(list_of_bits(4))
 
 
+def binary_sampling_dict(num_bits=8, num_samples=1000):
+    d = dict()
+
+    for _ in range(num_samples):
+        bit_sum = sum(list_of_bits(num_bits))
+        if bit_sum not in d:
+            d[bit_sum] = 0
+        d[bit_sum] += 1
+    
+    return d
+
+
+for k, count in sorted(binary_sampling_dict().items()):
+    print(f'{k}: {count}')
