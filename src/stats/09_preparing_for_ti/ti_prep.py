@@ -141,7 +141,7 @@ def poisson_cdf_dict(lam, low_k, high_k):
         d[k] = proba
     return d
 
-d = poisson_pmf_dict(lam=10, low_k=0, high_k=20)
+d = poisson_cdf_dict(lam=10, low_k=0, high_k=20)
 
 for k, v in d.items():
     print(f'{k}: {round(v, 6)}')
