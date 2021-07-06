@@ -199,7 +199,7 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 
 ----------------------------------------------------------------
 # Deferring
-* If you’re falling behind or struggling, you may defer to the next or another future Premium Prep cohort.
+* If you’re falling behind, struggling, or experiencing any other issues, you may defer to the next or another future Premium Prep cohort.
 
 
 
