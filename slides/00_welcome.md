@@ -32,7 +32,7 @@
         * Remi Arata | remi.arata@galvanize.com
         * Devon DeJohn | devon.dejohn@galvanize.com
         * Clark Walker | clark.walker@galvanize.com
-        * David Coleman (team admin) | david.coleman@galvanize.com
+        * Jess Bahl (team admin) | jessica.bahl@galvanize.com
 
 
 <br><br><br><br><br><br><br><br><br>
